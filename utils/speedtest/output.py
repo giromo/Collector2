@@ -2,7 +2,7 @@ import json
 import base64
 import os
 import time
-from datetime import datetime  
+from datetime import datetime
 
 out_json = './utils/speedtest/out.json'
 sub_all_base64 = "./sub/sub_merge_base64.txt"
@@ -48,9 +48,9 @@ def output(list, num):
     for i, item in enumerate(list):
         link = item["link"].split("#")[0]
         if i == 0:
-            config_string = f"#🌐 به روزرسانی شده در {final_string} | هر 2 ساعت کانفیک جدید داریم"
+            config_string = f"#馃寪 亘賴 乇賵夭乇爻丕賳蹖 卮丿賴 丿乇 {final_string} | 賴乇 2 爻丕毓鬲 讴丕賳賮蹖讴 噩丿蹖丿 丿丕乇蹖賲"
         else:
-            config_string = f"#🌐سرور {i} | {final_others_string} | MTSRVRS"
+            config_string = f"#馃寪爻乇賵乇 {i} | {final_others_string} | MTSRVRS"
         modified_link = link + config_string
         modified_output_list.append(modified_link)
 
@@ -64,6 +64,9 @@ def output(list, num):
     trojan_outputs = []
     ssr_outputs = []
     ss_outputs = []
+    tuic_outputs = []
+    hysteria2_outputs = []
+    wireguard_outputs = []
 
     for output in modified_output_list:
         if str(output).startswith("vmess://"):
@@ -74,8 +77,14 @@ def output(list, num):
             trojan_outputs.append(output)
         elif str(output).startswith("ssr://"):
             ssr_outputs.append(output)
-        elif str(output).startswith("ss://"):
+        elif str(output).startswith(("ss://", "shadowsocks://")):
             ss_outputs.append(output)
+        elif str(output).startswith(("tuic://", "tuic5://")):
+            tuic_outputs.append(output)
+        elif str(output).startswith(("hy2://", "hysteria2://")):
+            hysteria2_outputs.append(output)
+        elif str(output).startswith("wireguard://"):
+            wireguard_outputs.append(output)
 
     with open(os.path.join(splitted_output, "vmess.txt"), 'w') as f:
         f.write("\n".join(vmess_outputs))
@@ -95,6 +104,18 @@ def output(list, num):
 
     with open(os.path.join(splitted_output, "ss.txt"), 'w') as f:
         f.write("\n".join(ss_outputs))
+        f.close()
+
+    with open(os.path.join(splitted_output, "tuic.txt"), 'w') as f:
+        f.write("\n".join(tuic_outputs))
+        f.close()
+
+    with open(os.path.join(splitted_output, "hysteria2.txt"), 'w') as f:
+        f.write("\n".join(hysteria2_outputs))
+        f.close()
+
+    with open(os.path.join(splitted_output, "wireguard.txt"), 'w') as f:
+        f.write("\n".join(wireguard_outputs))
         f.close()
 
     with open(sub_all_base64, 'w+', encoding='utf-8') as f:
