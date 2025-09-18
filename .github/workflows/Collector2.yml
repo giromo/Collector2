@@ -1,0 +1,65 @@
+name: Collector2
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    - name: Create logs directory
+      run: mkdir -p logs
+    - name: Set up PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '8.0'
+    - name: Run PHP processor
+      run: php Files/vmess_processor.php > logs/php_run.log 2>&1
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.19'
+        cache-dependency-path: Files/go.sum
+    - name: Install Go dependencies
+      working-directory: ./Files
+      run: go mod download
+    - name: Build and run Golang file
+      working-directory: ./Files
+      run: go run ./main.go > ../logs/go_run.log 2>&1
+    - name: Move Files to Bulk Directory
+      run: |
+        mkdir -p bulk
+        mv Files/vmess_iran.txt bulk/ || echo "vmess_iran.txt not found"
+        mv Files/trojan_iran.txt bulk/ || echo "trojan_iran.txt not found"
+        mv Files/vless_iran.txt bulk/ || echo "vless_iran.txt not found"
+        mv Files/ss_iran.txt bulk/ || echo "ss_iran.txt not found"
+        mv Files/mixed_iran.txt bulk/ || echo "mixed_iran.txt not found"
+        mv Files/vmessclean.txt bulk/ || echo "vmessclean.txt not found"
+    - name: Create merge1.txt
+      run: |
+        cat ./bulk/ss_iran.txt ./bulk/trojan_iran.txt > ./bulk/merge1.txt || echo "Failed to create merge1.txt"
+        sed -i '/^\(ss:\/\/\|trojan:\/\/\)/!d' ./bulk/merge1.txt
+    - name: Create merge2.txt
+      run: |
+        cat ./bulk/vmess_iran.txt ./bulk/vless_iran.txt > ./bulk/merge2.txt || echo "Failed to create merge2.txt"
+        sed -i '/^\(vmess:\/\/\|vless:\/\/\)/!d' ./bulk/merge2.txt
+    - name: Create merge3.txt
+      run: |
+        cat ./bulk/vmess_iran.txt ./bulk/ss_iran.txt ./bulk/trojan_iran.txt > ./bulk/merge3.txt || echo "Failed to create merge3.txt"
+        sed -i '/^\(ss:\/\/\|trojan:\/\/\)/!d' ./bulk/merge3.txt
+    - name: Convert merge1.txt to base64
+      run: |
+        base64 ./bulk/merge1.txt > ./bulk/b64_merge1.txt || echo "Failed to convert merge1.txt"
+    - name: Convert merge2.txt to base64
+      run: |
+        base64 ./bulk/merge2.txt > ./bulk/b64_merge2.txt || echo "Failed to convert merge2.txt"
+    - name: Commit Changes
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git add ./bulk/*
+        git commit -m "☠ $(date '+%Y-%m-%d %H:%M:%S') Collected" || echo "No changes to commit"
+        git pull origin main --rebase
+        git push origin main
