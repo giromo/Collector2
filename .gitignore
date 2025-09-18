@@ -1,0 +1,5 @@
+echo "logs/*" >> .gitignore
+echo "utils/speedtest/lite-linux-amd64" >> .gitignore
+echo "utils/speedtest/lite_config.json" >> .gitignore
+echo "utils/speedtest/speedtest_output.log" >> .gitignore
+echo "utils/speedtest/out.json" >> .gitignore
