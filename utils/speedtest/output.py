@@ -15,11 +15,14 @@ splitted_output = "./sub/splitted/"
 def read_json(file):
     if not os.path.isfile(file):
         with open('logs/output_py.log', 'w') as f:
-            f.write("Error: out.json not found")
+            f.write("Error: out.json not found\n")
         exit(1)
     with open(file, 'r', encoding='utf-8') as f:
         proxies_all = json.load(f)["nodes"]
         f.close()
+    print(f"Loaded out.json with {len(proxies_all)} configs")
+    for item in proxies_all:
+        print(f"Config: {item['link']}, Protocol: {item['protocol']}")
     return proxies_all
 
 def output(list, num):
@@ -48,11 +51,12 @@ def output(list, num):
     for i, item in enumerate(list):
         link = item["link"].split("#")[0]
         if i == 0:
-            config_string = f"#馃寪 亘賴 乇賵夭乇爻丕賳蹖 卮丿賴 丿乇 {final_string} | 賴乇 2 爻丕毓鬲 讴丕賳賮蹖讴 噩丿蹖丿 丿丕乇蹖賲"
+            config_string = f"#🌐 به روزرسانی شده در {final_string} | هر 2 ساعت کانفیک جدید داریم"
         else:
-            config_string = f"#馃寪爻乇賵乇 {i} | {final_others_string} | MTSRVRS"
+            config_string = f"#🌐سرور {i} | {final_others_string} | MTSRVRS"
         modified_link = link + config_string
         modified_output_list.append(modified_link)
+        print(f"Saving config to output: {modified_link}")
 
     content = '\n'.join(modified_output_list)
     content_base64 = base64.b64encode(content.encode('utf-8')).decode('ascii')
@@ -69,6 +73,7 @@ def output(list, num):
     wireguard_outputs = []
 
     for output in modified_output_list:
+        print(f"Processing config: {output}")
         if str(output).startswith("vmess://"):
             vmess_outputs.append(output)
         elif str(output).startswith("vless://"):
@@ -85,6 +90,15 @@ def output(list, num):
             hysteria2_outputs.append(output)
         elif str(output).startswith("wireguard://"):
             wireguard_outputs.append(output)
+
+    print(f"vmess configs: {len(vmess_outputs)}")
+    print(f"vless configs: {len(vless_outputs)}")
+    print(f"trojan configs: {len(trojan_outputs)}")
+    print(f"ssr configs: {len(ssr_outputs)}")
+    print(f"ss configs: {len(ss_outputs)}")
+    print(f"tuic configs: {len(tuic_outputs)}")
+    print(f"hysteria2 configs: {len(hysteria2_outputs)}")
+    print(f"wireguard configs: {len(wireguard_outputs)}")
 
     with open(os.path.join(splitted_output, "vmess.txt"), 'w') as f:
         f.write("\n".join(vmess_outputs))
