@@ -36,19 +36,22 @@ jobs:
         mv Files/vless_iran.txt bulk/ || echo "vless_iran.txt not found"
         mv Files/ss_iran.txt bulk/ || echo "ss_iran.txt not found"
         mv Files/mixed_iran.txt bulk/ || echo "mixed_iran.txt not found"
+        mv Files/tuic_iran.txt bulk/ || echo "tuic_iran.txt not found"
+        mv Files/hysteria2_iran.txt bulk/ || echo "hysteria2_iran.txt not found"
+        mv Files/wireguard_iran.txt bulk/ || echo "wireguard_iran.txt not found"
         mv Files/vmessclean.txt bulk/ || echo "vmessclean.txt not found"
     - name: Create merge1.txt
       run: |
         cat ./bulk/ss_iran.txt ./bulk/trojan_iran.txt > ./bulk/merge1.txt || echo "Failed to create merge1.txt"
-        sed -i '/^\(ss:\/\/\|trojan:\/\/\)/!d' ./bulk/merge1.txt
+        sed -i '/^\(ss:\/\/\|shadowsocks:\/\/\|trojan:\/\/\)/!d' ./bulk/merge1.txt
     - name: Create merge2.txt
       run: |
         cat ./bulk/vmess_iran.txt ./bulk/vless_iran.txt > ./bulk/merge2.txt || echo "Failed to create merge2.txt"
         sed -i '/^\(vmess:\/\/\|vless:\/\/\)/!d' ./bulk/merge2.txt
     - name: Create merge3.txt
       run: |
-        cat ./bulk/vmess_iran.txt ./bulk/ss_iran.txt ./bulk/trojan_iran.txt > ./bulk/merge3.txt || echo "Failed to create merge3.txt"
-        sed -i '/^\(ss:\/\/\|trojan:\/\/\)/!d' ./bulk/merge3.txt
+        cat ./bulk/vmess_iran.txt ./bulk/ss_iran.txt ./bulk/trojan_iran.txt ./bulk/vless_iran.txt ./bulk/tuic_iran.txt ./bulk/hysteria2_iran.txt ./bulk/wireguard_iran.txt > ./bulk/merge3.txt || echo "Failed to create merge3.txt"
+        sed -i '/^\(ss:\/\/\|shadowsocks:\/\/\|trojan:\/\/\|vmess:\/\/\|vless:\/\/\|tuic:\/\/\|tuic5:\/\/\|hy2:\/\/\|hysteria2:\/\/\|wireguard:\/\/\)/!d' ./bulk/merge3.txt
     - name: Convert merge1.txt to base64
       run: |
         base64 ./bulk/merge1.txt > ./bulk/b64_merge1.txt || echo "Failed to convert merge1.txt"
