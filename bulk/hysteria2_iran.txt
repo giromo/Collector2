@@ -1,2 +1,3 @@
-hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#%40rxv2ray
+hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#%40rxv2rayvless://3b82c3ef-d428-4a62-ae97-f53c305f883d@188.245.39.111:48889?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40rxv2ray
 hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?security=tls&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&insecure=1&sni=gavazn.55994421.xyz#%40
+hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#%40rxv2ray
