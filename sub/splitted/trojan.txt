@@ -1,4 +1,3 @@
-trojan://abacabc-abac-caba-abcd-babcbabcaacc@127.0.0.1:8080?security=tls&type=tcp#🌐سرور 22 | Sep-20 | MTSRVRS
 trojan://1ef0a265-9cf5-4f28-9786-d21daab9c78e@45.158.22.57:4438?security=tls&sni=us1.vpn.ong&type=tcp#🌐سرور 60 | Sep-20 | MTSRVRS
 trojan://auto@108.162.195.202:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#🌐سرور 90 | Sep-20 | MTSRVRS
 trojan://bpb-trojan@162.159.152.2:443?type=ws&sni=bpb.macser.us.kg&host=bpb.macser.us.kg#🌐سرور 91 | Sep-20 | MTSRVRS
@@ -61,12 +60,12 @@ trojan://telegram-id-directvpn@51.44.107.123:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@15.188.175.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 148 | Sep-20 | MTSRVRS
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#🌐سرور 149 | Sep-20 | MTSRVRS
 trojan://acbbaca-abca-baac-dcba-ccabcbbaabca@127.0.0.1:8080?security=tls&type=tcp#🌐سرور 150 | Sep-20 | MTSRVRS
+trojan://abacabc-abac-caba-abcd-babcbabcaacc@127.0.0.1:8080?security=tls&type=tcp#🌐سرور 151 | Sep-20 | MTSRVRS
 trojan://telegram-id-directvpn@52.57.70.34:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 152 | Sep-20 | MTSRVRS
 trojan://telegram-id-directvpn@15.237.89.128:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 153 | Sep-20 | MTSRVRS
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?security=tls&type=ws&sni=bPB-V.pageS.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=Bpb-v.PAges.deV#🌐سرور 154 | Sep-20 | MTSRVRS
 trojan://telegram-id-privatevpns@13.36.106.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 155 | Sep-20 | MTSRVRS
 trojan://telegram-id-privatevpns@3.123.147.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 156 | Sep-20 | MTSRVRS
-trojan://telegram-id-privatevpns@18.193.171.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 157 | Sep-20 | MTSRVRS
 trojan://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?security=tls&type=ws&sni=pardazeshvpn-tg48.pages.dev&path=/Telegram@Linkvws?ed=2560&host=pardazeshvpn-tg48.pages.dev#🌐سرور 158 | Sep-20 | MTSRVRS
 trojan://auto@172.67.75.208:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#🌐سرور 159 | Sep-20 | MTSRVRS
 trojan://telegram-id-privatevpns@18.195.249.244:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 160 | Sep-20 | MTSRVRS
@@ -75,3 +74,4 @@ trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInse
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.61:443?security=tls&type=ws&sni=23sPT.pAGEs.dEV&path=/Telegram@V2ray_Alpha/?ed=2560&host=23spt.pages.dev#🌐سرور 163 | Sep-20 | MTSRVRS
 trojan://auto@104.21.21.129:443?security=tls&type=ws&sni=trojanmz.pages.dev&path=/trojanmz.pages.dev/?ed=2560&host=trojanmz.pages.dev#🌐سرور 164 | Sep-20 | MTSRVRS
 trojan://auto@104.16.16.16:443?sni=trojanmz.pages.dev#🌐سرور 165 | Sep-20 | MTSRVRS
+trojan://telegram-id-privatevpns@18.193.171.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 468 | Sep-20 | MTSRVRS
