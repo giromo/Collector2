@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4 # آپدیت به v4 برای checkout
     - name: Create logs directory
       run: mkdir -p logs
     - name: Set up PHP
@@ -20,7 +20,7 @@ jobs:
     - name: Set up Go
       uses: actions/setup-go@v5
       with:
-        go-version: '1.21'
+        go-version: '1.21' # آپدیت به نسخه جدیدتر Go
         cache-dependency-path: Files/go.sum
     - name: Install Go dependencies
       working-directory: ./Files
@@ -30,10 +30,11 @@ jobs:
       run: go run ./main.go > ../logs/go_run.log 2>&1 || (cat ../logs/go_run.log && exit 1)
     - name: Upload log file
       if: always()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4 # آپدیت به v4
       with:
         name: go-run-log
         path: logs/go_run.log
+        retention-days: 7 # اختیاری: نگه‌داری آرتیفکت برای 7 روز
     - name: Move Files to Bulk Directory
       run: |
         mkdir -p bulk
