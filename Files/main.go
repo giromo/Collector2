@@ -18,7 +18,6 @@ var client = &http.Client{}
 
 func main() {
     channels := []string{
-        
         "https://t.me/s/MsV2ray",
         "https://t.me/s/DailyV2RY",
         "https://t.me/s/FreakConfig",
@@ -103,7 +102,7 @@ func main() {
         "https://t.me/s/VlessConfig",
         "https://t.me/s/oneclickvpnkeys",
         "https://t.me/s/SafeNet_Server",
-        "https://t.me/s/lrnbymaa"
+        "https://t.me/s/lrnbymaa",
     }
 
     configs := map[string]string{
