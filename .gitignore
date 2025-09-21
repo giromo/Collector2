@@ -1,5 +1,5 @@
-echo "logs/*" >> .gitignore
-echo "utils/speedtest/lite-linux-amd64" >> .gitignore
-echo "utils/speedtest/lite_config.json" >> .gitignore
-echo "utils/speedtest/speedtest_output.log" >> .gitignore
-echo "utils/speedtest/out.json" >> .gitignore
+/logs/
+/utils/speedtest/lite-linux-amd64
+/utils/speedtest/lite_config.json
+/utils/speedtest/speedtest_output.log
+/utils/speedtest/out.json
