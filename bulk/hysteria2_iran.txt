@@ -1,5 +1,6 @@
-hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org#%F0%9F%87%B8%F0%9F%87%AA-hamedp71%20-%20Hysteria2
-hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#All--%F0%9F%9A%80%40proxy_Shadowsocks%F0%9F%9A%80
 hy2://a2678c97b8d79059@46.62.152.236:443/?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForced
 hysteria2://6803bc9b-1157-431b-8f73-970a6deb741f@fra-nb-02.linlujs.pw:29854?security=tls&insecure=0#telegram-%40ISVvpn
-hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?security=tls&insecure=0#telegram-%40ISVvpn
+hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@fra-nb-01.linlujs.pw:24568?security=tls&insecure=0#DE-telegram-%40ISVvpn
+hysteria2://70197404-7b40-45e4-bb9c-8bc8995012ae@us-nb-01.linlujs.pw:25684?security=tls&insecure=0#usa-telegram-%40ISVvpn
+hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org#%F0%9F%87%B8%F0%9F%87%AA-hamedp71%20-%20Hysteria2
+hysteria2://45b46edb-679b-4ea5-befd-88c05bb94f80@de.eyucdn.xyz:2056?security=tls&insecure=1&sni=de.eyucdn.xyz#All--%F0%9F%9A%80%40proxy_Shadowsocks%F0%9F%9A%80
