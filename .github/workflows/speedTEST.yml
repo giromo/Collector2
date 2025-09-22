@@ -31,8 +31,8 @@ jobs:
           pip install -r ./utils/requirements.txt > logs/pip_install.log 2>&1
       - name: Create output directories
         run: mkdir -p ./sub/splitted ./utils/speedtest ./logs
-      - name: Download merge3.txt
-        run: wget -O ./bulk/merge3.txt https://raw.githubusercontent.com/giromo/Collector2/main/bulk/merge3.txt || echo "Failed to download merge3.txt"
+      - name: Download merge2.txt
+        run: wget -O ./bulk/merge2.txt https://raw.githubusercontent.com/giromo/Collector2/main/bulk/merge2.txt || echo "Failed to download merge2.txt"
       - name: Run Lite Speedtest
         run: |
           sh ./utils/speedtest/speedtest2.sh
