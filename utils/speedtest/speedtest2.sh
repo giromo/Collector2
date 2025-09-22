@@ -6,7 +6,7 @@ gzip -d utils/speedtest/lite-linux-amd64.gz
 wget -O utils/speedtest/lite_config.json https://raw.githubusercontent.com/giromo/Collector2/main/utils/speedtest/lite_config.json
 
 chmod +x utils/speedtest/lite-linux-amd64
-timeout 300 utils/speedtest/lite-linux-amd64 --config utils/speedtest/lite_config.json --test ./bulk/merge3.txt > utils/speedtest/speedtest_output.log 2>&1
+timeout 300 utils/speedtest/lite-linux-amd64 --config utils/speedtest/lite_config.json --test ./bulk/merge2.txt > utils/speedtest/speedtest_output.log 2>&1
 
 # اضافه کردن تست با v2ray-core برای vmess و vless
 wget -O utils/speedtest/v2ray-linux-64.zip https://github.com/v2fly/v2ray-core/releases/latest/download/v2ray-linux-64.zip
