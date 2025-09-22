@@ -1,7 +1,6 @@
-trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=safari&type=tcp&sni=map.wimax.cc#🌐سرور 7 | Sep-22 | MTSRVRS
+trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=safari&type=tcp&sni=map.wimax.cc#🌐سرور 2 | Sep-22 | MTSRVRS
 trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&sni=dus.freeguard.org&path=%2f#🌐سرور 68 | Sep-22 | MTSRVRS
-trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#🌐سرور 84 | Sep-22 | MTSRVRS
-trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#🌐سرور 90 | Sep-22 | MTSRVRS
+trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#🌐سرور 87 | Sep-22 | MTSRVRS
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#🌐سرور 306 | Sep-22 | MTSRVRS
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#🌐سرور 307 | Sep-22 | MTSRVRS
 trojan://bpb-trojan@zula.ir:443?path=%2FtrxcjEhlEAQoH0H4xK%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-worKER-PAnEl.PagES.Dev#🌐سرور 308 | Sep-22 | MTSRVRS
@@ -79,6 +78,7 @@ trojan://telegram-id-privatevpns@3.76.59.222:22222?security=tls&alpn=http/1.1&he
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#🌐سرور 382 | Sep-22 | MTSRVRS
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#🌐سرور 383 | Sep-22 | MTSRVRS
 trojan://bpb-trojan@www.speedtest.net:8443?path=%2FtrawQuYV0dBGjBNVXI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-WoRKeR-paNEl.PagEs.dEv#🌐سرور 384 | Sep-22 | MTSRVRS
+trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#🌐سرور 385 | Sep-22 | MTSRVRS
 trojan://zL78LA0D5P@5.255.103.217:58194?type=xhttp&path=%2Fmoshali33&host=moshali.arshiacomplus.dpdns.org&mode=stream-one&security=tls&fp=firefox&alpn=h3&sni=moshali.arshiacomplus.dpdns.org.cer#🌐سرور 386 | Sep-22 | MTSRVRS
 trojan://4mZzfWMLGz@5.255.102.41:10979?type=xhttp&path=%2Fdictator232&host=mooshali.arshiacomplus.dpdns.org&mode=packet-up&security=tls&fp=firefox&alpn=http%2F1.1&sni=mooshali.arshiacomplus.dpdns.org#🌐سرور 387 | Sep-22 | MTSRVRS
 trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🌐سرور 389 | Sep-22 | MTSRVRS
