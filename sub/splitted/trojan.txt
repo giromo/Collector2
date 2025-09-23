@@ -1,1 +1,2 @@
-trojan://auto@104.20.20.42:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/%23@Hope_Net-join-us-on-Telegram#🌐سرور 166 | Sep-23 | MTSRVRS
+trojan://auto@104.20.20.42:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/%23@Hope_Net-join-us-on-Telegram#🌐سرور 144 | Sep-23 | MTSRVRS
+trojan://auto@104.20.19.218:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/%23@Hope_Net-join-us-on-Telegram#🌐سرور 148 | Sep-23 | MTSRVRS
