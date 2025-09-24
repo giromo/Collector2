@@ -5,7 +5,7 @@
     "sortMethod":"rspeed",
     "concurrency":15,
     "testMode":2,
-    "subscription":"https://raw.githubusercontent.com/giromo/Collector2/main/sub/bulk/merge2.txt",
+    "subscription":"https://raw.githubusercontent.com/giromo/Collector2/main/sub/bulk/merge3.txt",
     "timeout":12,
     "language":"en",
     "fontSize":24,
