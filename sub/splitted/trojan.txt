@@ -1,6 +1,5 @@
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=uk-03.allhubb.info#🌐سرور 92 | Sep-26 | MTSRVRS
-trojan://1sbtkLK7F3@195.22.157.104:55700?path=%2Fmoshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=joon.arshiacomplus.dpdns.org#🌐سرور 136 | Sep-26 | MTSRVRS
-trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#🌐سرور 137 | Sep-26 | MTSRVRS
+trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#🌐سرور 111 | Sep-26 | MTSRVRS
+trojan://1sbtkLK7F3@195.22.157.104:55700?path=%2Fmoshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=joon.arshiacomplus.dpdns.org#🌐سرور 116 | Sep-26 | MTSRVRS
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🌐سرور 395 | Sep-26 | MTSRVRS
 trojan://telegram-id-directvpn@3.147.108.72:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🌐سرور 396 | Sep-26 | MTSRVRS
 trojan://bpb-trojan@www.speedtest.net:443?path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-wORkER-paNel.pAGEs.DeV#🌐سرور 397 | Sep-26 | MTSRVRS
@@ -29,6 +28,7 @@ trojan://hNv80y7CWu@91.107.252.182:26805?type=tcp&security=none#🌐سرور 419
 trojan://telegram-id-privatevpns@51.44.107.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 420 | Sep-26 | MTSRVRS
 trojan://telegram-id-directvpn@13.37.66.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 421 | Sep-26 | MTSRVRS
 trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🌐سرور 422 | Sep-26 | MTSRVRS
+trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=uk-03.allhubb.info#🌐سرور 423 | Sep-26 | MTSRVRS
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#🌐سرور 424 | Sep-26 | MTSRVRS
 trojan://wkmY1R4EcP@216.128.147.13:443?allowInsecure=1&sni=z-v2-003274.kailib.com#🌐سرور 425 | Sep-26 | MTSRVRS
 trojan://telegram-id-directvpn@3.127.9.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 426 | Sep-26 | MTSRVRS
