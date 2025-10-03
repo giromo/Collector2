@@ -1,4 +1,4 @@
-trojan://aabbcac-caba-cbaa-acdb-bbccaccababa@127.0.0.1:8080?security=tls&type=tcp%23%5B%F0%9F%8F%81%5Dt.me/ConfigsHub#🌐سرور 428 | Oct-03 | MTSRVRS
+trojan://aabbcac-caba-cbaa-acdb-bbccaccababa@127.0.0.1:8080?security=tls&type=tcp%23%5B%F0%9F%8F%81%5Dt.me/ConfigsHub#🌐سرور 425 | Oct-03 | MTSRVRS
 trojan://1187ba87-8ebc-4a07-aa89-b331ed2cb356@meti-u9d.pages.dev:443?security=tls&type=ws&sni=meti-u9d.pages.dev&path=/Telegram@V2ray_Alpha/?ed=2560&host=meti-u9d.pages.dev#🌐سرور 498 | Oct-03 | MTSRVRS
 trojan://telegram-id-privatevpns@18.193.171.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 499 | Oct-03 | MTSRVRS
 trojan://WyRE1b2elC@map.wimax.cc:8443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=safari&type=tcp&sni=map.wimax.cc#🌐سرور 500 | Oct-03 | MTSRVRS
