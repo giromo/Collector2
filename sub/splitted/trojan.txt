@@ -1,12 +1,11 @@
-trojan://GUGm7DHtpSx7SuPyUD@ee-1.kamediorg.com:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp#🌐سرور 145 | Oct-04 | MTSRVRS
-trojan://GUGm7DHtpSx7SuPyUD@ee-1.kamediorg.com:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp#🌐سرور 149 | Oct-04 | MTSRVRS
+trojan://GUGm7DHtpSx7SuPyUD@ee-1.kamediorg.com:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp#🌐سرور 124 | Oct-04 | MTSRVRS
+trojan://GUGm7DHtpSx7SuPyUD@ee-1.kamediorg.com:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp#🌐سرور 125 | Oct-04 | MTSRVRS
 trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?security=tls&sni=CCcvfgt6.852224.dpdns.org&type=ws&host=cccvfgt6.852224.dpdns.org&path=%2FCA5bMmr2JMum8sDKRwvFCJq&fp=chrome&alpn=http%2F1.1#🌐سرور 436 | Oct-04 | MTSRVRS
 trojan://telegram-id-privatevpns@15.188.196.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 437 | Oct-04 | MTSRVRS
 trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=mooshali.arshiacomplus.dpdns.org#🌐سرور 438 | Oct-04 | MTSRVRS
 trojan://trojan@91.193.58.0:443?security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=chrome&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=%2F#🌐سرور 439 | Oct-04 | MTSRVRS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 440 | Oct-04 | MTSRVRS
 trojan://telegram-id-privatevpns@15.236.176.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 441 | Oct-04 | MTSRVRS
-trojan://telegram-id-privatevpns@15.237.232.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 442 | Oct-04 | MTSRVRS
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🌐سرور 443 | Oct-04 | MTSRVRS
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#🌐سرور 444 | Oct-04 | MTSRVRS
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🌐سرور 445 | Oct-04 | MTSRVRS
@@ -160,3 +159,4 @@ trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=
 trojan://NISHIKUITAN222@173.245.59.202:443?#🌐سرور 593 | Oct-04 | MTSRVRS
 trojan://telegram-id-directvpn@18.193.171.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 594 | Oct-04 | MTSRVRS
 trojan://GUGm7DHtpSx7SuPyUD@ee-1.kamediorg.com:443/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1#🌐سرور 595 | Oct-04 | MTSRVRS
+trojan://telegram-id-privatevpns@15.237.232.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 1383 | Oct-04 | MTSRVRS
