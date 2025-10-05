@@ -1,3 +1,4 @@
+trojan://Trevely@172.64.33.110:443?security=tls&type=ws&sni=trojan.trevely.us.kg&host=trojan.trevely.us.kg#🌐سرور 175 | Oct-05 | MTSRVRS
 trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443?security=tls&type=ws&sni=jobscareerfortoday.com&path=/6b777a91&host=jobscareerfortoday.com#🌐سرور 466 | Oct-05 | MTSRVRS
 trojan://80817fde-96ec-4e8f-8d87-3e844f993455@217.60.187.84:47465?security=none&encryption=none&host=Telewebion.com&headerType=http&type=tcp#🌐سرور 467 | Oct-05 | MTSRVRS
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🌐سرور 468 | Oct-05 | MTSRVRS
@@ -129,7 +130,6 @@ trojan://telegram-id-directvpn@15.236.97.232:22223?security=tls&alpn=http/1.1&he
 trojan://auto@104.20.6.134:443?security=tls&type=ws&sni=e9464f45.trauma-2r4.pages.dev&path=/&host=e9464f45.trauma-2r4.pages.dev#🌐سرور 602 | Oct-05 | MTSRVRS
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#🌐سرور 603 | Oct-05 | MTSRVRS
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#🌐سرور 604 | Oct-05 | MTSRVRS
-trojan://Trevely@172.64.33.110:443?security=tls&type=ws&sni=trojan.trevely.us.kg&host=trojan.trevely.us.kg#🌐سرور 605 | Oct-05 | MTSRVRS
 trojan://telegram-id-privatevpns@15.188.175.202:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 606 | Oct-05 | MTSRVRS
 trojan://telegram-id-directvpn@15.188.196.17:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 607 | Oct-05 | MTSRVRS
 trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🌐سرور 608 | Oct-05 | MTSRVRS
