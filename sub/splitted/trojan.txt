@@ -1,4 +1,5 @@
-trojan://auto@104.20.19.212:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev%23@Hope_Net-join-us-on-Telegram#🌐سرور 384 | Oct-05 | MTSRVRS
+trojan://telegram-id-directvpn@63.179.125.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 135 | Oct-05 | MTSRVRS
+trojan://auto@104.20.19.212:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev%23@Hope_Net-join-us-on-Telegram#🌐سرور 386 | Oct-05 | MTSRVRS
 trojan://VPNCSTOMIZE@104.18.218.118:8443?security=tls&type=ws&sni=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com&host=Join.VPNCUSTOMIZE.usa.speedtest.net.Naziitness.com#🌐سرور 410 | Oct-05 | MTSRVRS
 trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#🌐سرور 411 | Oct-05 | MTSRVRS
 trojan://telegram-id-directvpn@13.37.24.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 412 | Oct-05 | MTSRVRS
@@ -69,7 +70,6 @@ trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=t
 trojan://telegram-id-directvpn@13.37.151.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 477 | Oct-05 | MTSRVRS
 trojan://telegram-id-directvpn@15.237.232.124:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 478 | Oct-05 | MTSRVRS
 trojan://telegram-id-directvpn@35.181.93.147:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 479 | Oct-05 | MTSRVRS
-trojan://telegram-id-directvpn@63.179.125.154:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 480 | Oct-05 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.93.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 481 | Oct-05 | MTSRVRS
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🌐سرور 482 | Oct-05 | MTSRVRS
 trojan://auto@172.64.35.176:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#🌐سرور 483 | Oct-05 | MTSRVRS
