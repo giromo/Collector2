@@ -1,5 +1,5 @@
 trojan://telegram-id-privatevpns@52.51.112.136:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk%23@Hope_Net-join-us-on-Telegramtrojan://auto@104.20.20.84:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev%23@Hope_Net-join-us-on-Telegram#🌐سرور 236 | Oct-06 | MTSRVRS
-trojan://bpb-trojan@195.245.221.15:443?security=tls&type=ws&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev%23@Hope_Net-join-us-on-Telegram#🌐سرور 246 | Oct-06 | MTSRVRS
+trojan://bpb-trojan@195.245.221.15:443?security=tls&type=ws&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev%23@Hope_Net-join-us-on-Telegram#🌐سرور 248 | Oct-06 | MTSRVRS
 trojan://auto@104.26.9.160:443?security=tls&sni=trojanfree-76s.pages.dev&type=ws&host=trojanfree-76s.pages.dev#🌐سرور 400 | Oct-06 | MTSRVRS
 trojan://telegram-id-privatevpns@18.153.140.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 401 | Oct-06 | MTSRVRS
 trojan://telegram-id-privatevpns@13.39.125.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 402 | Oct-06 | MTSRVRS
