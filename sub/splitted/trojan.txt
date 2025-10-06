@@ -1,4 +1,6 @@
-trojan://01TELEGRAM-ID-soalvajavaab@verymad.net.verymad.net:35497?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws#🌐سرور 28 | Oct-06 | MTSRVRS
+trojan://01TELEGRAM-ID-soalvajavaab@verymad.net.verymad.net:35497?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws#🌐سرور 26 | Oct-06 | MTSRVRS
+trojan://01TELEGRAM-ID-soalvajavaab@verymad.net.verymad.net:35497?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws#🌐سرور 27 | Oct-06 | MTSRVRS
+trojan://01TELEGRAM-ID-soalvajavaab@verymad.net.verymad.net:22878?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=&fp=chrome&type=tcp#🌐سرور 28 | Oct-06 | MTSRVRS
 trojan://telegram-id-directvpn@13.39.125.170:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 408 | Oct-06 | MTSRVRS
 trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=%2F#🌐سرور 409 | Oct-06 | MTSRVRS
 trojan://telegram-id-directvpn@13.36.92.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 410 | Oct-06 | MTSRVRS
@@ -29,7 +31,6 @@ trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:443?path=%2Ftrm7P3VNsWWOwIafAP
 trojan://trojan@91.193.58.0:443?security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=chrome&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=%2F#🌐سرور 435 | Oct-06 | MTSRVRS
 trojan://abd16f44-12ca-4078-8345-11bcb4cd0fbd@104.21.70.241:443?path=%2FFree-VPN-Geo-Project%2F92.178.109.187-443&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#🌐سرور 436 | Oct-06 | MTSRVRS
 trojan://telegram-id-directvpn@3.120.212.236:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 437 | Oct-06 | MTSRVRS
-trojan://01TELEGRAM-ID-soalvajavaab@verymad.net.verymad.net:22878?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=&fp=chrome&type=tcp#🌐سرور 438 | Oct-06 | MTSRVRS
 trojan://telegram-id-privatevpns@13.39.143.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 439 | Oct-06 | MTSRVRS
 trojan://telegram-id-privatevpns@13.39.215.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 440 | Oct-06 | MTSRVRS
 trojan://telegram-id-directvpn@35.179.191.159:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🌐سرور 441 | Oct-06 | MTSRVRS
@@ -106,7 +107,6 @@ trojan://a50ea41d-10b1-4351-9ae2-6d92f501a3a0@172.67.168.193:443?path=%2FFree-VP
 trojan://hZ7JkYVAfB@141.227.138.29:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1ch-ovh.devefun.net#🌐سرور 512 | Oct-06 | MTSRVRS
 trojan://telegram-id-directvpn@13.53.239.63:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🌐سرور 513 | Oct-06 | MTSRVRS
 trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?type=tcp&security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&fp=random&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b&spx=%2FyethePcHjaf#🌐سرور 514 | Oct-06 | MTSRVRS
-trojan://01TELEGRAM-ID-soalvajavaab@verymad.net.verymad.net:35497?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws#🌐سرور 515 | Oct-06 | MTSRVRS
 trojan://blue2024@108.162.195.188:443?sni=ta.promote.icu#🌐سرور 516 | Oct-06 | MTSRVRS
 trojan://telegram-id-directvpn@51.44.107.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 517 | Oct-06 | MTSRVRS
 trojan://telegram-id-directvpn@54.93.70.255:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 518 | Oct-06 | MTSRVRS
