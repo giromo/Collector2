@@ -1,4 +1,4 @@
-trojan://auto@172.64.35.192:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev%23@Hope_Net-join-us-on-Teleg#🌐سرور 218 | Oct-07 | MTSRVRS
+trojan://auto@172.64.35.192:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev%23@Hope_Net-join-us-on-Teleg#🌐سرور 210 | Oct-07 | MTSRVRS
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#🌐سرور 399 | Oct-07 | MTSRVRS
 trojan://DxuCRlZS3aq5pgI8YYcBCZFln7e83XDONSROjAepSK3CaFyATz0aw3DyE6294x@starfish.missionsec.io:28331?security=tls&headerType=none&type=tcp&sni=starfish.missionsec.io#🌐سرور 400 | Oct-07 | MTSRVRS
 trojan://telegram-id-directvpn@51.44.107.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 401 | Oct-07 | MTSRVRS
@@ -121,4 +121,4 @@ trojan://telegram-id-privatevpns@13.39.215.91:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#🌐سرور 518 | Oct-07 | MTSRVRS
 trojan://auto@104.20.20.74:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#🌐سرور 519 | Oct-07 | MTSRVRS
 trojan://telegram-id-directvpn@18.157.172.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 520 | Oct-07 | MTSRVRS
-trojan://auto@104.20.20.74:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#🌐سرور 1293 | Oct-07 | MTSRVRS
+trojan://auto@104.20.20.74:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#🌐سرور 521 | Oct-07 | MTSRVRS
