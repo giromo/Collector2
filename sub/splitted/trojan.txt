@@ -1,5 +1,5 @@
-trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 113 | Oct-08 | MTSRVRS
-trojan://telegram-id-privatevpns@13.37.69.72:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1%23@Hope_Net-join-us-on-Telegramtrojan://auto@104.20.21.186:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/%23@Hope_Net-join-us-on-Telegram#🌐سرور 208 | Oct-08 | MTSRVRS
+trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 107 | Oct-08 | MTSRVRS
+trojan://telegram-id-privatevpns@13.37.69.72:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1%23@Hope_Net-join-us-on-Telegramtrojan://auto@104.20.21.186:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/%23@Hope_Net-join-us-on-Telegram#🌐سرور 188 | Oct-08 | MTSRVRS
 trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=/%23@VIProxys#🌐سرور 317 | Oct-08 | MTSRVRS
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#🌐سرور 436 | Oct-08 | MTSRVRS
 trojan://telegram-id-directvpn@3.123.147.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 437 | Oct-08 | MTSRVRS
@@ -69,7 +69,6 @@ trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355
 trojan://telegram-id-privatevpns@15.188.204.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 501 | Oct-08 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.184.52:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 502 | Oct-08 | MTSRVRS
 trojan://da86c6b5-a130-4bb8-a6ef-00b77b85b9e7@94.131.122.157:8443?mode=gun&security=tls&type=grpc&serviceName=grpc&sni=uk2.safecdn.site#🌐سرور 503 | Oct-08 | MTSRVRS
-trojan://bpb-trojan@www.speedtest.net:443?path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-wORkER-paNel.pAGEs.DeV#🌐سرور 504 | Oct-08 | MTSRVRS
 trojan://telegram-id-privatevpns@13.37.69.72:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🌐سرور 505 | Oct-08 | MTSRVRS
 trojan://telegram-id-privatevpns@3.123.147.205:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 506 | Oct-08 | MTSRVRS
 trojan://telegram-id-directvpn@51.45.9.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 507 | Oct-08 | MTSRVRS
@@ -139,3 +138,4 @@ trojan://telegram-id-privatevpns@52.47.206.67:22222?security=tls&alpn=http/1.1&h
 trojan://trojan@91.193.58.0:443?security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=chrome&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=%2F#🌐سرور 572 | Oct-08 | MTSRVRS
 trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev#🌐سرور 573 | Oct-08 | MTSRVRS
 trojan://9ba843b2-3e77-488b-b468-d934c5ef5f76@172.67.168.193:443?path=%2FFree-VPN-Geo-Project%2F129.151.128.105-16731&security=tls&host=gamang.gpj2.dpdns.org&type=ws&sni=gamang.gpj2.dpdns.org#🌐سرور 574 | Oct-08 | MTSRVRS
+trojan://bpb-trojan@www.speedtest.net:443?path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-wORkER-paNel.pAGEs.DeV#🌐سرور 1348 | Oct-08 | MTSRVRS
