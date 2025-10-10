@@ -1,6 +1,6 @@
-trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 86 | Oct-10 | MTSRVRS
+trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 60 | Oct-10 | MTSRVRS
+trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 172 | Oct-10 | MTSRVRS
 trojan://auto@108.162.195.176:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev%23@Hope_Net-join-us-on-Telegram#🌐سرور 231 | Oct-10 | MTSRVRS
-trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 235 | Oct-10 | MTSRVRS
 trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#🌐سرور 415 | Oct-10 | MTSRVRS
 trojan://telegram-id-directvpn@15.237.89.128:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 416 | Oct-10 | MTSRVRS
 trojan://telegram-id-directvpn@52.47.54.131:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 417 | Oct-10 | MTSRVRS
