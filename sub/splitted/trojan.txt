@@ -1,11 +1,11 @@
-trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 59 | Oct-11 | MTSRVRS
-trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 60 | Oct-11 | MTSRVRS
-trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#🌐سرور 63 | Oct-11 | MTSRVRS
-trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 65 | Oct-11 | MTSRVRS
-trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 66 | Oct-11 | MTSRVRS
+trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐 به روزرسانی شده در Oct-11 | 12:51 | هر 2 ساعت کانفیک جدید داریم
+trojan://253bc477d4e43c209f2d427272968280@23.227.194.234:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 1 | Oct-11 | MTSRVRS
+trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#🌐سرور 38 | Oct-11 | MTSRVRS
+trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 41 | Oct-11 | MTSRVRS
+trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 42 | Oct-11 | MTSRVRS
 trojan://ccabaab-caab-acab-bcda-abbcbbacacca@127.0.0.1:1080?security=tls&type=tcp%23@Hope_Net-join-us-on-Telegramtrojan://telegram-id-privatevpns@63.176.54.171:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1%23@Hope_Net-join-us-on-Telegram#🌐سرور 158 | Oct-11 | MTSRVRS
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=/Hq0I4JMuzO0WLijID&fp=chrome&alpn=http/1.1%23@VIProxys#🌐سرور 276 | Oct-11 | MTSRVRS
-trojan://telegram-id-privatevpns@13.50.203.34:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🌐سرور 331 | Oct-11 | MTSRVRS
+trojan://telegram-id-privatevpns@13.50.203.34:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🌐سرور 322 | Oct-11 | MTSRVRS
 trojan://telegram-id-privatevpns@18.193.171.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 380 | Oct-11 | MTSRVRS
 trojan://tg-dns68@162.159.152.88:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🌐سرور 381 | Oct-11 | MTSRVRS
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🌐سرور 382 | Oct-11 | MTSRVRS
