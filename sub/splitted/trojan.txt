@@ -1,5 +1,5 @@
-trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 91 | Oct-11 | MTSRVRS
-trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#🌐سرور 98 | Oct-11 | MTSRVRS
+trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 77 | Oct-11 | MTSRVRS
+trojan://253bc477d4e43c209f2d427272968280@38.180.249.152:443?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#🌐سرور 80 | Oct-11 | MTSRVRS
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520%23FreeV2Alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🌐سرور 380 | Oct-11 | MTSRVRS
 trojan://tg-dns68@162.159.152.42:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org#🌐سرور 381 | Oct-11 | MTSRVRS
 trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#🌐سرور 382 | Oct-11 | MTSRVRS
@@ -119,6 +119,7 @@ trojan://Aimer@51.116.121.75:443?allowInsecure=1&sni=ngepx.ambercc.filegear-sg.m
 trojan://telegram-id-privatevpns@52.57.190.197:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 498 | Oct-11 | MTSRVRS
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🌐سرور 499 | Oct-11 | MTSRVRS
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🌐سرور 500 | Oct-11 | MTSRVRS
+trojan://acabbac-aacb-abac-dabc-ccacbababbac@127.0.0.1:1080?security=tls&type=tcp#🌐سرور 501 | Oct-11 | MTSRVRS
 trojan://3beeaf86-5522-4278-a1e9-b24a776552cd@104.21.10.181:443?path=%2FFree-VPN-Geo-Project%2F181.41.194.176-15565&security=tls&host=gamang.gpj1.dpdns.org&type=ws&sni=gamang.gpj1.dpdns.org#🌐سرور 502 | Oct-11 | MTSRVRS
 trojan://telegram-id-directvpn@35.181.124.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 503 | Oct-11 | MTSRVRS
 trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev#🌐سرور 504 | Oct-11 | MTSRVRS
@@ -144,4 +145,3 @@ trojan://telegram-id-privatevpns@52.47.92.82:22222?security=tls&alpn=http/1.1&he
 trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI%3Fed%3D1520%23%40v2ray_alpha&security=tls&alpn=h2%2Chttp%2F1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#🌐سرور 524 | Oct-11 | MTSRVRS
 trojan://AXpQXM4vNh@141.227.160.167:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x2swe-ovh.devefun.net#🌐سرور 525 | Oct-11 | MTSRVRS
 trojan://telegram-id-directvpn@13.39.59.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 526 | Oct-11 | MTSRVRS
-trojan://acabbac-aacb-abac-dabc-ccacbababbac@127.0.0.1:1080?security=tls&type=tcp#🌐سرور 1144 | Oct-11 | MTSRVRS
