@@ -1,4 +1,4 @@
-trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 71 | Oct-13 | MTSRVRS
+trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 73 | Oct-13 | MTSRVRS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 126 | Oct-13 | MTSRVRS
 trojan://64e0ee38-2874-3f3f-b7d2-34f5a03cbaab@103.136.185.28:3511?sni=steampipe-partner.akamaized.net%23@Hope_Net-join-us-on-Telegram#🌐سرور 191 | Oct-13 | MTSRVRS
 trojan://telegram-id-privatevpns@51.44.130.78:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 397 | Oct-13 | MTSRVRS
