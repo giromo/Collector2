@@ -1,4 +1,4 @@
-trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 87 | Oct-14 | MTSRVRS
+trojan://Kia6770aza-vpnjantit.com@83.217.9.70:443?security=tls&headerType=none&type=tcp&sni=tr1.vpnjantit.com#🌐سرور 72 | Oct-14 | MTSRVRS
 trojan://telegram-id-privatevpns@54.220.61.69:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk%23@Hope_Net-join-us-on-Telegram#🌐سرور 119 | Oct-14 | MTSRVRS
 trojan://53027f0f-2581-469a-a802-825d46f37cda@104.18.124.198:443?security=tls&type=ws&sni=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org&path=/cassiusvpn.pages.dev/?ed=2560&host=a17cabb5-3f13-4056-b0ce-476143491d4b.blackbeautifulman.cloudns.org%23@Hope_Net-join-us-on-Telegramtrojan://b98aec40-e52c-4e26-87d5-c406fe342dd7@151.101.66.228:443?security=tls&type=ws&sni=seminarsinmcb.faculty.ucdavis.edu&host=example.ir%23@Hope_Net-join-us-on-Telegram#🌐سرور 199 | Oct-14 | MTSRVRS
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#🌐سرور 359 | Oct-14 | MTSRVRS
