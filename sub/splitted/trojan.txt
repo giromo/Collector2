@@ -1,5 +1,5 @@
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#🌐سرور 111 | Oct-16 | MTSRVRS
-trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.134.29:443?#🌐سرور 176 | Oct-16 | MTSRVRS
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#🌐سرور 82 | Oct-16 | MTSRVRS
+trojan://94d219c9-1afc-4d42-b090-8b3794764380@36.50.134.29:443?#🌐سرور 147 | Oct-16 | MTSRVRS
 trojan://bpb-trojan@104.17.147.22:443?security=tls&type=ws&sni=bpB-wORkeR-pANEl-ay6.pages.deV&path=/trsOhXJ7DIsVTqppwd?ed=2560&host=bpb-worker-panel-ay6.pages.dev%23@Hope_Net-join-us-on-Telegram#🌐سرور 195 | Oct-16 | MTSRVRS
 trojan://wb6368@92.243.75.49:2087?path=%2F&security=tls&host=hsdgbuys.pages.dev&type=ws&sni=hsdgbuys.pages.dev#🌐سرور 510 | Oct-16 | MTSRVRS
 trojan://Watashi_VPN@104.18.13.229:2053?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=Telegram@V2ray_Alpha/?ed=2087&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🌐سرور 511 | Oct-16 | MTSRVRS
