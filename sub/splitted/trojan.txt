@@ -1,4 +1,4 @@
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#🌐سرور 122 | Oct-17 | MTSRVRS
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#🌐سرور 91 | Oct-17 | MTSRVRS
 trojan://telegram-id-directvpn@13.38.252.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 502 | Oct-17 | MTSRVRS
 trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=%2F#🌐سرور 503 | Oct-17 | MTSRVRS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=chrome&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 504 | Oct-17 | MTSRVRS
