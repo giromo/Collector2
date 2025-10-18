@@ -1,6 +1,6 @@
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#🌐سرور 92 | Oct-18 | MTSRVRS
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#🌐سرور 93 | Oct-18 | MTSRVRS
-trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#🌐سرور 363 | Oct-18 | MTSRVRS
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&sni=glowingpickle.bananatornado.click&allowInsecure=1&type=tcp&headerType=none&host=glowingpickle.bananatornado.click#🌐سرور 85 | Oct-18 | MTSRVRS
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&headerType=none&type=tcp&sni=glowingpickle.bananatornado.click#🌐سرور 87 | Oct-18 | MTSRVRS
+trojan://2e3562a819634de686ade78e434c0963@104.17.147.5:443?security=tls&type=ws&sni=jobscareertoday.com&path=/6b777a91&host=jobscareertoday.com#🌐سرور 360 | Oct-18 | MTSRVRS
 trojan://3690911436885991424@5.8.35.45:443?sni=careful-platypus.opossum872.cfd#🌐سرور 386 | Oct-18 | MTSRVRS
 trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:8443?path=%2Ftr5gvCjFBPFcmGVEFz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpB-woRKer-pANeL.pAGes.dev#🌐سرور 387 | Oct-18 | MTSRVRS
 trojan://01TELEGRAM-ID-conf0088@abbotsfordhallforhire.org.au.abbotsfordhallforhire.org.au:22878?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=&fp=chrome&type=tcp#🌐سرور 388 | Oct-18 | MTSRVRS
