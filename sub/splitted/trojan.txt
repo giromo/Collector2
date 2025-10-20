@@ -47,6 +47,7 @@ trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=t
 trojan://telegram-id-privatevpns@15.188.172.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 542 | Oct-20 | MTSRVRS
 trojan://telegram-id-privatevpns@15.236.214.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 543 | Oct-20 | MTSRVRS
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.138.24:5041?security=tls&headerType=none&type=tcp&sni=www.baidu.com#🌐سرور 544 | Oct-20 | MTSRVRS
+trojan://b963ccdf-b883-473e-8edf-0f5cfaead254@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FNL1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#🌐سرور 545 | Oct-20 | MTSRVRS
 trojan://telegram-id-directvpn@3.123.147.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 546 | Oct-20 | MTSRVRS
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#🌐سرور 547 | Oct-20 | MTSRVRS
 trojan://telegram-id-directvpn@63.177.201.129:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 548 | Oct-20 | MTSRVRS
@@ -132,4 +133,3 @@ trojan://eG92F3gh09@51.15.86.181:1935?security=tls&headerType=none&type=tcp&sni=
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#🌐سرور 628 | Oct-20 | MTSRVRS
 trojan://bpb-trojan@104.17.147.22:443?security=tls&sni=www.speedtest.net&path=/trsOhXJ7DIsVTqppwd?ed=2560#🌐سرور 629 | Oct-20 | MTSRVRS
 trojan://trojan@104.21.3.52:443?security=tls&type=ws&sni=test-a23.pages.dev&path=/Telegram-@V2ray_Alpha/?ed=2560&host=test-a23.pages.dev#🌐سرور 630 | Oct-20 | MTSRVRS
-trojan://b963ccdf-b883-473e-8edf-0f5cfaead254@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FNL1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#🌐سرور 1415 | Oct-20 | MTSRVRS
