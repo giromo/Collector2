@@ -1,4 +1,4 @@
-trojan://telegram-id-privatevpns@51.24.18.227:22222?security=tls&sni=trojan.burgerip.co.uk%23@Hope_Net-join-us-on-Telegram#🌐سرور 189 | Oct-21 | MTSRVRS
+trojan://telegram-id-privatevpns@51.24.18.227:22222?security=tls&sni=trojan.burgerip.co.uk%23@Hope_Net-join-us-on-Telegram#🌐سرور 180 | Oct-21 | MTSRVRS
 trojan://88a9a235-d071-4eda-9f47-b1e85019cfb1@172.67.168.193:443?path=%2FFree-VPN-CF-Geo-Project%2FCZ1&security=tls&host=joss.gpj2.dpdns.org&fp=randomized&type=ws&sni=joss.gpj2.dpdns.org#🌐سرور 434 | Oct-21 | MTSRVRS
 trojan://juzi@104.19.57.183:2096?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🌐سرور 435 | Oct-21 | MTSRVRS
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiRrgAsHzTP8d&security=tls&alpn=http%2F1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#🌐سرور 436 | Oct-21 | MTSRVRS
