@@ -1,5 +1,5 @@
-trojan://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@104.17.148.22:443?security=tls&sni=119f3a0b.chikiy123w.pages.dev&type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/Telegram@Linkvws?ed=2048&fp=randomized%23@Hope_Net-join-us-on-Telegram#🌐سرور 510 | Oct-28 | MTSRVRS
-trojan://tg-dns68@104.19.35.123:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org%23@Hope_Net-join-us-on-Teleg#🌐سرور 576 | Oct-28 | MTSRVRS
+trojan://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@104.17.148.22:443?security=tls&sni=119f3a0b.chikiy123w.pages.dev&type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/Telegram@Linkvws?ed=2048&fp=randomized%23@Hope_Net-join-us-on-Telegram#🌐سرور 506 | Oct-28 | MTSRVRS
+trojan://tg-dns68@104.19.35.123:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org%23@Hope_Net-join-us-on-Teleg#🌐سرور 575 | Oct-28 | MTSRVRS
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#🌐سرور 585 | Oct-28 | MTSRVRS
 trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.106.144:2381?sni=www.nintendogames.net&path=/#🌐سرور 586 | Oct-28 | MTSRVRS
 trojan://telegram-id-privatevpns@15.236.72.198:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 587 | Oct-28 | MTSRVRS
@@ -57,6 +57,7 @@ trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiR
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=%2F#🌐سرور 639 | Oct-28 | MTSRVRS
 trojan://wlmsgKSFLH@31.57.107.77:44395?path=%2FCHANNEL---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN---Golestanv_VPN%3Fed%3D8080&security=none&type=ws#🌐سرور 640 | Oct-28 | MTSRVRS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 641 | Oct-28 | MTSRVRS
+trojan://bpb-trojan@digiclassor.ir:443?path=%2FtrmqBcNssn2YTZY2qv%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-Bpb-WOrKer-paneL.pagEs.DeV#🌐سرور 642 | Oct-28 | MTSRVRS
 trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#🌐سرور 643 | Oct-28 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:8443?path=%2FtrpXEf7QIPdwhQjYkV%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-WoRkER-pAnEl.pAGEs.DeV#🌐سرور 644 | Oct-28 | MTSRVRS
 trojan://telegram-id-directvpn@35.181.70.1:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 645 | Oct-28 | MTSRVRS
@@ -153,6 +154,5 @@ trojan://trojan@91.193.58.0:443?security=tls&sni=wahaha.yingyangkuaixian.dpdns.o
 trojan://telegram-id-privatevpns@15.236.140.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 740 | Oct-28 | MTSRVRS
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 741 | Oct-28 | MTSRVRS
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#🌐سرور 742 | Oct-28 | MTSRVRS
-trojan://bpb-trojan@digiclassor.ir:443?path=%2FtrmqBcNssn2YTZY2qv%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-Bpb-WOrKer-paneL.pagEs.DeV#🌐سرور 1679 | Oct-28 | MTSRVRS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 3236 | Oct-28 | MTSRVRS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 3238 | Oct-28 | MTSRVRS
