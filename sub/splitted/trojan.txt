@@ -1,8 +1,8 @@
-trojan://telegram-id-directvpn@3.128.98.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 167 | Oct-28 | MTSRVRS
+trojan://telegram-id-directvpn@3.128.98.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 148 | Oct-28 | MTSRVRS
 trojan://telegram-id-directvpn@3.146.173.245:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk%23%5B%F0%9F%8F%81%5Dt.me/ConfigsHub#🌐سرور 419 | Oct-28 | MTSRVRS
-trojan://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@104.17.148.22:443?security=tls&sni=119f3a0b.chikiy123w.pages.dev&type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/Telegram@Linkvws?ed=2048&fp=randomized%23@Hope_Net-join-us-on-Telegram#🌐سرور 480 | Oct-28 | MTSRVRS
-trojan://tg-dns68@104.19.35.123:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org%23@Hope_Net-join-us-on-Teleg#🌐سرور 547 | Oct-28 | MTSRVRS
-trojan://telegram-id-directvpn@3.146.173.245:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk%23@Hope_Net-join-us-on-Telegram#🌐سرور 608 | Oct-28 | MTSRVRS
+trojan://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@104.17.148.22:443?security=tls&sni=119f3a0b.chikiy123w.pages.dev&type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/Telegram@Linkvws?ed=2048&fp=randomized%23@Hope_Net-join-us-on-Telegram#🌐سرور 460 | Oct-28 | MTSRVRS
+trojan://tg-dns68@104.19.35.123:443?security=tls&type=ws&sni=vip.putata.eu.org&host=vip.putata.eu.org%23@Hope_Net-join-us-on-Teleg#🌐سرور 535 | Oct-28 | MTSRVRS
+trojan://telegram-id-directvpn@3.146.173.245:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk%23@Hope_Net-join-us-on-Telegram#🌐سرور 600 | Oct-28 | MTSRVRS
 trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#🌐سرور 620 | Oct-28 | MTSRVRS
 trojan://b963ccdf-b883-473e-8edf-0f5cfaead254@172.67.192.215:443?path=%2FFree-VPN-CF-Geo-Project%2FNL1&security=tls&host=joss.krikkrik.xyz&fp=randomized&type=ws&sni=joss.krikkrik.xyz#🌐سرور 621 | Oct-28 | MTSRVRS
 trojan://telegram-id-privatevpns@35.158.30.194:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 622 | Oct-28 | MTSRVRS
