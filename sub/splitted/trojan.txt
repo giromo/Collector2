@@ -1,5 +1,4 @@
-trojan://bpb-trojan@172.66.47.117:8443?sni=AZaDneT-Hwt.pAGES.dev%23@Hope_Net-join-us-on-Telegramtrojan://tg-dns68@104.19.35.123:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org%23@Hope_Net-join-us-on-Telegram#🌐سرور 144 | Oct-29 | MTSRVRS
-trojan://bpb-trojan@104.18.34.21:2053?security=tls&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&host=bpb-worker-panel1-e4p.pages.dev%23@Hope_Net-join-us-on-Teleg#🌐سرور 204 | Oct-29 | MTSRVRS
+trojan://bpb-trojan@104.18.34.21:2053?security=tls&type=ws&sni=bpB-worKER-paneL1-e4p.pAGes.dEV&path=/trEjWhhuRjwiMwSbDN/ZGUucmFkaWNhbGx5LnBybw==&host=bpb-worker-panel1-e4p.pages.dev%23@Hope_Net-join-us-on-Teleg#🌐سرور 152 | Oct-29 | MTSRVRS
 trojan://4b0915d7-8544-5d48-946a-a708d7288447@104.17.148.22:2052?security=none&type=httpupgrade&host=www-domain.ua1.vless.sitespeedtest.net&path=/httpupgrade?ed=Telegram@Linkvws?ed=2560%23@Hope_Net-join-us-on-Telegramtrojan://join-bede-daily-configs@172.64.146.66:8443?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir%23@Hope_Net-join-us-on-Telegram#🌐سرور 254 | Oct-29 | MTSRVRS
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 510 | Oct-29 | MTSRVRS
 trojan://Watashi_VPN@172.64.149.134:8443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🌐سرور 511 | Oct-29 | MTSRVRS
@@ -28,6 +27,7 @@ trojan://telegram-id-privatevpns@63.180.165.233:22222?security=tls&alpn=http/1.1
 trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInsecure=1&type=tcp#🌐سرور 534 | Oct-29 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🌐سرور 535 | Oct-29 | MTSRVRS
 trojan://tg-dns68@162.159.152.231:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🌐سرور 536 | Oct-29 | MTSRVRS
+trojan://bpb-trojan@[2606:4700:310c::ac42:2c57]:443?path=%2FtrX8KHVBHF19MGHAzI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BpB-worKeR-pAnEL.paGEs.dEV#🌐سرور 537 | Oct-29 | MTSRVRS
 trojan://telegram-id-directvpn@3.65.170.75:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 538 | Oct-29 | MTSRVRS
 trojan://telegram-id-directvpn@63.179.28.156:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 539 | Oct-29 | MTSRVRS
 trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?security=tls&sni=CCcvfgt6.852224.dpdns.org&type=ws&host=cccvfgt6.852224.dpdns.org&path=%2FCA5bMmr2JMum8sDKRwvFCJq&fp=chrome&alpn=http%2F1.1#🌐سرور 540 | Oct-29 | MTSRVRS
@@ -183,5 +183,5 @@ trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiR
 trojan://trojan@104.21.3.52:443?security=tls&type=ws&sni=test-a23.pages.dev&path=/?ed=2560&host=test-a23.pages.dev#🌐سرور 690 | Oct-29 | MTSRVRS
 trojan://blue2024@104.17.64.70:443?sni=ta.promote.icu#🌐سرور 691 | Oct-29 | MTSRVRS
 trojan://bpb-trojan@104.18.37.111:443?security=tls&sni=mindrOOm-5cz.pAgEs.dEV&type=ws&host=mindroom-5cz.pages.dev&path=%2FtrC8BM8bTsAF0AnLYL%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🌐سرور 692 | Oct-29 | MTSRVRS
-trojan://bpb-trojan@[2606:4700:310c::ac42:2c57]:443?path=%2FtrX8KHVBHF19MGHAzI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BpB-worKeR-pAnEL.paGEs.dEV#🌐سرور 1654 | Oct-29 | MTSRVRS
+trojan://bpb-trojan@172.66.47.117:8443?sni=AZaDneT-Hwt.pAGES.dev%23@Hope_Net-join-us-on-Telegramtrojan://tg-dns68@104.19.35.123:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org%23@Hope_Net-join-us-on-Telegram#🌐سرور 1652 | Oct-29 | MTSRVRS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 3174 | Oct-29 | MTSRVRS
