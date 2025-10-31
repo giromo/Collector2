@@ -1,6 +1,6 @@
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?type=tcp&security=tls&sni=fluxfloss.click#🌐سرور 102 | Oct-31 | MTSRVRS
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#🌐سرور 103 | Oct-31 | MTSRVRS
-trojan://telegram-id-privatevpns@13.53.237.92:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🌐سرور 166 | Oct-31 | MTSRVRS
+trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#🌐سرور 77 | Oct-31 | MTSRVRS
+trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?type=tcp&security=tls&sni=fluxfloss.click#🌐سرور 78 | Oct-31 | MTSRVRS
+trojan://telegram-id-privatevpns@13.53.237.92:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#🌐سرور 128 | Oct-31 | MTSRVRS
 trojan://telegram-id-directvpn@52.28.43.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 484 | Oct-31 | MTSRVRS
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org#🌐سرور 485 | Oct-31 | MTSRVRS
 trojan://2fe62d75-af36-4f84-97cb-c0c71691be1b@www.speedtest.net:2052?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95maxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi2.v2vless.sitespeedtest.net&type=ws#🌐سرور 486 | Oct-31 | MTSRVRS
