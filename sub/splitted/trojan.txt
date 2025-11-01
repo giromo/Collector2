@@ -1,5 +1,6 @@
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#🌐سرور 96 | Nov-01 | MTSRVRS
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp&path=/#🌐سرور 97 | Nov-01 | MTSRVRS
+trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#🌐سرور 91 | Nov-01 | MTSRVRS
+trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp&path=/#🌐سرور 93 | Nov-01 | MTSRVRS
+trojan://telegram-id-directvpn@63.180.154.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 136 | Nov-01 | MTSRVRS
 trojan://telegram-id-directvpn@3.75.116.251:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 465 | Nov-01 | MTSRVRS
 trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=%2F#🌐سرور 466 | Nov-01 | MTSRVRS
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=%2F#🌐سرور 467 | Nov-01 | MTSRVRS
@@ -65,7 +66,6 @@ trojan://telegram-id-privatevpns@15.236.49.130:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.37.169.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 527 | Nov-01 | MTSRVRS
 trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#🌐سرور 528 | Nov-01 | MTSRVRS
 trojan://AvAwYypwS@120.197.94.136:28175?security=tls&allowInsecure=1&type=tcp&headerType=none#🌐سرور 529 | Nov-01 | MTSRVRS
-trojan://telegram-id-directvpn@63.180.154.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 530 | Nov-01 | MTSRVRS
 trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🌐سرور 531 | Nov-01 | MTSRVRS
 trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🌐سرور 532 | Nov-01 | MTSRVRS
 trojan://3648425794742788096@91.206.179.250:443?#🌐سرور 533 | Nov-01 | MTSRVRS
