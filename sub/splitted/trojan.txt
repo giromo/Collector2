@@ -1,5 +1,5 @@
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#🌐سرور 38 | Nov-02 | MTSRVRS
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=www.nintendogames.net&type=tcp#🌐سرور 47 | Nov-02 | MTSRVRS
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=www.nintendogames.net&type=tcp#🌐سرور 38 | Nov-02 | MTSRVRS
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#🌐سرور 39 | Nov-02 | MTSRVRS
 trojan://trojan@91.193.58.0:443?security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=chrome&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=%2F#🌐سرور 420 | Nov-02 | MTSRVRS
 trojan://D3OJA7xY5U@209.200.246.53:10785?security=reality&pbk=Yj8X6ZHfj6UpI7-XxFpodTIoWKiZ5TYbNWj1LQqruCY&fp=chrome&type=grpc&sni=cloudflare.com&sid=20b09680#🌐سرور 421 | Nov-02 | MTSRVRS
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#🌐سرور 422 | Nov-02 | MTSRVRS
