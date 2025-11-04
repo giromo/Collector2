@@ -1,4 +1,4 @@
-trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 63 | Nov-04 | MTSRVRS
+trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 58 | Nov-04 | MTSRVRS
 trojan://7x42LetRa0@106.180.225.69:1443?allowInsecure=0%23@Hope_Net-join-us-on-Teleg#🌐سرور 110 | Nov-04 | MTSRVRS
 trojan://telegram-id-directvpn@13.36.97.169:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 451 | Nov-04 | MTSRVRS
 trojan://telegram-id-directvpn@13.36.97.169:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 452 | Nov-04 | MTSRVRS
