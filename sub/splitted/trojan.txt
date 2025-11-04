@@ -1,4 +1,4 @@
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp&path=/#🌐سرور 73 | Nov-04 | MTSRVRS
+trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp&path=/#🌐سرور 53 | Nov-04 | MTSRVRS
 trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🌐سرور 416 | Nov-04 | MTSRVRS
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.2:10820?allowInsecure=0#🌐سرور 417 | Nov-04 | MTSRVRS
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#🌐سرور 418 | Nov-04 | MTSRVRS
