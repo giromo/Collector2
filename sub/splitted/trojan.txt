@@ -1,7 +1,7 @@
-trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp&path=/#🌐سرور 58 | Nov-04 | MTSRVRS
-trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 75 | Nov-04 | MTSRVRS
-trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 76 | Nov-04 | MTSRVRS
-trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 77 | Nov-04 | MTSRVRS
+trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&sni=fluxfloss.click&type=tcp&path=/#🌐سرور 47 | Nov-04 | MTSRVRS
+trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 64 | Nov-04 | MTSRVRS
+trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 68 | Nov-04 | MTSRVRS
+trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 69 | Nov-04 | MTSRVRS
 trojan://7x42LetRa0@106.180.225.69:1443?allowInsecure=0%23@Hope_Net-join-us-on-Teleg#🌐سرور 165 | Nov-04 | MTSRVRS
 trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.144:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 452 | Nov-04 | MTSRVRS
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.3:10819?allowInsecure=0#🌐سرور 453 | Nov-04 | MTSRVRS
