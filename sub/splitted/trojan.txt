@@ -1,5 +1,5 @@
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19239?allowInsecure=0%23%5B%F0%9F%87%A8%F0%9F%87%B3%5Dt.me/ConfigsHub#🌐سرور 120 | Nov-07 | MTSRVRS
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48461?allowInsecure=0&sni=$$$$hn.xiaohouzi.club%23@Hope_Net-join-us-on-Telegramtrojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-2.mielink-dns2.com:443?allowInsecure=0&sni=paydiu.com%23@Hope_Net-join-us-on-Telegram#🌐سرور 127 | Nov-07 | MTSRVRS
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19239?allowInsecure=0%23%5B%F0%9F%87%A8%F0%9F%87%B3%5Dt.me/ConfigsHub#🌐سرور 171 | Nov-07 | MTSRVRS
 trojan://telegram-id-directvpn@63.176.193.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 386 | Nov-07 | MTSRVRS
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🌐سرور 387 | Nov-07 | MTSRVRS
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#🌐سرور 388 | Nov-07 | MTSRVRS
