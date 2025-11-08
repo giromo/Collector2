@@ -1,5 +1,5 @@
-trojan://BxceQaOe@58.152.53.186:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 35 | Nov-08 | MTSRVRS
-trojan://BxceQaOe@58.152.30.26:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 50 | Nov-08 | MTSRVRS
+trojan://BxceQaOe@58.152.30.26:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 42 | Nov-08 | MTSRVRS
+trojan://BxceQaOe@58.152.53.186:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 46 | Nov-08 | MTSRVRS
 trojan://telegram-id-privatevpns@13.36.69.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 410 | Nov-08 | MTSRVRS
 trojan://telegram-id-directvpn@35.181.229.245:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 411 | Nov-08 | MTSRVRS
 trojan://telegram-id-directvpn@15.237.166.11:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 412 | Nov-08 | MTSRVRS
