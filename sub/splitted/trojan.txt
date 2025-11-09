@@ -1,8 +1,8 @@
-trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 72 | Nov-09 | MTSRVRS
-trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 73 | Nov-09 | MTSRVRS
-trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 75 | Nov-09 | MTSRVRS
-trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 76 | Nov-09 | MTSRVRS
-trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 79 | Nov-09 | MTSRVRS
+trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 57 | Nov-09 | MTSRVRS
+trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 58 | Nov-09 | MTSRVRS
+trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 59 | Nov-09 | MTSRVRS
+trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 60 | Nov-09 | MTSRVRS
+trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 61 | Nov-09 | MTSRVRS
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#🌐سرور 454 | Nov-09 | MTSRVRS
 trojan://telegram-id-privatevpns@63.179.202.159:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 455 | Nov-09 | MTSRVRS
 trojan://telegram-id-directvpn@13.37.203.230:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 456 | Nov-09 | MTSRVRS
