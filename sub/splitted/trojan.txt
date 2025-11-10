@@ -1,4 +1,4 @@
-trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=temporaltortellini.click&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#🌐سرور 116 | Nov-10 | MTSRVRS
+trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=temporaltortellini.click&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#🌐سرور 91 | Nov-10 | MTSRVRS
 trojan://telegram-id-privatevpns@46.137.38.173:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1%23@Hope_Net-join-us-on-Telegram#🌐سرور 427 | Nov-10 | MTSRVRS
 trojan://27f95174-9ea7-49c2-9cb6-b649abe675d7@nsaab.889948.xyz:443?path=%2Fxispaix&security=tls&host=mg2.gogogo.qpon&type=ws&sni=mg2.gogogo.qpon#🌐سرور 455 | Nov-10 | MTSRVRS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 456 | Nov-10 | MTSRVRS
