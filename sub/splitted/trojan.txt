@@ -1,4 +1,4 @@
-trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81/?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&sni=joss.dus.biz.id#🌐سرور 276 | Nov-12 | MTSRVRS
+trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81/?type=ws&host=joss.dus.biz.id&path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&sni=joss.dus.biz.id#🌐سرور 246 | Nov-12 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:8443?path=%2FtrpXEf7QIPdwhQjYkV%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-WoRkER-pAnEl.pAGEs.DeV#🌐سرور 405 | Nov-12 | MTSRVRS
 trojan://1b57001bd214304027025a740b6cf1ac@221.128.195.12:3841?sni=www.nintendogames.net&fp=chrome&path=/#🌐سرور 406 | Nov-12 | MTSRVRS
 trojan://telegram-id-directvpn@35.180.222.18:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 407 | Nov-12 | MTSRVRS
