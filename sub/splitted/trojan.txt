@@ -1,5 +1,5 @@
-trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?encryption=none&security=tls&sni=raincoat.bluetigeraa.click&type=raw&headertype=none#🌐سرور 11 | Nov-13 | MTSRVRS
-trojan://telegram-id-directvpn@3.70.102.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 237 | Nov-13 | MTSRVRS
+trojan://vp0GmFj.yIw1RZrd@155.138.228.41:19313?encryption=none&security=tls&sni=raincoat.bluetigeraa.click&type=raw&headertype=none#🌐سرور 49 | Nov-13 | MTSRVRS
+trojan://telegram-id-directvpn@3.70.102.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 246 | Nov-13 | MTSRVRS
 trojan://telegram-id-privatevpns@3.69.117.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 418 | Nov-13 | MTSRVRS
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#🌐سرور 419 | Nov-13 | MTSRVRS
 trojan://telegram-id-directvpn@13.39.206.112:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 420 | Nov-13 | MTSRVRS
