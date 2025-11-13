@@ -1,4 +1,4 @@
-trojan://BxceQaOe@116.49.237.130:2173?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 90 | Nov-13 | MTSRVRS
+trojan://BxceQaOe@116.49.237.130:2173?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 113 | Nov-13 | MTSRVRS
 trojan://telegram-id-privatevpns@51.44.99.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 358 | Nov-13 | MTSRVRS
 trojan://telegram-id-directvpn@51.45.24.134:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 359 | Nov-13 | MTSRVRS
 trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev#🌐سرور 360 | Nov-13 | MTSRVRS
