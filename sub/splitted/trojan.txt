@@ -1,4 +1,4 @@
-trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?security=tls&sni=steampipe.akamaized.net&allowInsecure=1&type=tcp&headerType=none#🌐سرور 84 | Nov-13 | MTSRVRS
+trojan://c2e3cdc0-bc72-3505-b2a9-ea5ed7bfa23f@151.242.164.127:3443?security=tls&sni=steampipe.akamaized.net&allowInsecure=1&type=tcp&headerType=none#🌐سرور 78 | Nov-13 | MTSRVRS
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#🌐سرور 356 | Nov-13 | MTSRVRS
 trojan://telegram-id-privatevpns@3.71.241.158:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 357 | Nov-13 | MTSRVRS
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#🌐سرور 358 | Nov-13 | MTSRVRS
