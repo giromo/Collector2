@@ -1,4 +1,4 @@
-trojan://2274c52572e721086f8bd8f88984643c@160.16.204.136:1334?sni=www.nintendogames.net&path=/#🌐سرور 69 | Nov-14 | MTSRVRS
+trojan://2274c52572e721086f8bd8f88984643c@160.16.204.136:1334?sni=www.nintendogames.net&path=/#🌐سرور 86 | Nov-14 | MTSRVRS
 trojan://telegram-id-privatevpns@3.121.111.178:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 381 | Nov-14 | MTSRVRS
 trojan://telegram-id-directvpn@51.45.24.134:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 383 | Nov-14 | MTSRVRS
 trojan://27f95174-9ea7-49c2-9cb6-b649abe675d7@nsaab.889948.xyz:443?path=%2Fxispaix&security=tls&host=mg2.gogogo.qpon&type=ws&sni=mg2.gogogo.qpon#🌐سرور 384 | Nov-14 | MTSRVRS
