@@ -1,8 +1,6 @@
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 31 | Nov-18 | MTSRVRS
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 39 | Nov-18 | MTSRVRS
-trojan://ZyX%23rcLFldaPKHUC7NYm@217.170.194.222:13580/?type=tcp&security=tls&sni=aspryonktg.mthjfbiay.click#🌐سرور 47 | Nov-18 | MTSRVRS
-trojan://BxceQaOe@116.49.237.130:2673?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 50 | Nov-18 | MTSRVRS
-trojan://BxceQaOe@116.49.237.130:2569?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 63 | Nov-18 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.150.76:3093?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 29 | Nov-18 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 33 | Nov-18 | MTSRVRS
+trojan://ZyX%23rcLFldaPKHUC7NYm@217.170.194.222:13580/?type=tcp&security=tls&sni=aspryonktg.mthjfbiay.click#🌐سرور 39 | Nov-18 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🌐سرور 401 | Nov-18 | MTSRVRS
 trojan://bpb-trojan@www.speedtest.net:443?path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-wORkER-paNel.pAGEs.DeV#🌐سرور 402 | Nov-18 | MTSRVRS
 trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:127?sni=www.nintendogames.net&path=/#🌐سرور 403 | Nov-18 | MTSRVRS
@@ -36,6 +34,7 @@ trojan://telegram-id-privatevpns@13.39.172.220:22222?security=tls&alpn=http/1.1&
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#🌐سرور 431 | Nov-18 | MTSRVRS
 trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&alpn=http%2F1.1&host=45.112.192.29&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#🌐سرور 432 | Nov-18 | MTSRVRS
 trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#🌐سرور 433 | Nov-18 | MTSRVRS
+trojan://BxceQaOe@116.49.237.130:2569?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 434 | Nov-18 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:443?path=%2Ftrzf4cT2bn8MYJ0wE4%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPb-woRKEr-panEL.PaGES.dev#🌐سرور 435 | Nov-18 | MTSRVRS
 trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:8443?path=%2Ftr5gvCjFBPFcmGVEFz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpB-woRKer-pANeL.pAGes.dev#🌐سرور 436 | Nov-18 | MTSRVRS
 trojan://fg20mtCFHy@ukcsz.southbyte.xyz:5705?security=tls&headerType=none&type=tcp#🌐سرور 437 | Nov-18 | MTSRVRS
@@ -103,6 +102,7 @@ trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#🌐سرور 501 | Nov-18 | MTSRVRS
 trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&headerType=none&type=tcp#🌐سرور 502 | Nov-18 | MTSRVRS
 trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&headerType=none&type=tcp#🌐سرور 503 | Nov-18 | MTSRVRS
+trojan://BxceQaOe@116.49.237.130:2673?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 504 | Nov-18 | MTSRVRS
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 505 | Nov-18 | MTSRVRS
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#🌐سرور 506 | Nov-18 | MTSRVRS
 trojan://telegram-id-directvpn@51.45.20.177:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 507 | Nov-18 | MTSRVRS
