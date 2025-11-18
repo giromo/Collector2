@@ -1,4 +1,3 @@
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 36 | Nov-18 | MTSRVRS
 trojan://telegram-id-directvpn@52.59.28.61:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1%23@Hope_Net-join-us-on-Telegram#🌐سرور 242 | Nov-18 | MTSRVRS
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 426 | Nov-18 | MTSRVRS
 trojan://telegram-id-privatevpns@13.37.117.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 427 | Nov-18 | MTSRVRS
@@ -48,6 +47,7 @@ trojan://telegram-id-privatevpns@18.195.65.62:22222?security=tls&alpn=http/1.1&h
 trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:3169?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 471 | Nov-18 | MTSRVRS
 trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?security=tls&sni=CCcvfgt6.852224.dpdns.org&type=ws&host=cccvfgt6.852224.dpdns.org&path=%2FCA5bMmr2JMum8sDKRwvFCJq&fp=chrome&alpn=http%2F1.1#🌐سرور 472 | Nov-18 | MTSRVRS
 trojan://bpb-trojan@104.21.30.195:443?security=tls&sni=403b3611-99BC-43B7-88D7-26eD5d0825a9-3.PagES.DEv&type=tcp#🌐سرور 473 | Nov-18 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 474 | Nov-18 | MTSRVRS
 trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:443?path=%2Ftrm7P3VNsWWOwIafAP%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPb-WORKer-paNEL.paGeS.dEV#🌐سرور 475 | Nov-18 | MTSRVRS
 trojan://telegram-id-directvpn@15.236.170.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 476 | Nov-18 | MTSRVRS
 trojan://telegram-id-directvpn@15.236.213.210:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 477 | Nov-18 | MTSRVRS
