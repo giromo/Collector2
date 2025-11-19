@@ -1,6 +1,6 @@
-trojan://BxceQaOe@160.16.85.138:4492?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 42 | Nov-19 | MTSRVRS
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:1334?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 43 | Nov-19 | MTSRVRS
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 46 | Nov-19 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.240.91:1334?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 29 | Nov-19 | MTSRVRS
+trojan://BxceQaOe@160.16.85.138:4492?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 30 | Nov-19 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 47 | Nov-19 | MTSRVRS
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?security=tls&sni=azadnet-bdr.pages.dev&type=tcp#🌐سرور 408 | Nov-19 | MTSRVRS
 trojan://LxJCPOP40a@206.206.77.237:51469?mode=gun&security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&fp=chrome&type=grpc&sni=cloudflare.com&sid=793dfc59cf7edf#🌐سرور 409 | Nov-19 | MTSRVRS
 trojan://telegram-id-directvpn@3.65.9.213:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 410 | Nov-19 | MTSRVRS
