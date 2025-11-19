@@ -1,6 +1,7 @@
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 84 | Nov-19 | MTSRVRS
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 85 | Nov-19 | MTSRVRS
-trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@194.87.18.124:443?allowInsecure=1&sni=www.bilibili.com#🌐سرور 98 | Nov-19 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 60 | Nov-19 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 71 | Nov-19 | MTSRVRS
+trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@194.87.18.124:443?allowInsecure=1&sni=www.bilibili.com#🌐سرور 85 | Nov-19 | MTSRVRS
+trojan://BxceQaOe@58.152.26.173:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 92 | Nov-19 | MTSRVRS
 trojan://tg-dns68@162.159.152.107:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🌐سرور 417 | Nov-19 | MTSRVRS
 trojan://telegram-id-directvpn@52.57.61.13:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 418 | Nov-19 | MTSRVRS
 trojan://BxceQaOe@38.180.191.251:443?security=tls&headerType=none&type=tcp&sni=t.me%2Fripaojiedian#🌐سرور 419 | Nov-19 | MTSRVRS
@@ -83,7 +84,6 @@ trojan://telegram-id-privatevpns@51.45.20.177:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@63.180.123.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 499 | Nov-19 | MTSRVRS
 trojan://telegram-id-privatevpns@13.39.215.120:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 500 | Nov-19 | MTSRVRS
 trojan://Zr6WdH2Mq9L3@108.61.181.2:443?sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#🌐سرور 501 | Nov-19 | MTSRVRS
-trojan://BxceQaOe@58.152.26.173:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 502 | Nov-19 | MTSRVRS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#🌐سرور 503 | Nov-19 | MTSRVRS
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🌐سرور 504 | Nov-19 | MTSRVRS
 trojan://telegram-id-directvpn@13.49.122.233:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 505 | Nov-19 | MTSRVRS
