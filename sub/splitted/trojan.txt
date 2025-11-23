@@ -1,11 +1,9 @@
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 48 | Nov-23 | MTSRVRS
-trojan://BxceQaOe@95.40.7.3:2773?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 49 | Nov-23 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 51 | Nov-23 | MTSRVRS
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 62 | Nov-23 | MTSRVRS
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 64 | Nov-23 | MTSRVRS
-trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478/?type=tcp&security=tls&sni=temporaltortellini.click#🌐سرور 69 | Nov-23 | MTSRVRS
-trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#🌐سرور 70 | Nov-23 | MTSRVRS
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.92:443?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 100 | Nov-23 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 44 | Nov-23 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 45 | Nov-23 | MTSRVRS
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#🌐سرور 57 | Nov-23 | MTSRVRS
+trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478/?type=tcp&security=tls&sni=temporaltortellini.click#🌐سرور 58 | Nov-23 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 60 | Nov-23 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.92:443?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 82 | Nov-23 | MTSRVRS
 trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=4b2cd56a#🌐سرور 444 | Nov-23 | MTSRVRS
 trojan://tg-dns68@162.159.153.86:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#🌐سرور 445 | Nov-23 | MTSRVRS
 trojan://telegram-id-directvpn@63.180.94.122:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 446 | Nov-23 | MTSRVRS
@@ -79,6 +77,7 @@ trojan://telegram-id-privatevpns@46.51.180.160:22222?security=tls&type=tcp&sni=t
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&fp=chrome&alpn=http%2F1.1#🌐سرور 519 | Nov-23 | MTSRVRS
 trojan://95b@43.240.13.199:41846?type=ws&sni=ceb98438-36f6-4f6c-9596-8d0409bbe285.b1e18cfc-f959-4f08-94da-4878c3cd4a5f.mywire.org&host=ceb98438-36f6-4f6c-9596-8d0409bbe285.b1e18cfc-f959-4f08-94da-4878c3cd4a5f.mywire.org#🌐سرور 520 | Nov-23 | MTSRVRS
 trojan://telegram-id-directvpn@13.38.207.171:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 521 | Nov-23 | MTSRVRS
+trojan://BxceQaOe@95.40.7.3:2773?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 522 | Nov-23 | MTSRVRS
 trojan://telegram-id-privatevpns@52.57.38.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 523 | Nov-23 | MTSRVRS
 trojan://G9CHhXltVx@96.9.213.108:12646?security=tls&headerType=none&type=tcp#🌐سرور 524 | Nov-23 | MTSRVRS
 trojan://tg-dns68@162.159.152.191:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🌐سرور 525 | Nov-23 | MTSRVRS
@@ -101,6 +100,7 @@ trojan://bpb-trojan@162.159.152.227:443?security=tls&sni=cf.090227.xyz&allowInse
 trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#🌐سرور 542 | Nov-23 | MTSRVRS
 trojan://tg-dns68@162.159.152.36:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🌐سرور 543 | Nov-23 | MTSRVRS
 trojan://telegram-id-directvpn@35.157.163.157:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 544 | Nov-23 | MTSRVRS
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.117.182:2760?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 545 | Nov-23 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🌐سرور 546 | Nov-23 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🌐سرور 549 | Nov-23 | MTSRVRS
 trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#🌐سرور 550 | Nov-23 | MTSRVRS
