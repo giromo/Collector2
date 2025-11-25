@@ -1,11 +1,11 @@
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 11 | Nov-25 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=runningshoes.purpletornado.click#🌐سرور 32 | Nov-25 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 25 | Nov-25 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 32 | Nov-25 | MTSRVRS
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 33 | Nov-25 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 34 | Nov-25 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=runningshoes.purpletornado.click#🌐سرور 35 | Nov-25 | MTSRVRS
 trojan://z-H_x58nS=VUaw.o@216.238.94.42:19939/?type=tcp&security=tls&sni=xuhyqrwofidgl.zwodhfgqaps.click#🌐سرور 36 | Nov-25 | MTSRVRS
-trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#🌐سرور 43 | Nov-25 | MTSRVRS
-trojan://Qzy7tgpRhu@37.18.14.33:443?allowInsecure=1&sni=m.vk.com#🌐سرور 52 | Nov-25 | MTSRVRS
-trojan://f0b09670-9e9a-48f2-acd5-5b6cc33c83c5@cdir-0303.wlfvip.shop:443?path=/trojanws?ed=2048&security=tls&host=cdir-0303.wlfvip.shop&type=ws&sni=cdir-0303.wlfvip.shop%23ConfigV2RayNG#🌐سرور 355 | Nov-25 | MTSRVRS
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=t.me%2Fv2Line&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#🌐سرور 41 | Nov-25 | MTSRVRS
+trojan://Qzy7tgpRhu@37.18.14.33:443?allowInsecure=1&sni=m.vk.com#🌐سرور 55 | Nov-25 | MTSRVRS
+trojan://f0b09670-9e9a-48f2-acd5-5b6cc33c83c5@cdir-0303.wlfvip.shop:443?path=/trojanws?ed=2048&security=tls&host=cdir-0303.wlfvip.shop&type=ws&sni=cdir-0303.wlfvip.shop%23ConfigV2RayNG#🌐سرور 349 | Nov-25 | MTSRVRS
 trojan://telegram-id-privatevpns@63.181.59.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 388 | Nov-25 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🌐سرور 389 | Nov-25 | MTSRVRS
 trojan://1sbtkLK7F3@195.22.157.104:37085?path=%2Fmoshali2plus&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=chrome&type=httpupgrade&sni=joon.arshiacomplus.dpdns.org#🌐سرور 390 | Nov-25 | MTSRVRS
