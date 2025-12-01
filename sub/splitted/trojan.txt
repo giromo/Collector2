@@ -1,7 +1,7 @@
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&headerType=none&path=/#🌐سرور 123 | Dec-01 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&path=/#🌐سرور 124 | Dec-01 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 125 | Dec-01 | MTSRVRS
-trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#🌐سرور 135 | Dec-01 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&path=/#🌐سرور 104 | Dec-01 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 105 | Dec-01 | MTSRVRS
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#🌐سرور 107 | Dec-01 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&sni=runningshoes.purpletornado.click&type=tcp&headerType=none&path=/#🌐سرور 108 | Dec-01 | MTSRVRS
 trojan://telegram-id-directvpn@51.45.30.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 427 | Dec-01 | MTSRVRS
 trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?security=tls&sni=CCcvfgt6.852224.dpdns.org&type=ws&host=cccvfgt6.852224.dpdns.org&path=%2FCA5bMmr2JMum8sDKRwvFCJq&fp=chrome&alpn=http%2F1.1#🌐سرور 428 | Dec-01 | MTSRVRS
 trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#🌐سرور 429 | Dec-01 | MTSRVRS
