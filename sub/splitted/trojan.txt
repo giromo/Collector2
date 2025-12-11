@@ -1,7 +1,7 @@
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 62 | Dec-11 | MTSRVRS
-trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#🌐سرور 67 | Dec-11 | MTSRVRS
-trojan://92690597d6298061459918a371e8d77d@47.242.225.242:443/?type=tcp&security=tls&sni=hezijiasuqi.com&allowInsecure=1#🌐سرور 71 | Dec-11 | MTSRVRS
-trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.89.176:4054?sni=www.nintendogames.net&path=/#🌐سرور 77 | Dec-11 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 47 | Dec-11 | MTSRVRS
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#🌐سرور 56 | Dec-11 | MTSRVRS
+trojan://92690597d6298061459918a371e8d77d@47.242.225.242:443/?type=tcp&security=tls&sni=hezijiasuqi.com&allowInsecure=1#🌐سرور 59 | Dec-11 | MTSRVRS
+trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.89.176:4054?sni=www.nintendogames.net&path=/#🌐سرور 85 | Dec-11 | MTSRVRS
 trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&security=none#🌐سرور 393 | Dec-11 | MTSRVRS
 trojan://telegram-id-privatevpns@13.37.103.10:22222?security=tls&sni=trojan.burgerip.co.uk&fp=firefox&type=tcp#🌐سرور 394 | Dec-11 | MTSRVRS
 trojan://telegram-id-directvpn@63.181.72.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 395 | Dec-11 | MTSRVRS
