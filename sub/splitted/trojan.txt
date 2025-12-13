@@ -1,11 +1,10 @@
-trojan://rV3TjWB8R1EiK1xhmnypsgeo@172.236.2.42:19872/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🌐سرور 38 | Dec-13 | MTSRVRS
-trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@95.179.210.231:25075?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D&allowInsecure=1&fp=chrome%20#🌐سرور 40 | Dec-13 | MTSRVRS
-trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@95.179.210.231:25075?sni=ads.x5.ru&allowInsecure=1&fp=chrome#🌐سرور 41 | Dec-13 | MTSRVRS
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=diningtable.electricbanana.click#🌐سرور 42 | Dec-13 | MTSRVRS
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 43 | Dec-13 | MTSRVRS
-trojan://Ha8emXW0_NOSEAYTy7p-wIx.G9kg@167.17.70.5:12151?sni=ads.x5.ru&allowInsecure=1&fp=chrome#🌐سرور 48 | Dec-13 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 55 | Dec-13 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 61 | Dec-13 | MTSRVRS
+trojan://rV3TjWB8R1EiK1xhmnypsgeo@172.236.2.42:19872/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🌐سرور 31 | Dec-13 | MTSRVRS
+trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@95.179.210.231:25075?sni=ads.x5.ru&allowInsecure=1&fp=chrome#🌐سرور 32 | Dec-13 | MTSRVRS
+trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@95.179.210.231:25075?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D&allowInsecure=1&fp=chrome%20#🌐سرور 33 | Dec-13 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 34 | Dec-13 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=diningtable.electricbanana.click#🌐سرور 35 | Dec-13 | MTSRVRS
+trojan://Ha8emXW0_NOSEAYTy7p-wIx.G9kg@167.17.70.5:12151?sni=ads.x5.ru&allowInsecure=1&fp=chrome#🌐سرور 42 | Dec-13 | MTSRVRS
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#🌐سرور 43 | Dec-13 | MTSRVRS
 trojan://BxceQaOe@58.152.18.95:443?security=tls&headerType=none&type=tcp#🌐سرور 401 | Dec-13 | MTSRVRS
 trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&type=tcp#🌐سرور 402 | Dec-13 | MTSRVRS
 trojan://telegram-id-directvpn@3.126.180.133:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 403 | Dec-13 | MTSRVRS
@@ -53,6 +52,7 @@ trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=%2F685uFbiR
 trojan://telegram-id-directvpn@52.212.172.123:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🌐سرور 449 | Dec-13 | MTSRVRS
 trojan://telegram-id-privatevpns@15.237.68.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 450 | Dec-13 | MTSRVRS
 trojan://telegram-id-directvpn@35.181.248.18:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 451 | Dec-13 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 452 | Dec-13 | MTSRVRS
 trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#🌐سرور 453 | Dec-13 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.228.234:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🌐سرور 454 | Dec-13 | MTSRVRS
 trojan://79314e99f0a473fe86efc7827942ad00@203.198.122.13:443?security=tls&sni=www.nintendogames.net&fp=firefox&type=tcp#🌐سرور 455 | Dec-13 | MTSRVRS
@@ -94,7 +94,6 @@ trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&
 trojan://telegram-id-directvpn@3.71.208.119:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 493 | Dec-13 | MTSRVRS
 trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#🌐سرور 494 | Dec-13 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.161.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 495 | Dec-13 | MTSRVRS
-trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#🌐سرور 496 | Dec-13 | MTSRVRS
 trojan://telegram-id-directvpn@52.28.28.48:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 497 | Dec-13 | MTSRVRS
 trojan://telegram-id-privatevpns@13.38.168.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 498 | Dec-13 | MTSRVRS
 trojan://telegram-id-privatevpns@15.237.68.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 499 | Dec-13 | MTSRVRS
@@ -117,6 +116,7 @@ trojan://telegram-id-directvpn@13.36.150.189:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@15.237.68.204:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 516 | Dec-13 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.248.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 517 | Dec-13 | MTSRVRS
 trojan://telegram-id-privatevpns@3.126.180.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 518 | Dec-13 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 519 | Dec-13 | MTSRVRS
 trojan://telegram-id-privatevpns@3.126.180.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 520 | Dec-13 | MTSRVRS
 trojan://FodSUXysuS@180.131.145.161:23274?mode=gun&security=reality&pbk=iX_s_-F07vtmJa8t81J6OBiVksCy0ZHRmXUMyw3l4Vw&fp=chrome&type=grpc&sni=cloudflare.com&sid=14#🌐سرور 521 | Dec-13 | MTSRVRS
 trojan://Fv7ogJ6vfz@209.200.246.53:36774?mode=gun&security=reality&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&type=grpc&sni=cloudflare.com&sid=3e#🌐سرور 522 | Dec-13 | MTSRVRS
