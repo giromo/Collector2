@@ -1,9 +1,9 @@
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 2 | Dec-15 | MTSRVRS
-trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#🌐سرور 55 | Dec-15 | MTSRVRS
-trojan://pk9Cl5J4dpSzj-.O21q0L@64.176.180.67:18756?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ads.x5.ru#🌐سرور 61 | Dec-15 | MTSRVRS
-trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#🌐سرور 62 | Dec-15 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 88 | Dec-15 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 89 | Dec-15 | MTSRVRS
+trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#🌐سرور 37 | Dec-15 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 39 | Dec-15 | MTSRVRS
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#🌐سرور 50 | Dec-15 | MTSRVRS
+trojan://pk9Cl5J4dpSzj-.O21q0L@64.176.180.67:18756?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ads.x5.ru#🌐سرور 66 | Dec-15 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 73 | Dec-15 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 77 | Dec-15 | MTSRVRS
 trojan://tg-dns68@162.159.153.116:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org#🌐سرور 421 | Dec-15 | MTSRVRS
 trojan://eDHWaPzxcl@145.223.70.115:25365?mode=gun&security=reality&pbk=YaP997bVbPWOkNwZ-aKWVNHSdzQkZLzhTGjVRVC1u3I&fp=chrome&type=grpc&sni=cloudflare.com&sid=d9#🌐سرور 422 | Dec-15 | MTSRVRS
 trojan://juzi@3.76.154.119:443?security=tls&sni=juzi8186-sr1.pages.dev&type=tcp#🌐سرور 423 | Dec-15 | MTSRVRS
