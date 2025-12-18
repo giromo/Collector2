@@ -1,11 +1,11 @@
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐 به روزرسانی شده در Dec-18 | 10:10 | هر 2 ساعت کانفیک جدید داریم
-trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ads.x5.ru#🌐سرور 8 | Dec-18 | MTSRVRS
-trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ads.x5.ru#🌐سرور 9 | Dec-18 | MTSRVRS
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.vk.com#🌐سرور 18 | Dec-18 | MTSRVRS
-trojan://e2722c0fb503f8a592436c12bce0509a@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 19 | Dec-18 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 21 | Dec-18 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 24 | Dec-18 | MTSRVRS
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#🌐سرور 25 | Dec-18 | MTSRVRS
+trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=ads.x5.ru#🌐سرور 10 | Dec-18 | MTSRVRS
+trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=ads.x5.ru#🌐سرور 11 | Dec-18 | MTSRVRS
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.vk.com#🌐سرور 12 | Dec-18 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 17 | Dec-18 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 18 | Dec-18 | MTSRVRS
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#🌐سرور 19 | Dec-18 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 20 | Dec-18 | MTSRVRS
+trojan://e2722c0fb503f8a592436c12bce0509a@112.118.116.8:443?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 33 | Dec-18 | MTSRVRS
 trojan://telegram-id-privatevpns@3.123.113.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 316 | Dec-18 | MTSRVRS
 trojan://telegram-id-directvpn@52.47.143.44:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 317 | Dec-18 | MTSRVRS
 trojan://telegram-id-privatevpns@54.75.244.134:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 318 | Dec-18 | MTSRVRS
