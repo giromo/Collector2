@@ -1,6 +1,6 @@
-trojan://Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV@108.61.175.83:24293?sni=ads.x5.ru&allowInsecure=1&fp=chrome#🌐سرور 17 | Dec-18 | MTSRVRS
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 18 | Dec-18 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 19 | Dec-18 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 10 | Dec-18 | MTSRVRS
+trojan://Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV@108.61.175.83:24293?sni=ads.x5.ru&allowInsecure=1&fp=chrome#🌐سرور 14 | Dec-18 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 20 | Dec-18 | MTSRVRS
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#🌐سرور 288 | Dec-18 | MTSRVRS
 trojan://FR8IHksUYg@170.64.132.131:8080?security=none&headerType=http&type=tcp#🌐سرور 289 | Dec-18 | MTSRVRS
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.vk.com#🌐سرور 290 | Dec-18 | MTSRVRS
