@@ -1,8 +1,9 @@
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 29 | Dec-20 | MTSRVRS
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 31 | Dec-20 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 32 | Dec-20 | MTSRVRS
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click&path=/#🌐سرور 38 | Dec-20 | MTSRVRS
-trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 42 | Dec-20 | MTSRVRS
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 45 | Dec-20 | MTSRVRS
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click&path=/#🌐سرور 33 | Dec-20 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 36 | Dec-20 | MTSRVRS
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 42 | Dec-20 | MTSRVRS
+trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 43 | Dec-20 | MTSRVRS
 trojan://ded86ba8-2e5d-4794-8b35-b967e59497bf@117.164.185.222:21002?sni=103-135-251-39.nhost.00cdn.com%23@Hope_Net-join-us-on-Telegram#🌐سرور 244 | Dec-20 | MTSRVRS
 trojan://telegram-id-directvpn@15.236.119.43:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 302 | Dec-20 | MTSRVRS
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🌐سرور 303 | Dec-20 | MTSRVRS
@@ -24,7 +25,6 @@ trojan://57ilz74461jfayyqbb83@194.59.250.54:58499?security=tls&headerType=none&t
 trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 319 | Dec-20 | MTSRVRS
 trojan://telegram-id-privatevpns@13.36.143.88:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 320 | Dec-20 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.129.195:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 321 | Dec-20 | MTSRVRS
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 322 | Dec-20 | MTSRVRS
 trojan://telegram-id-directvpn@3.73.148.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 323 | Dec-20 | MTSRVRS
 trojan://telegram-id-privatevpns@13.37.120.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 324 | Dec-20 | MTSRVRS
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#🌐سرور 325 | Dec-20 | MTSRVRS
