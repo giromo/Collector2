@@ -1,7 +1,7 @@
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 22 | Dec-22 | MTSRVRS
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐سرور 23 | Dec-22 | MTSRVRS
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none&path=/#🌐سرور 24 | Dec-22 | MTSRVRS
-trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#🌐سرور 42 | Dec-22 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&headerType=none&type=tcp&sni=diningtable.electricbanana.click#🌐 به روزرسانی شده در Dec-22 | 07:37 | هر 2 ساعت کانفیک جدید داریم
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&type=tcp&headerType=none&path=/#🌐سرور 1 | Dec-22 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&headerType=none&type=tcp&sni=runningshoes.purpletornado.click#🌐سرور 23 | Dec-22 | MTSRVRS
+trojan://3846a29b-57d5-40f2-8acd-13855aa025cd@green2.cdntencentmusic.com:31103?allowInsecure=0&sni=green2.cdntencentmusic.com#🌐سرور 40 | Dec-22 | MTSRVRS
 trojan://telegram-id-directvpn@13.53.57.0:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk%23@Hope_Net-join-us-on-Telegram#🌐سرور 138 | Dec-22 | MTSRVRS
 trojan://KsAG60yhjU@136.244.101.16:48163?security=tls&type=grpc&sni=ne.atrinshops.ir#🌐سرور 294 | Dec-22 | MTSRVRS
 trojan://3r372@91.195.240.94:443?security=tls&sni=tj786.37927.online&type=tcp#🌐سرور 296 | Dec-22 | MTSRVRS
