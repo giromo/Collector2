@@ -1,6 +1,7 @@
-trojan://BxceQaOe@52.194.193.12:11945?allowInsecure=1&sni=t.me%252Fripaojiedian#🌐سرور 19 | Dec-27 | MTSRVRS
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=5.188.108.13&allowInsecure=1&fp=chrome#🌐سرور 40 | Dec-27 | MTSRVRS
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:2760?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#🌐سرور 46 | Dec-27 | MTSRVRS
+trojan://BxceQaOe@52.194.193.12:11945?allowInsecure=1&sni=t.me%252Fripaojiedian#🌐سرور 2 | Dec-27 | MTSRVRS
+trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?sni=5.188.108.13&allowInsecure=1&fp=chrome#🌐سرور 30 | Dec-27 | MTSRVRS
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 36 | Dec-27 | MTSRVRS
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:2760?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#🌐سرور 39 | Dec-27 | MTSRVRS
 trojan://telegram-id-privatevpns@3.127.180.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 432 | Dec-27 | MTSRVRS
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?security=tls&sni=azadnet-bdr.pages.dev&type=tcp#🌐سرور 433 | Dec-27 | MTSRVRS
 trojan://Watashi_VPN@104.18.13.229:8443?security=tls&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir&path=/&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir#🌐سرور 435 | Dec-27 | MTSRVRS
@@ -189,7 +190,6 @@ trojan://242a3d8eee5e4ed1a6bfa4141d549a25@104.19.159.12:443?security=tls&sni=job
 trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443?path=%2F46.232.122.240%3A8000&security=tls&host=ivory.qzz.io&type=ws&sni=ivory.qzz.io#🌐سرور 620 | Dec-27 | MTSRVRS
 trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#🌐سرور 621 | Dec-27 | MTSRVRS
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443/?type=ws&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org#🌐سرور 622 | Dec-27 | MTSRVRS
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 623 | Dec-27 | MTSRVRS
 trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#🌐سرور 624 | Dec-27 | MTSRVRS
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cmcc.877774.xyz:443?path=%2Fproxyip%3D210.61.97.241%3A81&security=tls&host=cm2-bpg.filegear-sg.me&type=ws&sni=cm2-bpg.filegear-sg.me#🌐سرور 625 | Dec-27 | MTSRVRS
 trojan://ignHF1x8Gp@tunel.amirspacee.top:443?path=%2Fmfvmfdvnfjvfkdmv&security=tls&alpn=h2%2Chttp%2F1.1&host=tunel.amirspacee.top&fp=chrome&type=ws&sni=tunel.amirspacee.top#🌐سرور 626 | Dec-27 | MTSRVRS
