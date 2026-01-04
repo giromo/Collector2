@@ -1,8 +1,7 @@
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&path=/#🌐سرور 11 | Jan-04 | MTSRVRS
-trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#🌐سرور 12 | Jan-04 | MTSRVRS
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#🌐سرور 60 | Jan-04 | MTSRVRS
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click&path=/#🌐سرور 61 | Jan-04 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&path=/#🌐سرور 38 | Jan-04 | MTSRVRS
+trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&sni=diningtable.electricbanana.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none#🌐سرور 40 | Jan-04 | MTSRVRS
 trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.fuzzyfeelergauge.click#🌐سرور 64 | Jan-04 | MTSRVRS
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?sni=shoppingmall.electricbanana.click&path=/#🌐سرور 66 | Jan-04 | MTSRVRS
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#🌐سرور 347 | Jan-04 | MTSRVRS
 trojan://telegram-id-directvpn@18.196.24.56:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 348 | Jan-04 | MTSRVRS
 trojan://telegram-id-directvpn@13.39.11.161:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 349 | Jan-04 | MTSRVRS
@@ -141,6 +140,7 @@ trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4.222%3A8443&security=tls&host=bisque.qzz.io&type=ws&sni=bisque.qzz.io#🌐سرور 486 | Jan-04 | MTSRVRS
 trojan://CH1uIwV42k@5.175.249.117:443?security=reality&pbk=kEfLVGaYdINZml2Jz3NMy8dMhlsXY8PiF08dtGN4cH8&host=www.namasha.com%2Cs45.namasha.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=9715efa856269398#🌐سرور 487 | Jan-04 | MTSRVRS
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=%2F&security=tls&host=snippets.kkii.eu.org&type=ws&sni=snippets.kkii.eu.org#🌐سرور 488 | Jan-04 | MTSRVRS
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#🌐سرور 489 | Jan-04 | MTSRVRS
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🌐سرور 490 | Jan-04 | MTSRVRS
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#🌐سرور 491 | Jan-04 | MTSRVRS
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=%2F156.254.114.120%3A30011&security=tls&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#🌐سرور 492 | Jan-04 | MTSRVRS
