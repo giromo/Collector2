@@ -1,5 +1,5 @@
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#🌐سرور 46 | Jan-05 | MTSRVRS
-trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.fuzzyfeelergauge.click#🌐سرور 51 | Jan-05 | MTSRVRS
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#🌐سرور 43 | Jan-05 | MTSRVRS
+trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.fuzzyfeelergauge.click#🌐سرور 50 | Jan-05 | MTSRVRS
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=/&security=tls&host=snippets.kkii.eu.org&type=ws&sni=snippets.kkii.eu.org#🌐سرور 339 | Jan-05 | MTSRVRS
 trojan://telegram-id-directvpn@35.180.94.81:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 340 | Jan-05 | MTSRVRS
 trojan://Mojtaba-shieldheart@104.16.211.9:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🌐سرور 341 | Jan-05 | MTSRVRS
@@ -32,7 +32,6 @@ trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?security=tls&sni
 trojan://telegram-id-directvpn@18.196.24.56:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 368 | Jan-05 | MTSRVRS
 trojan://telegram-id-directvpn@15.237.231.54:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 369 | Jan-05 | MTSRVRS
 trojan://telegram-id-privatevpns@3.64.206.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 370 | Jan-05 | MTSRVRS
-trojan://telegram-id-privatevpns@13.38.197.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 371 | Jan-05 | MTSRVRS
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?path=%2F152.32.255.24%3A587&security=tls&host=tronblue.qzz.io&type=ws&sni=tronblue.qzz.io#🌐سرور 372 | Jan-05 | MTSRVRS
 trojan://telegram-id-directvpn@35.180.217.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 373 | Jan-05 | MTSRVRS
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=%2F#🌐سرور 374 | Jan-05 | MTSRVRS
@@ -155,3 +154,4 @@ trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4
 trojan://redfree8@104.17.148.22:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#🌐سرور 493 | Jan-05 | MTSRVRS
 trojan://telegram-id-privatevpns@63.179.158.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 494 | Jan-05 | MTSRVRS
 trojan://telegram-id-directvpn@3.64.206.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 495 | Jan-05 | MTSRVRS
+trojan://telegram-id-privatevpns@13.38.197.7:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 1209 | Jan-05 | MTSRVRS
