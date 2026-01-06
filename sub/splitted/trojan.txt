@@ -1,6 +1,5 @@
-trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#🌐سرور 67 | Jan-06 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 85 | Jan-06 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 93 | Jan-06 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:1281?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 81 | Jan-06 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@202.181.103.246:3901?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 83 | Jan-06 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.195.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 376 | Jan-06 | MTSRVRS
 trojan://telegram-id-privatevpns@3.69.204.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 377 | Jan-06 | MTSRVRS
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#🌐سرور 378 | Jan-06 | MTSRVRS
@@ -122,6 +121,7 @@ trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#🌐سرور 495 | Jan-06 | MTSRVRS
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?path=%2F156.254.114.120%3A30011&security=tls&host=seashell.qzz.io&type=ws&sni=seashell.qzz.io#🌐سرور 496 | Jan-06 | MTSRVRS
 trojan://telegram-id-privatevpns@35.157.192.105:22222?alpn=http%2F1.1&security=tls&type=#🌐سرور 497 | Jan-06 | MTSRVRS
 trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443?path=%2F192.252.182.52%3A7602&security=tls&host=blueivy.qzz.io&type=ws&sni=blueivy.qzz.io#🌐سرور 498 | Jan-06 | MTSRVRS
+trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?security=tls&sni=shoppingmall.electricbanana.click&path=/#🌐سرور 499 | Jan-06 | MTSRVRS
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🌐سرور 500 | Jan-06 | MTSRVRS
 trojan://auto@104.21.90.210:443#🌐سرور 501 | Jan-06 | MTSRVRS
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#🌐سرور 502 | Jan-06 | MTSRVRS
