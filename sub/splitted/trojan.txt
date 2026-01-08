@@ -1,8 +1,8 @@
+trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.fuzzyfeelergauge.click#🌐سرور 32 | Jan-08 | MTSRVRS
 trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1&sni=www.fuzzyfeelergauge.click#🌐سرور 33 | Jan-08 | MTSRVRS
-trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.fuzzyfeelergauge.click#🌐سرور 34 | Jan-08 | MTSRVRS
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&headerType=none&type=tcp&sni=binaryboots.algorithmblanket.click#🌐سرور 46 | Jan-08 | MTSRVRS
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&headerType=none&type=tcp&sni=binaryboots.algorithmblanket.click#🌐سرور 47 | Jan-08 | MTSRVRS
-trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&headerType=none&type=tcp&sni=binaryboots.algorithmblanket.click#🌐سرور 50 | Jan-08 | MTSRVRS
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&headerType=none&type=tcp&sni=binaryboots.algorithmblanket.click#🌐سرور 38 | Jan-08 | MTSRVRS
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&headerType=none&type=tcp&sni=binaryboots.algorithmblanket.click#🌐سرور 39 | Jan-08 | MTSRVRS
+trojan://tSk5LQoJr7F.WnRsUM4hT@45.15.140.107:19106?security=tls&headerType=none&type=tcp&sni=binaryboots.algorithmblanket.click#🌐سرور 41 | Jan-08 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.206.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 374 | Jan-08 | MTSRVRS
 trojan://telegram-id-directvpn@13.37.136.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 375 | Jan-08 | MTSRVRS
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#🌐سرور 376 | Jan-08 | MTSRVRS
