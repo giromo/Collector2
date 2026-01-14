@@ -1,10 +1,10 @@
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?security=tls&sni=www.nintendogames.net#🌐سرور 38 | Jan-14 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?security=tls&sni=www.nintendogames.net#🌐سرور 39 | Jan-14 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🌐سرور 57 | Jan-14 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?security=tls&sni=www.nintendogames.net#🌐سرور 31 | Jan-14 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🌐سرور 36 | Jan-14 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.63.16:1281?security=tls&sni=www.nintendogames.net#🌐سرور 46 | Jan-14 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net&path=/#🌐سرور 48 | Jan-14 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🌐سرور 52 | Jan-14 | MTSRVRS
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🌐سرور 60 | Jan-14 | MTSRVRS
-trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 73 | Jan-14 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net&path=/#🌐سرور 78 | Jan-14 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/#🌐سرور 81 | Jan-14 | MTSRVRS
+trojan://BxceQaOe@58.152.53.219:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 65 | Jan-14 | MTSRVRS
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#🌐سرور 352 | Jan-14 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🌐سرور 353 | Jan-14 | MTSRVRS
 trojan://bpb-trojan@zula.ir:443?path=%2FtrxcjEhlEAQoH0H4xK%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-worKER-PAnEl.PagES.Dev#🌐سرور 354 | Jan-14 | MTSRVRS
