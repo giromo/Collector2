@@ -1,9 +1,9 @@
-trojan://61d8077bfb174e171b8283f155a555ad@58.152.110.111:443?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 36 | Jan-15 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?sni=www.nintendogames.net&path=/#🌐سرور 78 | Jan-15 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?sni=www.nintendogames.net&path=/#🌐سرور 79 | Jan-15 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 80 | Jan-15 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?sni=www.nintendogames.net&path=/#🌐سرور 81 | Jan-15 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 82 | Jan-15 | MTSRVRS
+trojan://61d8077bfb174e171b8283f155a555ad@58.152.110.111:443?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 40 | Jan-15 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 41 | Jan-15 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?sni=www.nintendogames.net&path=/#🌐سرور 47 | Jan-15 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?sni=www.nintendogames.net&path=/#🌐سرور 49 | Jan-15 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?sni=www.nintendogames.net&path=/#🌐سرور 52 | Jan-15 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 85 | Jan-15 | MTSRVRS
 trojan://e8781c66-aeec-4655-984f-2aca65a64766@hinet.52147.top:443?allowInsecure=1&sni=download.windowsupdate1.com%23@Hope_Net-join-us-on-Telegram#🌐سرور 172 | Jan-15 | MTSRVRS
 trojan://e8781c66-aeec-4655-984f-2aca65a64766@hnyd.52147.top:30180?allowInsecure=1&sni=download.windowsupdate1.com%23%5B815#🌐سرور 190 | Jan-15 | MTSRVRS
 trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#🌐سرور 376 | Jan-15 | MTSRVRS
