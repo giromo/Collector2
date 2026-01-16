@@ -1,8 +1,8 @@
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net&path=/#🌐سرور 39 | Jan-16 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 49 | Jan-16 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 50 | Jan-16 | MTSRVRS
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 56 | Jan-16 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 57 | Jan-16 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 59 | Jan-16 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?sni=www.nintendogames.net&path=/#🌐سرور 61 | Jan-16 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net&path=/#🌐سرور 64 | Jan-16 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?sni=www.nintendogames.net&path=/#🌐سرور 57 | Jan-16 | MTSRVRS
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@58.152.110.104:443?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#🌐سرور 342 | Jan-16 | MTSRVRS
 trojan://telegram-id-privatevpns@15.224.1.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 343 | Jan-16 | MTSRVRS
 trojan://telegram-id-privatevpns@51.45.44.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 344 | Jan-16 | MTSRVRS
