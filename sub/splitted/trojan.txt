@@ -1,10 +1,10 @@
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 47 | Jan-16 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net&path=/#🌐سرور 48 | Jan-16 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?sni=www.nintendogames.net&path=/#🌐سرور 54 | Jan-16 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net&path=/#🌐سرور 64 | Jan-16 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 89 | Jan-16 | MTSRVRS
-trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net&path=/#🌐سرور 90 | Jan-16 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net&path=/#🌐سرور 35 | Jan-16 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?sni=www.nintendogames.net&path=/#🌐سرور 41 | Jan-16 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.138.24:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 42 | Jan-16 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.196.59:1281?sni=www.nintendogames.net&path=/#🌐سرور 56 | Jan-16 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.116.227:1281?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 61 | Jan-16 | MTSRVRS
 trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net&path=/#🌐سرور 91 | Jan-16 | MTSRVRS
+trojan://381f2e86233720eacda26d50e9aa26da@160.16.144.208:1281?sni=www.nintendogames.net&path=/#🌐سرور 92 | Jan-16 | MTSRVRS
 trojan://telegram-id-directvpn@15.224.7.85:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 315 | Jan-16 | MTSRVRS
 trojan://telegram-id-directvpn@18.185.219.138:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 316 | Jan-16 | MTSRVRS
 trojan://telegram-id-directvpn@13.37.149.230:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 317 | Jan-16 | MTSRVRS
@@ -81,6 +81,7 @@ trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type
 trojan://2cf6d686799e6fa95316394064f26c0a@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#🌐سرور 390 | Jan-16 | MTSRVRS
 trojan://bpb-trojan@zula.ir:443?path=%2FtrxcjEhlEAQoH0H4xK%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-worKER-PAnEl.PagES.Dev#🌐سرور 391 | Jan-16 | MTSRVRS
 trojan://telegram-id-directvpn@18.195.170.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 392 | Jan-16 | MTSRVRS
+trojan://telegram-id-privatevpns@35.181.130.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 393 | Jan-16 | MTSRVRS
 trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?security=tls&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=004.electrocellco-cf-004.workers.dev&path=%2FeyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19%3Fed%3D2560#🌐سرور 394 | Jan-16 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.89.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 395 | Jan-16 | MTSRVRS
 trojan://telegram-id-directvpn@35.180.175.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 396 | Jan-16 | MTSRVRS
@@ -177,7 +178,6 @@ trojan://telegram-id-directvpn@52.16.85.89:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@52.29.91.87:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 490 | Jan-16 | MTSRVRS
 trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?security=tls&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=004.electrocellco-cf-004.workers.dev&path=%2FeyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19%3Fed%3D2560#🌐سرور 491 | Jan-16 | MTSRVRS
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#🌐سرور 492 | Jan-16 | MTSRVRS
-trojan://telegram-id-privatevpns@15.224.1.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 493 | Jan-16 | MTSRVRS
 trojan://telegram-id-directvpn@35.181.130.191:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 494 | Jan-16 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🌐سرور 495 | Jan-16 | MTSRVRS
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?security=tls&sni=azadnet-bdr.pages.dev&allowInsecure=1&type=tcp#🌐سرور 496 | Jan-16 | MTSRVRS
@@ -231,4 +231,4 @@ trojan://telegram-id-directvpn@51.44.26.7:22223?security=tls&alpn=http/1.1&heade
 trojan://telegram-id-directvpn@35.181.111.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 545 | Jan-16 | MTSRVRS
 trojan://2cf6d686799e6fa95316394064f26c0a@58.152.110.120:443?security=tls&sni=www.nintendogames.net&allowInsecure=1&type=tcp#🌐سرور 546 | Jan-16 | MTSRVRS
 trojan://telegram-id-directvpn@13.36.96.120:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 547 | Jan-16 | MTSRVRS
-trojan://telegram-id-privatevpns@35.181.130.191:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 1161 | Jan-16 | MTSRVRS
+trojan://telegram-id-privatevpns@15.224.1.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 1160 | Jan-16 | MTSRVRS
