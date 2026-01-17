@@ -1,5 +1,4 @@
-trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro003.instconn.com:443?sni=login-staticjpc.jasmine-douyin.top&path=/#🌐سرور 59 | Jan-17 | MTSRVRS
-trojan://BxceQaOe@58.152.110.50:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 72 | Jan-17 | MTSRVRS
+trojan://BxceQaOe@58.152.110.50:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 49 | Jan-17 | MTSRVRS
 trojan://5a2c16f9@98.70.26.236:443?path=Telegram%40V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#🌐سرور 316 | Jan-17 | MTSRVRS
 trojan://trojan@104.26.12.31:8443?security=tls&sni=fofang.pages.dev&allowInsecure=1&type=tcp#🌐سرور 317 | Jan-17 | MTSRVRS
 trojan://telegram-id-directvpn@51.45.55.248:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 318 | Jan-17 | MTSRVRS
@@ -43,6 +42,7 @@ trojan://telegram-id-directvpn@35.157.159.30:22223?security=tls&alpn=http/1.1&he
 trojan://XZ%7CP5%7DoQVc8V@188.114.96.3:443?security=tls&sni=004.eLecTrOCELLco-cf-004.WorkeRs.DEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=004.electrocellco-cf-004.workers.dev&path=%2FeyJqdW5rIjoiQng3QkdTTklpbGdldG0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI0NS4xMzUuMTY1LjI0NSIsIjExNi4yMDMuNTguMTY1Il19%3Fed%3D2560#🌐سرور 356 | Jan-17 | MTSRVRS
 trojan://telegram-id-privatevpns@51.45.55.248:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 357 | Jan-17 | MTSRVRS
 trojan://telegram-id-privatevpns@35.158.18.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 358 | Jan-17 | MTSRVRS
+trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro003.instconn.com:443?sni=login-staticjpc.jasmine-douyin.top&path=/#🌐سرور 359 | Jan-17 | MTSRVRS
 trojan://telegram-id-privatevpns@15.236.27.89:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 360 | Jan-17 | MTSRVRS
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev#🌐سرور 361 | Jan-17 | MTSRVRS
 trojan://telegram-id-privatevpns@3.70.165.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 362 | Jan-17 | MTSRVRS
