@@ -1,12 +1,13 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#🌐 به روزرسانی شده در Jan-28 | 16:31 | هر 2 ساعت کانفیک جدید داریم
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN2U2NDVkY2YxMWRlZDFm@57.128.190.144:47000#🌐سرور 1 | Jan-28 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#🌐سرور 3 | Jan-28 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#🌐سرور 11 | Jan-28 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA@107.174.114.71:443#🌐سرور 13 | Jan-28 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#🌐سرور 17 | Jan-28 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 19 | Jan-28 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#🌐سرور 20 | Jan-28 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#🌐سرور 21 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#🌐سرور 1 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN2U2NDVkY2YxMWRlZDFm@57.128.190.144:47000#🌐سرور 2 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#🌐سرور 3 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456#🌐سرور 7 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#🌐سرور 11 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#🌐سرور 13 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA@107.174.114.71:443#🌐سرور 15 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#🌐سرور 18 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 21 | Jan-28 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#🌐سرور 25 | Jan-28 | MTSRVRS
 ss://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@45.131.209.41:80?security=none&sni=mahdihector.kewojod243.workers.dev&type=ws&host=mahdihector.kewojod243.workers.dev&path=Telegram%40WangCai2%2F%3Fed#🌐سرور 127 | Jan-28 | MTSRVRS
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.106:8880?type=ws&host=yd.laoyoutiao.link&path=/Telegram🇨🇳#🌐سرور 128 | Jan-28 | MTSRVRS
 ss://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=%2F%3Fed%3D2560#🌐سرور 129 | Jan-28 | MTSRVRS
@@ -52,7 +53,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCM05yVUx2Wkp0MU5WUmRiUllXWkVW@3.120.251.197:
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@134.195.196.128:8091#🌐سرور 175 | Jan-28 | MTSRVRS
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.124:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🌐سرور 176 | Jan-28 | MTSRVRS
 ss://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@194.76.18.60:80?security=none&type=ws&host=ov-germany1.09vpn.com&path=%2Fvless%2F#🌐سرور 177 | Jan-28 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456#🌐سرور 179 | Jan-28 | MTSRVRS
 ss://d6ff33a6-03bf-4338-8a63-62ab284a9466@45.131.5.111:80?type=ws&host=feng4.l1ut8bi9.workers.dev&path=%2FTelegram#🌐سرور 180 | Jan-28 | MTSRVRS
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.235.200.29:8880?security=none&type=ws&host=hk.laoyoutiao.link&path=%2F#🌐سرور 181 | Jan-28 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#🌐سرور 182 | Jan-28 | MTSRVRS
