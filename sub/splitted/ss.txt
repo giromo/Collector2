@@ -1,12 +1,14 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🌐 به روزرسانی شده در Jan-29 | 05:59 | هر 2 ساعت کانفیک جدید داریم
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#🌐سرور 3 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#🌐سرور 6 | Jan-29 | MTSRVRS
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🌐سرور 7 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456#🌐سرور 9 | Jan-29 | MTSRVRS
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🌐 به روزرسانی شده در Jan-29 | 08:12 | هر 2 ساعت کانفیک جدید داریم
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🌐سرور 1 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456#🌐سرور 6 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 8 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 9 | Jan-29 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 10 | Jan-29 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#🌐سرور 11 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#🌐سرور 14 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#🌐سرور 15 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#🌐سرور 12 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#🌐سرور 13 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#🌐سرور 14 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#🌐سرور 17 | Jan-29 | MTSRVRS
 ss://994c91dd-b282-4c25-a0c5-af76b480c080@66.235.200.1:443?encryption=none&security=tls&sni=mci-google-bing3164.sdb5j.workers.dev&fp=randomized&type=ws&host=mci-google-bing3164.sdb5j.workers.dev&path=%2F%3Fed%3D2048#🌐سرور 104 | Jan-29 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#🌐سرور 105 | Jan-29 | MTSRVRS
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?security=none&type=grpc#🌐سرور 108 | Jan-29 | MTSRVRS
@@ -31,9 +33,7 @@ ss://2d8af6f4-ebc2-4ff9-b423-d9ad543c29a2@172.67.157.34:8880?security=none&type=
 ss://7248e825-887c-48b9-83bc-c26bc6392bf8@104.21.57.88:443?security=tls&sni=xxsCDfr5.IRAN.pP.UA&type=ws&host=xxscdfr5.iran.pp.ua&path=%2FW02wBrOOqlSUywV3ibrzzKXJGy3S1&fp=chrome&alpn=http%2F1.1#🌐سرور 130 | Jan-29 | MTSRVRS
 ss://229a61b0-5925-43dc-83f9-661670cfe41d@188.114.96.9:443?security=tls&sni=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev&type=ws&host=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev&path=%2Ftelegram%40v2ray_alpha%3Fed%3D2560#🌐سرور 131 | Jan-29 | MTSRVRS
 ss://6f183280-b258-437a-a216-e83f7dece776@45.131.7.93:80?security=none&sni=901.dbodanwi.workers.dev&type=ws&host=901.dbodanwi.workers.dev&path=Telegram%40WangCai2%2F%3Fed#🌐سرور 132 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 133 | Jan-29 | MTSRVRS
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?security=none&sni=pqh35v4.gym35fit.shop&type=grpc&host=pqh35v4.gym35fit.shop#🌐سرور 135 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 136 | Jan-29 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@irancell.xn--g28h.dns-dynamic.net.cdn.cloudflare.net:443#🌐سرور 137 | Jan-29 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPa2lzYzZ0WVRydFlKN2ZRbHducjFN@92.243.27.51:9802#🌐سرور 138 | Jan-29 | MTSRVRS
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#🌐سرور 139 | Jan-29 | MTSRVRS
