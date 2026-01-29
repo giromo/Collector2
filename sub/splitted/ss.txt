@@ -1,9 +1,8 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🌐 به روزرسانی شده در Jan-29 | 10:26 | هر 2 ساعت کانفیک جدید داریم
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🌐سرور 1 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#🌐سرور 2 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#🌐سرور 7 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 17 | Jan-29 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 18 | Jan-29 | MTSRVRS
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🌐سرور 2 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#🌐سرور 3 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 8 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#🌐سرور 19 | Jan-29 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#🌐سرور 20 | Jan-29 | MTSRVRS
 ss://7248e825-887c-48b9-83bc-c26bc6392bf8@104.21.57.88:443?security=tls&sni=xxsCDfr5.IRAN.pP.UA&type=ws&host=xxscdfr5.iran.pp.ua&path=%2FW02wBrOOqlSUywV3ibrzzKXJGy3S1&fp=chrome&alpn=http%2F1.1#🌐سرور 90 | Jan-29 | MTSRVRS
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.166:8880?security=none&sni=pqh35v4.gym35fit.shop&type=grpc&host=pqh35v4.gym35fit.shop#🌐سرور 91 | Jan-29 | MTSRVRS
@@ -32,6 +31,7 @@ ss://cdb15365-1ccb-4d5a-a5d9-6fb08d3c75ac@45.131.209.41:80?security=none&sni=mah
 ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.139:8880?security=none&type=grpc#🌐سرور 118 | Jan-29 | MTSRVRS
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.225.252.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🌐سرور 119 | Jan-29 | MTSRVRS
 ss://946b3994-cbcc-402c-bd93-c7f9df4d1c3b@104.16.179.157:80?security=none&type=ws&host=nameless-silence-3ddd-ppal03.gecob30535.workers.dev&path=%2F%3Fed%3D2560#🌐سرور 120 | Jan-29 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 121 | Jan-29 | MTSRVRS
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#🌐سرور 122 | Jan-29 | MTSRVRS
 ss://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443?security=tls&sni=werrr.azurewebsites.net&type=ws&host=werrr.azurewebsites.net&path=%2F&fp=chrome#🌐سرور 123 | Jan-29 | MTSRVRS
 ss://ZDllYjBkZjMtMzE5MC00NDQ3LTg2YjYtNjU2ZmU1ZmYxMTE5Og==@104.17.83.58:443#🌐سرور 124 | Jan-29 | MTSRVRS
