@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@63.181.109.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 18 | Jan-30 | MTSRVRS
 trojan://bpb-trojan@digiclassor.ir:443?path=%2FtrmqBcNssn2YTZY2qv%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-Bpb-WOrKer-paneL.pagEs.DeV#🌐سرور 133 | Jan-30 | MTSRVRS
 trojan://telegram-id-directvpn@35.180.160.37:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 134 | Jan-30 | MTSRVRS
 trojan://telegram-id-directvpn@13.38.222.199:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 135 | Jan-30 | MTSRVRS
@@ -117,7 +118,6 @@ trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&typ
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&fp=chrome&alpn=http%2F1.1#🌐سرور 249 | Jan-30 | MTSRVRS
 trojan://FreakConfig@77.232.142.141:42598?security=none&headerType=&type=tcp#🌐سرور 250 | Jan-30 | MTSRVRS
 trojan://telegram-id-privatevpns@52.28.25.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 251 | Jan-30 | MTSRVRS
-trojan://telegram-id-directvpn@63.181.109.9:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 252 | Jan-30 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.82.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 253 | Jan-30 | MTSRVRS
 trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&fp=chrome&type=ws&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#🌐سرور 254 | Jan-30 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🌐سرور 255 | Jan-30 | MTSRVRS

@@ -1,10 +1,10 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🌐 به روزرسانی شده در Jan-30 | 05:58 | هر 2 ساعت کانفیک جدید داریم
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🌐سرور 1 | Jan-30 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#🌐سرور 4 | Jan-30 | MTSRVRS
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🌐سرور 1 | Jan-30 | MTSRVRS
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🌐سرور 2 | Jan-30 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeFB5bUZtYTZQN1U0MXdrOU1OUDd6blBudmF4M21qZA@45.89.55.173:443#🌐سرور 5 | Jan-30 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#🌐سرور 8 | Jan-30 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939#🌐سرور 7 | Jan-30 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 8 | Jan-30 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 9 | Jan-30 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#🌐سرور 10 | Jan-30 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#🌐سرور 10 | Jan-30 | MTSRVRS
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@66.225.252.29:8880?sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🌐سرور 83 | Jan-30 | MTSRVRS
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#🌐سرور 84 | Jan-30 | MTSRVRS
 ss://5df7962e-f9fe-41e6-ab49-ed96ccb856a7@172.66.44.135:80?security=none&type=ws&host=v2ra1.ecrgpk.workers.dev&path=/#🌐سرور 85 | Jan-30 | MTSRVRS
