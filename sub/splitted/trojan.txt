@@ -1,8 +1,9 @@
-trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?allowInsecure=1&sni=hl-freedom-1.undef.network&ws=1&wspath=%2Ff2fc2a1f#🌐 به روزرسانی شده در Feb-01 | 06:19 | هر 2 ساعت کانفیک جدید داریم
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:5076?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 8 | Feb-01 | MTSRVRS
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🌐سرور 9 | Feb-01 | MTSRVRS
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🌐سرور 12 | Feb-01 | MTSRVRS
-trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?allowInsecure=1&sni=frankfurtrm2.686911.xyz#🌐سرور 29 | Feb-01 | MTSRVRS
+trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?allowInsecure=1&sni=hl-freedom-1.undef.network&ws=1&wspath=%2Ff2fc2a1f#🌐 به روزرسانی شده در Feb-01 | 08:35 | هر 2 ساعت کانفیک جدید داریم
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🌐سرور 7 | Feb-01 | MTSRVRS
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#🌐سرور 8 | Feb-01 | MTSRVRS
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:5076?security=tls&sni=www.nintendogames.net&path=/#🌐سرور 17 | Feb-01 | MTSRVRS
+trojan://63b21d86-a49c-4936-a634-0b5af3e30433@tuntro010.instconn.com:443?allowInsecure=1&sni=frankfurtrm2.686911.xyz#🌐سرور 28 | Feb-01 | MTSRVRS
+trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🌐سرور 31 | Feb-01 | MTSRVRS
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🌐سرور 52 | Feb-01 | MTSRVRS
 trojan://bpb-trojan@94.140.0.1:443?path=/tr?ed=2560&security=tls&alpn=h2&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg%23IR-@V2rayAlpha-4#🌐سرور 115 | Feb-01 | MTSRVRS
 trojan://telegram-id-privatevpns@3.76.228.153:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 184 | Feb-01 | MTSRVRS
@@ -109,7 +110,6 @@ trojan://bpb-trojan@ipbaz.ping-box.com:443?path=%2Ftr%3Fed%3D2560&security=tls&h
 trojan://telegram-id-directvpn@15.236.15.89:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 290 | Feb-01 | MTSRVRS
 trojan://telegram-id-privatevpns@15.188.224.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 291 | Feb-01 | MTSRVRS
 trojan://telegram-id-privatevpns@15.188.248.81:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 292 | Feb-01 | MTSRVRS
-trojan://bpb-trojan@172.66.44.87:443?path=%2Ftrzf4cT2bn8MYJ0wE4%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPb-woRKEr-panEL.PaGES.dev#🌐سرور 293 | Feb-01 | MTSRVRS
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#🌐سرور 294 | Feb-01 | MTSRVRS
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#🌐سرور 295 | Feb-01 | MTSRVRS
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&insecure=1&host=mfyousheng.nl.eu.org&type=ws&allowInsecure=1&sni=mfyousheng.nl.eu.org#🌐سرور 296 | Feb-01 | MTSRVRS
@@ -118,7 +118,6 @@ trojan://telegram-id-privatevpns@13.36.49.48:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@18.159.236.249:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 299 | Feb-01 | MTSRVRS
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#🌐سرور 300 | Feb-01 | MTSRVRS
 trojan://trojan@91.193.58.0:443?security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=chrome&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=%2F#🌐سرور 301 | Feb-01 | MTSRVRS
-trojan://Mojtaba-shieldheart@104.16.155.68:8443?security=tls&sni=broken-bread-6ba6.shieldheart4.workers.dev&type=ws&host=broken-bread-6ba6.shieldheart4.workers.dev#🌐سرور 302 | Feb-01 | MTSRVRS
 trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sni=CVFgTrE4.222560.XyZ&type=ws&host=cvfgtre4.222560.xyz&path=%2FHq0I4JMuzO0WLijID&fp=chrome&alpn=http%2F1.1#🌐سرور 303 | Feb-01 | MTSRVRS
 trojan://bpb-trojan@www.csgo.com:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🌐سرور 304 | Feb-01 | MTSRVRS
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&insecure=0&host=singbox.lu567890.us.kg&fp=chrome&type=ws&allowInsecure=0&sni=singbox.lu567890.us.kg#🌐سرور 305 | Feb-01 | MTSRVRS
@@ -163,3 +162,4 @@ trojan://telegram-id-privatevpns@52.28.25.58:22222?security=tls&alpn=http/1.1&he
 trojan://wz2vh0awz8iw@104.17.163.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=y98fk7q84z0wfcjuirh.zjde5.de5.net#🌐سرور 344 | Feb-01 | MTSRVRS
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#🌐سرور 345 | Feb-01 | MTSRVRS
 trojan://f108e0e2-5f12-42b6-9e67-1b2f073ffb2b@172.67.219.196:443?security=tls&sni=CCcvfgt6.852224.dpdns.org&type=ws&host=cccvfgt6.852224.dpdns.org&path=%2FCA5bMmr2JMum8sDKRwvFCJq&fp=chrome&alpn=http%2F1.1#🌐سرور 346 | Feb-01 | MTSRVRS
+trojan://bpb-trojan@172.66.44.87:443?path=%2Ftrzf4cT2bn8MYJ0wE4%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPb-woRKEr-panEL.PaGES.dev#🌐سرور 908 | Feb-01 | MTSRVRS
