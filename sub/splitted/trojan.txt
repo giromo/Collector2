@@ -1,5 +1,5 @@
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?allowInsecure=1#🌐سرور 23 | Feb-05 | MTSRVRS
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 24 | Feb-05 | MTSRVRS
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 20 | Feb-05 | MTSRVRS
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?allowInsecure=1#🌐سرور 21 | Feb-05 | MTSRVRS
 trojan://telegram-id-privatevpns@35.180.14.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 251 | Feb-05 | MTSRVRS
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 252 | Feb-05 | MTSRVRS
 trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:8443?path=%2Ftr5gvCjFBPFcmGVEFz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpB-woRKer-pANeL.pAGes.dev#🌐سرور 253 | Feb-05 | MTSRVRS
