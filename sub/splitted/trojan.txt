@@ -1,4 +1,5 @@
-trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?sni=www.nintendogames.net&path=/#🌐سرور 10 | Feb-06 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@13.231.234.230:544?sni=www.nintendogames.net&path=/#🌐 به روزرسانی شده در Feb-06 | 19:17 | هر 2 ساعت کانفیک جدید داریم
+trojan://aZsk43TyWBpjt%40A@vpn.qinfen180.cn:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=vpn.qinfen180.cn#🌐سرور 40 | Feb-06 | MTSRVRS
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&host=mfyousheng.nl.eu.org&type=ws&sni=mfyousheng.nl.eu.org#🌐سرور 280 | Feb-06 | MTSRVRS
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#🌐سرور 281 | Feb-06 | MTSRVRS
 trojan://telegram-id-directvpn@35.156.177.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 282 | Feb-06 | MTSRVRS
@@ -70,7 +71,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&h
 trojan://telegram-id-directvpn@35.181.33.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 349 | Feb-06 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌐سرور 350 | Feb-06 | MTSRVRS
 trojan://telegram-id-privatevpns@13.37.19.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 351 | Feb-06 | MTSRVRS
-trojan://aZsk43TyWBpjt%40A@vpn.qinfen180.cn:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=vpn.qinfen180.cn#🌐سرور 352 | Feb-06 | MTSRVRS
 trojan://telegram-id-privatevpns@3.127.12.144:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 353 | Feb-06 | MTSRVRS
 trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&security=none#🌐سرور 354 | Feb-06 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🌐سرور 355 | Feb-06 | MTSRVRS
