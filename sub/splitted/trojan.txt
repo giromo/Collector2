@@ -1,5 +1,5 @@
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.236.32:3901?security=tls&insecure=1&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 33 | Feb-08 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&security=tls&sni=celestialcorset.crystalhamster.click&type=tcp#🌐سرور 45 | Feb-08 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.236.32:3901?security=tls&insecure=1&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 23 | Feb-08 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&security=tls&sni=celestialcorset.crystalhamster.click&type=tcp#🌐سرور 30 | Feb-08 | MTSRVRS
 trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&security=none#🌐سرور 293 | Feb-08 | MTSRVRS
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#🌐سرور 294 | Feb-08 | MTSRVRS
 trojan://telegram-id-directvpn@51.44.43.148:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 295 | Feb-08 | MTSRVRS
