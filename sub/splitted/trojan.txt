@@ -1,8 +1,8 @@
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 12 | Feb-09 | MTSRVRS
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 13 | Feb-09 | MTSRVRS
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 14 | Feb-09 | MTSRVRS
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 15 | Feb-09 | MTSRVRS
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 17 | Feb-09 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 1 | Feb-09 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 2 | Feb-09 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 3 | Feb-09 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 4 | Feb-09 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 16 | Feb-09 | MTSRVRS
 trojan://telegram-id-directvpn@18.196.199.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 329 | Feb-09 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🌐سرور 331 | Feb-09 | MTSRVRS
 trojan://telegram-id-privatevpns@63.181.75.67:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 332 | Feb-09 | MTSRVRS
