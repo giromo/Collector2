@@ -1,7 +1,7 @@
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 34 | Feb-09 | MTSRVRS
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 36 | Feb-09 | MTSRVRS
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 38 | Feb-09 | MTSRVRS
-trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 42 | Feb-09 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 1 | Feb-09 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 3 | Feb-09 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 8 | Feb-09 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 27 | Feb-09 | MTSRVRS
 trojan://telegram-id-privatevpns@3.69.92.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 317 | Feb-09 | MTSRVRS
 trojan://telegram-id-directvpn@15.236.135.143:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 318 | Feb-09 | MTSRVRS
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&host=mfyousheng.nl.eu.org&type=ws&sni=mfyousheng.nl.eu.org#🌐سرور 319 | Feb-09 | MTSRVRS
