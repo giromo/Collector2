@@ -1,7 +1,6 @@
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.106.99:3901?sni=www.nintendogames.net&path=/#🌐سرور 31 | Feb-11 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 34 | Feb-11 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.106.99:3901?sni=www.nintendogames.net&path=/#🌐سرور 26 | Feb-11 | MTSRVRS
 trojan://humanity@v1.dabache.top:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com%23%F0%9F%87%B3%F0%9F%87%B1@FreakConfig#🌐سرور 152 | Feb-11 | MTSRVRS
-trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🌐سرور 277 | Feb-11 | MTSRVRS
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#🌐سرور 280 | Feb-11 | MTSRVRS
 trojan://bpb-trojan@[2606:4700:310c::ac42:2c57]:443?path=%2FtrX8KHVBHF19MGHAzI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BpB-worKeR-pAnEL.paGEs.dEV#🌐سرور 295 | Feb-11 | MTSRVRS
 trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@de2c.buzzon.shop:443?path=%2FC7Uxy5S9pAi1VhW5NThds106&security=tls&alpn=http/1.1&host=de2c.buzzon.shop&fp=chrome&allowinsecure=0&type=ws&sni=de2c.buzzon.shop#🌐سرور 296 | Feb-11 | MTSRVRS
 trojan://telegram-id-directvpn@13.38.208.62:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 297 | Feb-11 | MTSRVRS
@@ -72,6 +71,7 @@ trojan://telegram-id-privatevpns@18.196.199.216:22222?security=tls&alpn=http/1.1
 trojan://bpb-trojan@digiclassor.ir:443?path=%2FtrmqBcNssn2YTZY2qv%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-Bpb-WOrKer-paneL.pagEs.DeV#🌐سرور 363 | Feb-11 | MTSRVRS
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#🌐سرور 364 | Feb-11 | MTSRVRS
 trojan://telegram-id-directvpn@35.180.72.19:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 365 | Feb-11 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 366 | Feb-11 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.136.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 367 | Feb-11 | MTSRVRS
 trojan://acadd87c-c8b4-4b6b-989b-64263e4d0329@de2c.buzzon.shop:443?path=%2FC7Uxy5S9pAi1VhW5NThds106&security=tls&alpn=http%2F1.1&insecure=0&host=de2c.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=de2c.buzzon.shop#🌐سرور 368 | Feb-11 | MTSRVRS
 trojan://telegram-id-directvpn@51.45.13.145:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 369 | Feb-11 | MTSRVRS
