@@ -1,11 +1,12 @@
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&type=ws#🌐سرور 4 | Feb-11 | MTSRVRS
-trojan://BxceQaOe@43.199.47.199:3292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 37 | Feb-11 | MTSRVRS
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.106.99:3901?sni=www.nintendogames.net&path=/#🌐سرور 42 | Feb-11 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 48 | Feb-11 | MTSRVRS
-trojan://hI70tn0ifx@162.159.198.189:443?path=%2FhI70tn0ifx%3Fed%3D128&security=tls&alpn=http%2F1.1&insecure=0&host=my-new-worker.khiarshorplus.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=my-new-worker.khiarshorplus.workers.dev#🌐سرور 209 | Feb-11 | MTSRVRS
+trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&type=ws#🌐سرور 1 | Feb-11 | MTSRVRS
+trojan://BxceQaOe@43.199.47.199:3292?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 27 | Feb-11 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.55:3423?security=tls&sni=www.nintendogames.net#🌐سرور 36 | Feb-11 | MTSRVRS
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.106.99:3901?sni=www.nintendogames.net&path=/#🌐سرور 37 | Feb-11 | MTSRVRS
+trojan://hI70tn0ifx@162.159.198.189:443?path=%2FhI70tn0ifx%3Fed%3D128&security=tls&alpn=http%2F1.1&insecure=0&host=my-new-worker.khiarshorplus.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=my-new-worker.khiarshorplus.workers.dev#🌐سرور 195 | Feb-11 | MTSRVRS
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 309 | Feb-11 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=%252Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#🌐سرور 310 | Feb-11 | MTSRVRS
 trojan://telegram-id-privatevpns@51.45.54.119:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🌐سرور 311 | Feb-11 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 312 | Feb-11 | MTSRVRS
 trojan://telegram-id-privatevpns@63.182.1.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 313 | Feb-11 | MTSRVRS
 trojan://telegram-id-privatevpns@52.28.55.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 314 | Feb-11 | MTSRVRS
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#🌐سرور 315 | Feb-11 | MTSRVRS
@@ -98,7 +99,6 @@ trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chr
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#🌐سرور 405 | Feb-11 | MTSRVRS
 trojan://c1d83c0c7d57cead4379ba14a82df69b@38.180.137.196:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#🌐سرور 406 | Feb-11 | MTSRVRS
 trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.org#🌐سرور 407 | Feb-11 | MTSRVRS
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.124.55:3423?security=tls&sni=www.nintendogames.net#🌐سرور 408 | Feb-11 | MTSRVRS
 trojan://telegram-id-directvpn@18.199.2.96:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 409 | Feb-11 | MTSRVRS
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 410 | Feb-11 | MTSRVRS
 trojan://5fb072e0ddd631cf66cf752b09210480@54.95.118.21:3373?security=tls&sni=%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 411 | Feb-11 | MTSRVRS
