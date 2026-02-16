@@ -1,6 +1,6 @@
-trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?type=raw&headerType=none&security=tls&sni=hl-freedom-1.undef.network#🌐سرور 25 | Feb-16 | MTSRVRS
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?sni=www.nintendogames.net&path=/#🌐سرور 43 | Feb-16 | MTSRVRS
-trojan://telegram-id-privatevpns@3.68.82.119:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk%23@ConfigV2RayNG#🌐سرور 89 | Feb-16 | MTSRVRS
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?sni=www.nintendogames.net&path=/#🌐سرور 46 | Feb-16 | MTSRVRS
+trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?type=raw&headerType=none&security=tls&sni=hl-freedom-1.undef.network#🌐سرور 50 | Feb-16 | MTSRVRS
+trojan://telegram-id-privatevpns@3.68.82.119:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk%23@ConfigV2RayNG#🌐سرور 117 | Feb-16 | MTSRVRS
 trojan://bpb-trojan@digiclassor.ir:443?path=%2FtrmqBcNssn2YTZY2qv%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-Bpb-WOrKer-paneL.pagEs.DeV#🌐سرور 272 | Feb-16 | MTSRVRS
 trojan://51410d3cb2931a01b366bb5c868264bf@persiancdn.top:443?path=%2Fapi%2Flive%2Fstream%2Fregion-de%2Ffeed&security=tls&alpn=http%2F1.1&insecure=0&fp=random&type=ws&allowInsecure=0&sni=persiancdn.top#🌐سرور 273 | Feb-16 | MTSRVRS
 trojan://telegram-id-directvpn@13.39.240.185:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 274 | Feb-16 | MTSRVRS
