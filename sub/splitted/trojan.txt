@@ -1,7 +1,7 @@
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@45.89.111.112:443?security=tls&sni=hl-freedom-0.undef.network&type=ws&host=hl-freedom-0.undef.network&path=/f2fc2a1f#🌐سرور 29 | Feb-16 | MTSRVRS
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3423?sni=www.nintendogames.net&path=/#🌐سرور 40 | Feb-16 | MTSRVRS
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3423?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 44 | Feb-16 | MTSRVRS
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🌐سرور 45 | Feb-16 | MTSRVRS
+trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@45.89.111.112:443?security=tls&sni=hl-freedom-0.undef.network&type=ws&host=hl-freedom-0.undef.network&path=/f2fc2a1f#🌐سرور 5 | Feb-16 | MTSRVRS
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3423?sni=www.nintendogames.net&path=/#🌐سرور 35 | Feb-16 | MTSRVRS
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3423?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 38 | Feb-16 | MTSRVRS
+trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🌐سرور 39 | Feb-16 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🌐سرور 244 | Feb-16 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🌐سرور 245 | Feb-16 | MTSRVRS
 trojan://BxceQaOe@95.40.77.248:1196?security=tls&sni=t.me%25252Fripaojiedian&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 246 | Feb-16 | MTSRVRS
