@@ -1,4 +1,3 @@
-trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com#🌐سرور 76 | Feb-20 | MTSRVRS
 trojan://MMjwHiwqGh@lobwynewhanq.eu-central-1.clawcloudrun.com:34309?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=zula.ir#🌐سرور 104 | Feb-20 | MTSRVRS
 trojan://telegram-id-privatevpns@13.39.26.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 241 | Feb-20 | MTSRVRS
 trojan://MMjwHiwqGh@lobwynewhanq.eu-central-1.clawcloudrun.com:34309?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=zula.ir#🌐سرور 242 | Feb-20 | MTSRVRS
@@ -10,6 +9,7 @@ trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&fp=ch
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🌐سرور 248 | Feb-20 | MTSRVRS
 trojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=%252Fassignment&host=www.calmlunch.com&allowInsecure=1#🌐سرور 249 | Feb-20 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🌐سرور 250 | Feb-20 | MTSRVRS
+trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com#🌐سرور 251 | Feb-20 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🌐سرور 252 | Feb-20 | MTSRVRS
 trojan://telegram-id-privatevpns@63.183.70.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 253 | Feb-20 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌐سرور 254 | Feb-20 | MTSRVRS
