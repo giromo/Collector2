@@ -1,8 +1,4 @@
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.semanticstaplegun.click#🌐سرور 50 | Feb-22 | MTSRVRS
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.semanticstaplegun.click#🌐سرور 51 | Feb-22 | MTSRVRS
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20By%20EbraSha%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 52 | Feb-22 | MTSRVRS
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20By%20EbraSha%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 53 | Feb-22 | MTSRVRS
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org%23%F0%9F%87%B5%F0%9F%87%B1@FreakConfig#🌐سرور 247 | Feb-22 | MTSRVRS
+trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org%23%F0%9F%87%B5%F0%9F%87%B1@FreakConfig#🌐سرور 236 | Feb-22 | MTSRVRS
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 266 | Feb-22 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:443?path=%2Ftrzf4cT2bn8MYJ0wE4%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPb-woRKEr-panEL.PaGES.dev#🌐سرور 267 | Feb-22 | MTSRVRS
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#🌐سرور 268 | Feb-22 | MTSRVRS
@@ -12,6 +8,7 @@ trojan://telegram-id-directvpn@13.38.166.241:22223?security=tls&alpn=http/1.1&he
 trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#🌐سرور 272 | Feb-22 | MTSRVRS
 trojan://telegram-id-directvpn@35.181.35.59:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#🌐سرور 273 | Feb-22 | MTSRVRS
 trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443?security=tls&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%2f1.1&type=ws&host=iiiiii9.HuANGShANg.uS.ci&path=%2ftSROScnWofV7ia41dH&allow_insecure=0#🌐سرور 274 | Feb-22 | MTSRVRS
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.semanticstaplegun.click#🌐سرور 275 | Feb-22 | MTSRVRS
 trojan://telegram-id-privatevpns@13.39.244.211:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 276 | Feb-22 | MTSRVRS
 trojan://bpb-trojan@digiclassor.ir:443?path=%2FtrmqBcNssn2YTZY2qv%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-Bpb-WOrKer-paneL.pagEs.DeV#🌐سرور 277 | Feb-22 | MTSRVRS
 trojan://telegram-id-directvpn@35.181.11.162:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 278 | Feb-22 | MTSRVRS
@@ -21,6 +18,7 @@ trojan://bpb-trojan@www.speedtest.net:443?path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🌐سرور 282 | Feb-22 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🌐سرور 283 | Feb-22 | MTSRVRS
 trojan://telegram-id-directvpn@3.120.252.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 284 | Feb-22 | MTSRVRS
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20By%20EbraSha%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 285 | Feb-22 | MTSRVRS
 trojan://telegram-id-privatevpns@35.156.94.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 286 | Feb-22 | MTSRVRS
 trojan://trojan@162.159.152.4:8443?path=%2F%3Fed&security=tls&insecure=0&host=azadnet-f03.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-f03.pages.dev#🌐سرور 287 | Feb-22 | MTSRVRS
 trojan://telegram-id-privatevpns@52.29.75.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 288 | Feb-22 | MTSRVRS
@@ -56,6 +54,7 @@ trojan://telegram-id-directvpn@52.29.75.76:22223?security=tls&alpn=http/1.1&head
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🌐سرور 318 | Feb-22 | MTSRVRS
 trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ilop.uk2033.ccwu.cc:443?security=tls&sni=ilop.uk2033.ccwu.cc&alpn=http/1.1&type=ws&host=ilop.uk2033.ccwu.cc&path=/XCLcnSashhgSVE3HOw1VI85y#🌐سرور 319 | Feb-22 | MTSRVRS
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#🌐سرور 320 | Feb-22 | MTSRVRS
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.semanticstaplegun.click#🌐سرور 321 | Feb-22 | MTSRVRS
 trojan://cDGRE5uWiq@Finland.silenceux.ir:2087?path=%2FTell-%40FF_crony%2F%3Fed%3D2990&security=tls&host=uscbbg2a40e7.zozothedog.com&type=ws&sni=uscbbg2a40e7.zozothedog.com#🌐سرور 322 | Feb-22 | MTSRVRS
 trojan://2bfded8d-6a7c-4c18-aaa5-fc65b955d50c@nnmmkk999.890602.xyz:443?security=tls&sni=nnmmkk999.890602.xyz&alpn=http/1.1&type=ws&host=nnmmkk999.890602.xyz&path=/7vMsF4VUuJ3dX414bl#🌐سرور 323 | Feb-22 | MTSRVRS
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.40:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 324 | Feb-22 | MTSRVRS
@@ -109,6 +108,7 @@ trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@k
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#🌐سرور 372 | Feb-22 | MTSRVRS
 trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:8443?path=%2Ftr5gvCjFBPFcmGVEFz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpB-woRKer-pANeL.pAGes.dev#🌐سرور 373 | Feb-22 | MTSRVRS
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#🌐سرور 374 | Feb-22 | MTSRVRS
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20By%20EbraSha%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐سرور 375 | Feb-22 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.11.162:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 376 | Feb-22 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.35.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 377 | Feb-22 | MTSRVRS
 trojan://telegram-id-directvpn@3.65.47.214:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 378 | Feb-22 | MTSRVRS
