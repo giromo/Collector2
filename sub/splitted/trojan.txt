@@ -1,6 +1,6 @@
-trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@94.131.122.254:443?sni=hl-freedom-2.undef.network&peer=hl-freedom-2.undef.network&security=tls#🌐سرور 26 | Feb-26 | MTSRVRS
-trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🌐سرور 30 | Feb-26 | MTSRVRS
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 38 | Feb-26 | MTSRVRS
+trojan://BxceQaOe@16.163.102.116:52951?allowInsecure=1&sni=t.me%252Fripaojiedian#🌐سرور 31 | Feb-26 | MTSRVRS
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 33 | Feb-26 | MTSRVRS
+trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@94.131.122.254:443?sni=hl-freedom-2.undef.network&peer=hl-freedom-2.undef.network&security=tls#🌐سرور 38 | Feb-26 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.181.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 237 | Feb-26 | MTSRVRS
 trojan://bpb-trojan@www.speedtest.net:443?path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-wORkER-paNel.pAGEs.DeV#🌐سرور 238 | Feb-26 | MTSRVRS
 trojan://0rF73PXdUS8R72jb9FMGdKrBnWtD92Ac@veraams2.uspn.io:2087?fp=chrome&pbk=D6Rp5wFAzRZ-ZHOcKdaTK7aCfsBBu1jb3_dtvekt2W0&security=reality&sid=6ba85179e30d4fc2&sni=api-maps.yandex.ru&type=tcp#🌐سرور 239 | Feb-26 | MTSRVRS
