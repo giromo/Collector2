@@ -1,6 +1,6 @@
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?sni=www.nintendogames.net&path=/#🌐سرور 40 | Feb-27 | MTSRVRS
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 46 | Feb-27 | MTSRVRS
-trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#🌐سرور 66 | Feb-27 | MTSRVRS
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?sni=www.nintendogames.net&path=/#🌐سرور 36 | Feb-27 | MTSRVRS
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?security=tls&sni=www.nintendogames.net&type=tcp&path=/#🌐سرور 38 | Feb-27 | MTSRVRS
+trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#🌐سرور 58 | Feb-27 | MTSRVRS
 trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&security=none#🌐سرور 198 | Feb-27 | MTSRVRS
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🌐سرور 199 | Feb-27 | MTSRVRS
 trojan://bpb-trojan@[2606:4700:310c::ac42:2c57]:443?path=%2FtrX8KHVBHF19MGHAzI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BpB-worKeR-pAnEL.paGEs.dEV#🌐سرور 200 | Feb-27 | MTSRVRS
