@@ -1,5 +1,5 @@
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🌐سرور 40 | Feb-27 | MTSRVRS
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:1281?sni=www.nintendogames.net&path=/#🌐سرور 62 | Feb-27 | MTSRVRS
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🌐سرور 55 | Feb-27 | MTSRVRS
+trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:1281?sni=www.nintendogames.net&path=/#🌐سرور 68 | Feb-27 | MTSRVRS
 trojan://telegram-id-privatevpns@13.39.176.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 269 | Feb-27 | MTSRVRS
 trojan://telegram-id-privatevpns@13.38.25.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#🌐سرور 270 | Feb-27 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🌐سرور 271 | Feb-27 | MTSRVRS
