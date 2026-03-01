@@ -1,5 +1,4 @@
-trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls&sni=uk-1.fishchipsexpress.com#🌐سرور 3 | Mar-01 | MTSRVRS
-trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@94.131.122.254:443?security=tls&sni=hl-freedom-2.undef.network&type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f#🌐سرور 13 | Mar-01 | MTSRVRS
+trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@94.131.122.254:443?security=tls&sni=hl-freedom-2.undef.network&type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f#🌐سرور 10 | Mar-01 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#🌐سرور 173 | Mar-01 | MTSRVRS
 trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@ggbnhj.932.pp.ua:443?path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&security=tls&alpn=http%2F1.1&insecure=0&host=ggbnhj.932.pp.ua&type=ws&allowInsecure=0&sni=ggbnhj.932.pp.ua#🌐سرور 174 | Mar-01 | MTSRVRS
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.66.44.230:8443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftro8sFW1S91B6sZrM1&sni=Koma-YT.PAGeS.Dev&type=ws#🌐سرور 175 | Mar-01 | MTSRVRS
@@ -44,6 +43,7 @@ trojan://telegram-id-privatevpns@13.37.41.238:22222?security=tls&alpn=http/1.1&h
 trojan://b9bb332d-5e0d-41af-adac-49362dde8661@hhhnmjk.191268.xyz:443?type=ws&security=tls&path=%252FQmR662lkasAQbt5Q2GkKGWRMg&host=hhhnmjk.191268.xyz&sni=hhhnmjk.191268.xyz&fp=chrome&alpn=http%25252F1.1&allowInsecure=1#🌐سرور 214 | Mar-01 | MTSRVRS
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&type=ws#🌐سرور 215 | Mar-01 | MTSRVRS
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#🌐سرور 216 | Mar-01 | MTSRVRS
+trojan://R8ufkVqwRZAgtwjyrA@uk-1.fishchipsexpress.com:443?security=tls&sni=uk-1.fishchipsexpress.com#🌐سرور 217 | Mar-01 | MTSRVRS
 trojan://BxceQaOe@43.198.227.190:50446?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 218 | Mar-01 | MTSRVRS
 trojan://telegram-id-privatevpns@52.57.206.229:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 219 | Mar-01 | MTSRVRS
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🌐سرور 220 | Mar-01 | MTSRVRS
