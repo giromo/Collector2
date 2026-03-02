@@ -1,4 +1,5 @@
-trojan://2c2b076e-42c1-4761-9b5c-1800ba829e1a@sgg.2046.gq:4443?allowInsecure=1%23@Hope_Net-join-us-on-Telegram#🌐سرور 114 | Mar-02 | MTSRVRS
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🌐سرور 13 | Mar-02 | MTSRVRS
+trojan://2c2b076e-42c1-4761-9b5c-1800ba829e1a@sgg.2046.gq:4443?allowInsecure=1%23@Hope_Net-join-us-on-Telegram#🌐سرور 120 | Mar-02 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🌐سرور 164 | Mar-02 | MTSRVRS
 trojan://telegram-id-privatevpns@52.29.89.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 165 | Mar-02 | MTSRVRS
 trojan://2c2b076e-42c1-4761-9b5c-1800ba829e1a@sgg.2046.gq:4443?allowInsecure=1#🌐سرور 166 | Mar-02 | MTSRVRS
@@ -24,7 +25,6 @@ trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@tt6.tjvpn.top:443?allowInsecure=1#
 trojan://telegram-id-directvpn@3.75.163.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 186 | Mar-02 | MTSRVRS
 trojan://telegram-id-directvpn@52.29.89.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 187 | Mar-02 | MTSRVRS
 trojan://telegram-id-directvpn@13.38.236.178:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 188 | Mar-02 | MTSRVRS
-trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net&type=tcp&headerType=none&path=/&allow_insecure=0#🌐سرور 189 | Mar-02 | MTSRVRS
 trojan://telegram-id-directvpn@13.39.66.187:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 190 | Mar-02 | MTSRVRS
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#🌐سرور 191 | Mar-02 | MTSRVRS
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🌐سرور 192 | Mar-02 | MTSRVRS
