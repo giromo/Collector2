@@ -1,5 +1,5 @@
-trojan://telegram-id-privatevpns@52.28.154.195:22222?security=tls&alpn=http%2F1.1&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#🌐سرور 13 | Mar-04 | MTSRVRS
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 17 | Mar-04 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 19 | Mar-04 | MTSRVRS
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 20 | Mar-04 | MTSRVRS
 trojan://BxceQaOe@43.198.227.190:50446?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me/ripaojiedian%23%F0%9F%87%BA%F0%9F%87%B8@FreakConfig#🌐سرور 73 | Mar-04 | MTSRVRS
 trojan://bpb-trojan@digiclassor.ir:443?path=%2FtrmqBcNssn2YTZY2qv%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-Bpb-WOrKer-paneL.pagEs.DeV#🌐سرور 137 | Mar-04 | MTSRVRS
 trojan://telegram-id-directvpn@15.188.31.240:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 138 | Mar-04 | MTSRVRS
@@ -31,7 +31,7 @@ trojan://trojan@162.159.152.4:8443?path=%2F%3Fed&security=tls&insecure=0&host=az
 trojan://telegram-id-privatevpns@18.159.99.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 164 | Mar-04 | MTSRVRS
 trojan://telegram-id-directvpn@52.29.89.183:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 165 | Mar-04 | MTSRVRS
 trojan://telegram-id-privatevpns@15.188.31.240:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 166 | Mar-04 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 168 | Mar-04 | MTSRVRS
+trojan://telegram-id-privatevpns@52.28.154.195:22222?security=tls&alpn=http%2F1.1&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=trojan.burgerip.co.uk#🌐سرور 167 | Mar-04 | MTSRVRS
 trojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🌐سرور 169 | Mar-04 | MTSRVRS
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🌐سرور 170 | Mar-04 | MTSRVRS
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌐سرور 171 | Mar-04 | MTSRVRS
