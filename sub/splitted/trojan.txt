@@ -1,3 +1,4 @@
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🌐سرور 27 | Mar-06 | MTSRVRS
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#🌐سرور 124 | Mar-06 | MTSRVRS
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=%2Fassignment#🌐سرور 125 | Mar-06 | MTSRVRS
 trojan://telegram-id-directvpn@35.181.225.239:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 126 | Mar-06 | MTSRVRS
@@ -92,7 +93,6 @@ trojan://telegram-id-privatevpns@13.39.100.172:22222?security=tls&alpn=http/1.1&
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🌐سرور 215 | Mar-06 | MTSRVRS
 trojan://telegram-id-directvpn@13.39.97.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 216 | Mar-06 | MTSRVRS
 trojan://telegram-id-directvpn@63.183.63.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 217 | Mar-06 | MTSRVRS
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🌐سرور 218 | Mar-06 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#🌐سرور 219 | Mar-06 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🌐سرور 220 | Mar-06 | MTSRVRS
 trojan://telegram-id-directvpn@63.180.53.233:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 221 | Mar-06 | MTSRVRS
@@ -100,7 +100,6 @@ trojan://telegram-id-directvpn@13.39.61.161:22223?security=tls&alpn=http/1.1&hea
 trojan://Nova-Proxy@198.41.200.74:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#🌐سرور 223 | Mar-06 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🌐سرور 224 | Mar-06 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🌐سرور 225 | Mar-06 | MTSRVRS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🌐سرور 226 | Mar-06 | MTSRVRS
 trojan://telegram-id-directvpn@63.183.63.206:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 227 | Mar-06 | MTSRVRS
 trojan://telegram-id-privatevpns@63.183.63.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 228 | Mar-06 | MTSRVRS
 trojan://telegram-id-privatevpns@52.29.89.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 229 | Mar-06 | MTSRVRS
@@ -113,3 +112,4 @@ trojan://telegram-id-privatevpns@3.79.158.4:22222?security=tls&alpn=http/1.1&hea
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#🌐سرور 236 | Mar-06 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&security=tls=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&fp=chrome&type=ws&sni=www.gossipglove.com#🌐سرور 237 | Mar-06 | MTSRVRS
 trojan://Nova-Proxy@198.41.200.74:8443?path=%2F%3Fed&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=small-morning-2668.drusavm.workers.dev#🌐سرور 238 | Mar-06 | MTSRVRS
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🌐سرور 704 | Mar-06 | MTSRVRS
