@@ -1,5 +1,5 @@
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 12 | Mar-09 | MTSRVRS
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 14 | Mar-09 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 11 | Mar-09 | MTSRVRS
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 24 | Mar-09 | MTSRVRS
 trojan://984c7793-1447-4af5-9200-d514ad6fe329@bgp1.stimaysmhy8.com:14011?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=jsygouer.weixin-baidu-qq.com#🌐سرور 109 | Mar-09 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:443?path=%2Ftrzf4cT2bn8MYJ0wE4%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPb-woRKEr-panEL.PaGES.dev#🌐سرور 110 | Mar-09 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🌐سرور 111 | Mar-09 | MTSRVRS
