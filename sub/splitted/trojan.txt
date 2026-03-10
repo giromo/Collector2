@@ -1,6 +1,6 @@
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 12 | Mar-10 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 19 | Mar-10 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 20 | Mar-10 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 12 | Mar-10 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 13 | Mar-10 | MTSRVRS
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 15 | Mar-10 | MTSRVRS
 trojan://telegram-id-directvpn@15.188.68.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 107 | Mar-10 | MTSRVRS
 trojan://bpb-trojan@digiclassor.ir:443?path=%2FtrmqBcNssn2YTZY2qv%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-Bpb-WOrKer-paneL.pagEs.DeV#🌐سرور 108 | Mar-10 | MTSRVRS
 trojan://telegram-id-privatevpns@15.224.0.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 109 | Mar-10 | MTSRVRS
