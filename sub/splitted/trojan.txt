@@ -1,5 +1,6 @@
-trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#🌐سرور 16 | Mar-12 | MTSRVRS
-trojan://humanity@104.18.9.83:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🌐سرور 67 | Mar-12 | MTSRVRS
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#🌐سرور 17 | Mar-12 | MTSRVRS
+trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?allowInsecure=0&sni=jsygouer.weixin-baidu-qq.com#🌐سرور 25 | Mar-12 | MTSRVRS
+trojan://humanity@104.18.9.83:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🌐سرور 68 | Mar-12 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🌐سرور 128 | Mar-12 | MTSRVRS
 trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🌐سرور 129 | Mar-12 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:8443?path=%2FtrpXEf7QIPdwhQjYkV%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-WoRkER-pAnEl.pAGEs.DeV#🌐سرور 130 | Mar-12 | MTSRVRS
@@ -71,7 +72,6 @@ trojan://telegram-id-directvpn@3.127.99.68:22223?security=tls&alpn=http/1.1&head
 trojan://humanity@172.66.44.211:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#🌐سرور 196 | Mar-12 | MTSRVRS
 trojan://trojan@162.159.152.4:8443?path=%2F%3Fed&security=tls&insecure=0&host=azadnet-f03.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-f03.pages.dev#🌐سرور 197 | Mar-12 | MTSRVRS
 trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#🌐سرور 198 | Mar-12 | MTSRVRS
-trojan://d5fa43f9-1ace-4b8f-b865-627e67b1fe37@tw05.stimaysmhy8.com:31500?allowInsecure=0&sni=jsygouer.weixin-baidu-qq.com#🌐سرور 199 | Mar-12 | MTSRVRS
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@mfa.gov.ua:2096?allowInsecure=1&host=cm22-bgphhh.pages.dev&path=%2F&sni=cm22-bgphhh.pages.dev&type=ws#🌐سرور 200 | Mar-12 | MTSRVRS
 trojan://humanity@172.66.44.211:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#🌐سرور 201 | Mar-12 | MTSRVRS
 trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:8443?path=%2Ftr5gvCjFBPFcmGVEFz%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpB-woRKer-pANeL.pAGes.dev#🌐سرور 202 | Mar-12 | MTSRVRS
