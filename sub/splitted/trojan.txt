@@ -1,16 +1,16 @@
-trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐 به روزرسانی شده در Mar-14 | 16:33 | هر 2 ساعت کانفیک جدید داریم
+trojan://lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths@64.74.163.118:58536?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#🌐 به روزرسانی شده در Mar-14 | 19:04 | هر 2 ساعت کانفیک جدید داریم
 trojan://ZY07256934@cool-lioness.rooster465.autos:443?allowInsecure=1#🌐سرور 4 | Mar-14 | MTSRVRS
-trojan://ZY07256934@cool-lioness.rooster465.autos:443?allowInsecure=1#🌐سرور 5 | Mar-14 | MTSRVRS
-trojan://ZY07256934@cool-lioness.rooster465.autos:443?allowInsecure=1#🌐سرور 6 | Mar-14 | MTSRVRS
+trojan://ZY07256934@cool-lioness.rooster465.autos:443?allowInsecure=1#🌐سرور 8 | Mar-14 | MTSRVRS
+trojan://ZY07256934@cool-lioness.rooster465.autos:443?allowInsecure=1#🌐سرور 11 | Mar-14 | MTSRVRS
 trojan://ZY07256934@glowing-deer.rooster465.autos:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=glowing-deer.rooster465.autos#🌐سرور 30 | Mar-14 | MTSRVRS
-trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4674?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 31 | Mar-14 | MTSRVRS
-trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:3419?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 34 | Mar-14 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 39 | Mar-14 | MTSRVRS
+trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:3419?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 38 | Mar-14 | MTSRVRS
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 40 | Mar-14 | MTSRVRS
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 41 | Mar-14 | MTSRVRS
+trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4674?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 41 | Mar-14 | MTSRVRS
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 43 | Mar-14 | MTSRVRS
 trojan://2AAF5UEsSd@37.27.249.93:20000?type=tcp&security=none#🌐سرور 177 | Mar-14 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:8443?path=%2FtrpXEf7QIPdwhQjYkV%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-WoRkER-pAnEl.pAGEs.DeV#🌐سرور 178 | Mar-14 | MTSRVRS
 trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@cf.877774.xyz:2087?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&path=/item/acg/tag/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80?ed=2560&Host=cm22-bgphhh.pages.dev#🌐سرور 181 | Mar-14 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 182 | Mar-14 | MTSRVRS
 trojan://telegram-id-directvpn@13.38.214.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 183 | Mar-14 | MTSRVRS
 trojan://telegram-id-privatevpns@13.39.53.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 184 | Mar-14 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🌐سرور 185 | Mar-14 | MTSRVRS
