@@ -1,6 +1,7 @@
-trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 27 | Mar-17 | MTSRVRS
+trojan://BxceQaOe@58.152.25.253:443?allowInsecure=1&sni=t.me%2Fripaojiedian#🌐سرور 20 | Mar-17 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 25 | Mar-17 | MTSRVRS
+trojan://ZY07256934@delicate-buck.rooster465.autos:443?allowInsecure=1#🌐سرور 26 | Mar-17 | MTSRVRS
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 28 | Mar-17 | MTSRVRS
-trojan://ZY07256934@delicate-buck.rooster465.autos:443?allowInsecure=1#🌐سرور 29 | Mar-17 | MTSRVRS
 trojan://ZY07256934@free-duckling.rooster465.autos:443?allowInsecure=1#🌐سرور 31 | Mar-17 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:8443?path=%2FtrpXEf7QIPdwhQjYkV%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-WoRkER-pAnEl.pAGEs.DeV#🌐سرور 158 | Mar-17 | MTSRVRS
 trojan://telegram-id-directvpn@15.236.174.14:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 159 | Mar-17 | MTSRVRS
@@ -86,7 +87,6 @@ trojan://telegram-id-directvpn@15.188.35.16:22223?security=tls&alpn=http/1.1&hea
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌐سرور 242 | Mar-17 | MTSRVRS
 trojan://telegram-id-privatevpns@13.37.37.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 243 | Mar-17 | MTSRVRS
 trojan://telegram-id-privatevpns@18.194.236.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 244 | Mar-17 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 245 | Mar-17 | MTSRVRS
 trojan://trojan@162.159.152.4:8443?path=%2F%3Fed&security=tls&insecure=0&host=azadnet-f03.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=azadnet-f03.pages.dev#🌐سرور 246 | Mar-17 | MTSRVRS
 trojan://telegram-id-privatevpns@63.176.237.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 247 | Mar-17 | MTSRVRS
 trojan://telegram-id-privatevpns@13.36.148.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 248 | Mar-17 | MTSRVRS
