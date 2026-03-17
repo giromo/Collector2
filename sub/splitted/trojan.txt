@@ -1,4 +1,6 @@
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 25 | Mar-17 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 26 | Mar-17 | MTSRVRS
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 30 | Mar-17 | MTSRVRS
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#🌐سرور 169 | Mar-17 | MTSRVRS
 trojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?type=ws&security=tls&path=%252famd&sni=sweden.vmaxpanel.com&fp=chrome&allowInsecure=1#🌐سرور 170 | Mar-17 | MTSRVRS
 trojan://telegram-id-privatevpns@13.37.160.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 171 | Mar-17 | MTSRVRS
@@ -25,7 +27,6 @@ trojan://19a78eeb-d83a-4364-b095-b7dd93436320@172.67.149.202:443?security=tls&sn
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌐سرور 192 | Mar-17 | MTSRVRS
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#🌐سرور 193 | Mar-17 | MTSRVRS
 trojan://telegram-id-privatevpns@18.194.236.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 194 | Mar-17 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 195 | Mar-17 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:8443?path=%2FtrpXEf7QIPdwhQjYkV%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-WoRkER-pAnEl.pAGEs.DeV#🌐سرور 196 | Mar-17 | MTSRVRS
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#🌐سرور 197 | Mar-17 | MTSRVRS
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🌐سرور 198 | Mar-17 | MTSRVRS
@@ -73,7 +74,6 @@ trojan://telegram-id-directvpn@13.37.137.164:22223?security=tls&alpn=http/1.1&he
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🌐سرور 240 | Mar-17 | MTSRVRS
 trojan://telegram-id-privatevpns@3.123.240.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 241 | Mar-17 | MTSRVRS
 trojan://telegram-id-privatevpns@13.37.160.17:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 242 | Mar-17 | MTSRVRS
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 243 | Mar-17 | MTSRVRS
 trojan://bpb-trojan@www.speedtest.net:8443?path=%2FtrawQuYV0dBGjBNVXI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-WoRKeR-paNEl.PagEs.dEv#🌐سرور 244 | Mar-17 | MTSRVRS
 trojan://telegram-id-directvpn@15.188.40.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 245 | Mar-17 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🌐سرور 246 | Mar-17 | MTSRVRS
