@@ -1,19 +1,19 @@
-trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#🌐 به روزرسانی شده در Mar-21 | 05:57 | هر 2 ساعت کانفیک جدید داریم
-trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#🌐سرور 7 | Mar-21 | MTSRVRS
-trojan://IL37892054@engaging-toucan.rooster465.autos:443?allowInsecure=1#🌐سرور 29 | Mar-21 | MTSRVRS
-trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=1#🌐سرور 31 | Mar-21 | MTSRVRS
-trojan://IL37892054@upright-rhino.rooster465.autos:443?allowInsecure=1#🌐سرور 32 | Mar-21 | MTSRVRS
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🌐سرور 36 | Mar-21 | MTSRVRS
-trojan://IL37892054@engaged-ram.rooster465.autos:443?allowInsecure=1#🌐سرور 37 | Mar-21 | MTSRVRS
-trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?allowInsecure=1#🌐سرور 38 | Mar-21 | MTSRVRS
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 41 | Mar-21 | MTSRVRS
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1#🌐سرور 44 | Mar-21 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 45 | Mar-21 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 46 | Mar-21 | MTSRVRS
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#🌐سرور 47 | Mar-21 | MTSRVRS
-trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 48 | Mar-21 | MTSRVRS
-trojan://IL37892054@steady-lemming.rooster465.autos:443?allowInsecure=1#🌐سرور 52 | Mar-21 | MTSRVRS
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=1#🌐سرور 54 | Mar-21 | MTSRVRS
+trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=1#🌐سرور 1 | Mar-21 | MTSRVRS
+trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?allowInsecure=1#🌐سرور 2 | Mar-21 | MTSRVRS
+trojan://IL37892054@engaging-toucan.rooster465.autos:443?allowInsecure=1#🌐سرور 27 | Mar-21 | MTSRVRS
+trojan://IL37892054@select-marmoset.rooster465.autos:443?allowInsecure=1#🌐سرور 29 | Mar-21 | MTSRVRS
+trojan://IL37892054@upright-rhino.rooster465.autos:443?allowInsecure=1#🌐سرور 30 | Mar-21 | MTSRVRS
+trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.72.33:2001?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 31 | Mar-21 | MTSRVRS
+trojan://IL37892054@steady-lemming.rooster465.autos:443?allowInsecure=1#🌐سرور 33 | Mar-21 | MTSRVRS
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 34 | Mar-21 | MTSRVRS
+trojan://IL37892054@engaged-ram.rooster465.autos:443?allowInsecure=1#🌐سرور 35 | Mar-21 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 38 | Mar-21 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 39 | Mar-21 | MTSRVRS
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1#🌐سرور 40 | Mar-21 | MTSRVRS
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#🌐سرور 41 | Mar-21 | MTSRVRS
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#🌐سرور 50 | Mar-21 | MTSRVRS
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?allowInsecure=1#🌐سرور 51 | Mar-21 | MTSRVRS
+trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?allowInsecure=1#🌐سرور 52 | Mar-21 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.123.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 156 | Mar-21 | MTSRVRS
 trojan://telegram-id-privatevpns@15.188.155.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 157 | Mar-21 | MTSRVRS
 trojan://ZJU29smXwp@45.85.118.88:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=omid.teama.tk#🌐سرور 158 | Mar-21 | MTSRVRS
@@ -99,7 +99,6 @@ trojan://telegram-id-directvpn@18.194.226.217:22223?security=tls&alpn=http/1.1&h
 trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#🌐سرور 247 | Mar-21 | MTSRVRS
 trojan://telegram-id-privatevpns@15.224.3.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 248 | Mar-21 | MTSRVRS
 trojan://telegram-id-privatevpns@15.188.103.210:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 249 | Mar-21 | MTSRVRS
-trojan://telegram-id-privatevpns@18.159.140.89:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#🌐سرور 250 | Mar-21 | MTSRVRS
 trojan://Nova-Proxy@spring-tooth-7fa3.ahmadrj.workers.dev:443?allowInsecure=1&type=ws#🌐سرور 251 | Mar-21 | MTSRVRS
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?allowInsecure=1&host=ubu.okaoclax.me&path=%2Ftrojan-ws&type=ws#🌐سرور 253 | Mar-21 | MTSRVRS
 trojan://telegram-id-privatevpns@3.120.82.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 254 | Mar-21 | MTSRVRS
@@ -126,6 +125,7 @@ trojan://telegram-id-directvpn@15.188.155.30:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.38.195.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 278 | Mar-21 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🌐سرور 279 | Mar-21 | MTSRVRS
 trojan://telegram-id-privatevpns@13.38.195.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 281 | Mar-21 | MTSRVRS
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🌐سرور 282 | Mar-21 | MTSRVRS
 trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#🌐سرور 284 | Mar-21 | MTSRVRS
 trojan://bpb-trojan@172.66.44.87:8443?path=%2FtrpXEf7QIPdwhQjYkV%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-WoRkER-pAnEl.pAGEs.DeV#🌐سرور 285 | Mar-21 | MTSRVRS
 trojan://telegram-id-directvpn@3.124.155.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 286 | Mar-21 | MTSRVRS
@@ -156,4 +156,4 @@ trojan://biS%28YrwB,3L$@185.143.235.5:443?security=tls&insecure=0&headerType=non
 trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#🌐سرور 312 | Mar-21 | MTSRVRS
 trojan://123456@104.25.165.81:8443?security=tls&sni=top-azx.pages.dev&type=ws&host=top-azx.pages.dev#🌐سرور 313 | Mar-21 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.108:11012?security=tls&headerType=none&type=tcp&sni=wus02.weyaf9sdoh2h.space#🌐سرور 314 | Mar-21 | MTSRVRS
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🌐سرور 685 | Mar-21 | MTSRVRS
+trojan://telegram-id-privatevpns@18.159.140.89:22222?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#🌐سرور 684 | Mar-21 | MTSRVRS
