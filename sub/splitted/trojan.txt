@@ -1,10 +1,10 @@
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?allowInsecure=1#🌐سرور 18 | Mar-26 | MTSRVRS
-trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=1#🌐سرور 19 | Mar-26 | MTSRVRS
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 20 | Mar-26 | MTSRVRS
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 27 | Mar-26 | MTSRVRS
-trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#🌐سرور 30 | Mar-26 | MTSRVRS
-trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#🌐سرور 33 | Mar-26 | MTSRVRS
-trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#🌐سرور 34 | Mar-26 | MTSRVRS
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?allowInsecure=1#🌐سرور 10 | Mar-26 | MTSRVRS
+trojan://IL37892054@growing-tuna.rooster465.autos:443?allowInsecure=1#🌐سرور 15 | Mar-26 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 21 | Mar-26 | MTSRVRS
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 28 | Mar-26 | MTSRVRS
+trojan://WF42809561@top-goshawk.rooster465.autos:443?security=tls&sni=top-goshawk.rooster465.autos#🌐سرور 30 | Mar-26 | MTSRVRS
+trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#🌐سرور 33 | Mar-26 | MTSRVRS
+trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#🌐سرور 35 | Mar-26 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.217.149:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 138 | Mar-26 | MTSRVRS
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🌐سرور 139 | Mar-26 | MTSRVRS
 trojan://telegram-id-directvpn@51.44.137.34:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 140 | Mar-26 | MTSRVRS
