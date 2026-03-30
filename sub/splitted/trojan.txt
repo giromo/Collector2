@@ -1,9 +1,9 @@
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?allowInsecure=1#🌐سرور 10 | Mar-30 | MTSRVRS
-trojan://WF42809561@touching-pigeon.rooster465.autos:443?allowInsecure=1#🌐سرور 23 | Mar-30 | MTSRVRS
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 25 | Mar-30 | MTSRVRS
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#🌐سرور 44 | Mar-30 | MTSRVRS
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 50 | Mar-30 | MTSRVRS
-trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#🌐سرور 54 | Mar-30 | MTSRVRS
+trojan://IL37892054@caring-ghoul.rooster465.autos:443?allowInsecure=1#🌐سرور 8 | Mar-30 | MTSRVRS
+trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?allowInsecure=1&sni=www.nintendogames.net#🌐سرور 22 | Mar-30 | MTSRVRS
+trojan://WF42809561@touching-pigeon.rooster465.autos:443?allowInsecure=1#🌐سرور 25 | Mar-30 | MTSRVRS
+trojan://strong-secret-pass-777@45.12.134.57:4443?allowInsecure=1#🌐سرور 36 | Mar-30 | MTSRVRS
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#🌐سرور 37 | Mar-30 | MTSRVRS
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🌐سرور 53 | Mar-30 | MTSRVRS
 trojan://WF42809561@fun-seagull.rooster465.autos:443?allowInsecure=1#🌐سرور 55 | Mar-30 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🌐سرور 162 | Mar-30 | MTSRVRS
 trojan://telegram-id-directvpn@13.37.25.182:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 163 | Mar-30 | MTSRVRS
