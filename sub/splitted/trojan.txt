@@ -1,5 +1,5 @@
-trojan://M08tvzYWtUEJNtbpHp@194.124.216.185:443?allowInsecure=1#🌐سرور 7 | Apr-05 | MTSRVRS
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?allowInsecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&sni=www.nintendogames.net#🌐سرور 18 | Apr-05 | MTSRVRS
+trojan://M08tvzYWtUEJNtbpHp@194.124.216.185:443?allowInsecure=1#🌐سرور 4 | Apr-05 | MTSRVRS
+trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?allowInsecure=0=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&sni=www.nintendogames.net#🌐سرور 19 | Apr-05 | MTSRVRS
 trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.106.99:2001?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 22 | Apr-05 | MTSRVRS
 trojan://telegram-id-directvpn@15.188.235.241:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 121 | Apr-05 | MTSRVRS
 trojan://%295,9FW.Kk166@irancell.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&host=028.electrocellco-cf-028.workers.dev&path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&sni=028.eLECtRocEllco-Cf-028.worKErS.dev&type=ws#🌐سرور 122 | Apr-05 | MTSRVRS
