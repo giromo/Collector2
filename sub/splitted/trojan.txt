@@ -1,9 +1,9 @@
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?sni=fra4.chasem2026sud.com&allowInsecure=1&type=tcp&fp=chrome#🌐سرور 24 | Apr-20 | MTSRVRS
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?allowInsecure=1&sni=fra5.chasem2026sud.com#🌐سرور 25 | Apr-20 | MTSRVRS
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?allowInsecure=1&sni=fra35.chasem2026sud.com#🌐سرور 26 | Apr-20 | MTSRVRS
-trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?allowInsecure=1#🌐سرور 27 | Apr-20 | MTSRVRS
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.20:10369?allowInsecure=1&sni=fra35.chasem2026sud.com#🌐سرور 24 | Apr-20 | MTSRVRS
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?sni=fra4.chasem2026sud.com&allowInsecure=1&type=tcp&fp=chrome#🌐سرور 25 | Apr-20 | MTSRVRS
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?allowInsecure=1#🌐سرور 26 | Apr-20 | MTSRVRS
+trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.237:10369?allowInsecure=1&sni=fra5.chasem2026sud.com#🌐سرور 27 | Apr-20 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BB#🌐سرور 41 | Apr-20 | MTSRVRS
-trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BBvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BBvless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BB#🌐سرور 73 | Apr-20 | MTSRVRS
+trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BBvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BBvless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BB#🌐سرور 77 | Apr-20 | MTSRVRS
 trojan://telegram-id-privatevpns@18.157.201.96:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 124 | Apr-20 | MTSRVRS
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096?path=%2Ftr&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🌐سرور 125 | Apr-20 | MTSRVRS
 trojan://BxceQaOe@219.79.214.159:443?security=tls&headerType=none&type=tcp&sni=t.me%252Fripaojiedian#🌐سرور 126 | Apr-20 | MTSRVRS
@@ -73,13 +73,13 @@ trojan://telegram-id-privatevpns@15.236.63.145:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@3.64.145.4:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 193 | Apr-20 | MTSRVRS
 trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🌐سرور 194 | Apr-20 | MTSRVRS
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🌐سرور 195 | Apr-20 | MTSRVRS
+trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:443?path=%2Ftrm7P3VNsWWOwIafAP%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPb-WORKer-paNEL.paGeS.dEV#🌐سرور 196 | Apr-20 | MTSRVRS
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=/assignment#🌐سرور 197 | Apr-20 | MTSRVRS
 trojan://telegram-id-directvpn@13.38.210.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 198 | Apr-20 | MTSRVRS
 trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev#🌐سرور 199 | Apr-20 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#🌐سرور 200 | Apr-20 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌐سرور 201 | Apr-20 | MTSRVRS
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#🌐سرور 202 | Apr-20 | MTSRVRS
-trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&security=none#🌐سرور 203 | Apr-20 | MTSRVRS
 trojan://bpb-trojan@172.66.47.169:443?path=%2FtrGvw4vC2XBnFG3ZJ6%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-BPB-worKer-paNEl.PaGes.deV#🌐سرور 204 | Apr-20 | MTSRVRS
 trojan://telegram-id-directvpn@15.236.251.22:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 205 | Apr-20 | MTSRVRS
 trojan://telegram-id-directvpn@15.188.12.141:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 206 | Apr-20 | MTSRVRS
@@ -129,4 +129,4 @@ trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.
 trojan://telegram-id-privatevpns@35.181.218.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 251 | Apr-20 | MTSRVRS
 trojan://telegram-id-privatevpns@15.188.12.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 252 | Apr-20 | MTSRVRS
 trojan://telegram-id-directvpn@15.188.2.109:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 253 | Apr-20 | MTSRVRS
-trojan://bpb-trojan@10-bpb-worker-panel.pages.dev:443?path=%2Ftrm7P3VNsWWOwIafAP%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPb-WORKer-paNEL.paGeS.dEV#🌐سرور 629 | Apr-20 | MTSRVRS
+trojan://KBgnXadFmC@88.99.184.17:40450?type=tcp&security=none#🌐سرور 630 | Apr-20 | MTSRVRS
