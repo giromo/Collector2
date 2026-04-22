@@ -1,6 +1,7 @@
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#🌐سرور 16 | Apr-22 | MTSRVRS
-trojan://1774240c00db2b77d5a99f6540c47b69@160.16.124.17:32876?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 18 | Apr-22 | MTSRVRS
+trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#🌐سرور 17 | Apr-22 | MTSRVRS
+trojan://1774240c00db2b77d5a99f6540c47b69@160.16.124.17:32876?allowInsecure=0&sni=www.nintendogames.net#🌐سرور 19 | Apr-22 | MTSRVRS
 trojan://n5ix4FcMQYENMQPL+YKbvyJ8nZ84+bNTsj@82.26.155.199:10369?sni=fra4.chasem2026sud.com&allowInsecure=1&type=tcp&fp=chrome#🌐سرور 22 | Apr-22 | MTSRVRS
+trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 29 | Apr-22 | MTSRVRS
 trojan://humanity@www.gossipglove.com:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BBvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=/pabloping/?TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BBvless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws%23@V2RAYROZ%20%7C%20%F0%9F%8C%AA%F0%9F%9A%80%F0%9F%91%BB#🌐سرور 37 | Apr-22 | MTSRVRS
 trojan://auto@104.21.48.61:443?security=tls&sni=nameless-term-9c25.vpnconnect202020.workers.dev&type=ws&host=nameless-term-9c25.vpnconnect202020.workers.dev&path=/%23@VIProxys#🌐سرور 45 | Apr-22 | MTSRVRS
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🌐سرور 122 | Apr-22 | MTSRVRS
@@ -31,7 +32,6 @@ trojan://telegram-id-privatevpns@63.179.16.188:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@15.188.12.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 148 | Apr-22 | MTSRVRS
 trojan://8r%3C%5B9%27l6hAO%238ZQi@8.6.112.0:2096?type=ws&security=tls&path=%2Ftr&host=Koma-YT.PAGeS.Dev&sni=Koma-YT.PAGeS.Dev#🌐سرور 149 | Apr-22 | MTSRVRS
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#🌐سرور 150 | Apr-22 | MTSRVRS
-trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🌐سرور 152 | Apr-22 | MTSRVRS
 trojan://1234567890@104.194.158.125:8443?allowInsecure=1&host=kfm-bn0.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=kfm-bn0.pages.dev&type=ws#🌐سرور 153 | Apr-22 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.218.32:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 154 | Apr-22 | MTSRVRS
 trojan://auto@172.66.45.2:443?security=tls&sni=dcf741e8.epeius-2gy.pages.dev&type=ws&host=dcf741e8.epeius-2gy.pages.dev#🌐سرور 155 | Apr-22 | MTSRVRS
