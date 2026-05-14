@@ -103,7 +103,6 @@ trojan://humanity@104.20.6.134:443?host=www.ignitelimit.com&path=%2Fassignment&s
 trojan://telegram-id-privatevpns@3.126.44.218:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 220 | May-14 | MTSRVRS
 trojan://telegram-id-privatevpns@63.183.64.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 221 | May-14 | MTSRVRS
 trojan://telegram-id-privatevpns@3.122.87.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 222 | May-14 | MTSRVRS
-trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🌐سرور 223 | May-14 | MTSRVRS
 trojan://telegram-id-privatevpns@52.47.169.8:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 224 | May-14 | MTSRVRS
 trojan://telegram-id-privatevpns@3.71.124.112:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 225 | May-14 | MTSRVRS
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#🌐سرور 226 | May-14 | MTSRVRS
@@ -116,3 +115,4 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@162.55.38.85:8443?host=Koma-YT.PAGeS.Dev&path=
 trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 233 | May-14 | MTSRVRS
 trojan://trojan@91.193.58.0:443?security=tls&sni=wahaha.yingyangkuaixian.dpdns.org&fp=chrome&type=ws&host=wahaha.yingyangkuaixian.dpdns.org&path=%2F#🌐سرور 234 | May-14 | MTSRVRS
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=%2F#🌐سرور 235 | May-14 | MTSRVRS
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@23.186.200.107:11011?security=tls&headerType=none&type=tcp&sni=wus01.weyaf9sdoh2h.space#🌐سرور 600 | May-14 | MTSRVRS
