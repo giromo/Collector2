@@ -1,6 +1,6 @@
-trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443#🌐سرور 2 | May-22 | MTSRVRS
+trojan://JaFKnqNcvnBT63t3rquidGsln@91.210.108.201:443?sni=HL-FREEDOM-1.UNDEF.NETWORK#🌐سرور 2 | May-22 | MTSRVRS
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443#🌐سرور 3 | May-22 | MTSRVRS
-trojan://JaFKnqNcvnBT63t3rquidGsln@91.210.108.201:443?sni=HL-FREEDOM-1.UNDEF.NETWORK#🌐سرور 4 | May-22 | MTSRVRS
+trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443#🌐سرور 4 | May-22 | MTSRVRS
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=%F0%9F%94%92#🌐سرور 10 | May-22 | MTSRVRS
 trojan://telegram-id-privatevpns@63.183.106.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 104 | May-22 | MTSRVRS
 trojan://bpb-trojan@104.21.75.193:443?security=tls&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=%2Ftr%3Fed%3D2560&fp=randomized&alpn=h3#🌐سرور 105 | May-22 | MTSRVRS
