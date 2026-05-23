@@ -1,12 +1,12 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#🌐 به روزرسانی شده در May-23 | 22:42 | هر 2 ساعت کانفیک جدید داریم
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#🌐 به روزرسانی شده در May-23 | 22:44 | هر 2 ساعت کانفیک جدید داریم
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#🌐سرور 1 | May-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🌐سرور 2 | May-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🌐سرور 3 | May-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🌐سرور 4 | May-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🌐سرور 2 | May-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🌐سرور 3 | May-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🌐سرور 4 | May-23 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🌐سرور 5 | May-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#🌐سرور 6 | May-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🌐سرور 10 | May-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🌐سرور 11 | May-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🌐سرور 6 | May-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🌐سرور 9 | May-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🌐سرور 10 | May-23 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443%23@Golestan_VPN%20-%20...%D9%85%D8%A7%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D8%AF%D8%A7%D8%B1%DB%8C%D9%85vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.113.57:443?security=reality&encryption=none&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=8bcfe256cf216fd8%23@Golestan_VPN%20-%20...%D9%85%D8%A7%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D8%AF%D8%A7%D8%B1%DB%8C%D9%85vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6%23@Golestan_VPN%20-%20...%D9%85%D8%A7%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D8%AF%D8%A7%D8%B1%DB%8C%D9%85ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313%23@Golestan_VPN%20-%20...%D9%85%D8%A7%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D8%AF%D8%A7%D8%B1%DB%8C%D9%85vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.166:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2%23@Golestan_VPN%20-%20...%D9%85%D8%A7%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D8%AF%D8%A7%D8%B1%DB%8C%D9%85ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGFhZTA1MTAxODhlOGM1@141.95.106.127:11201%23@Golestan_VPN%20-%20...%D9%85%D8%A7%20%D8%A7%D8%AF%D8%A7%D9%85%D9%87%20%D8%AF%D8%A7%D8%B1%DB%8C%D9%85#🌐سرور 42 | May-23 | MTSRVRS
 ss://be4c79f7-642a-4e62-9d0f#🌐سرور 161 | May-23 | MTSRVRS
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.124:8880?sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3&allowInsecure=0#🌐سرور 897 | May-23 | MTSRVRS
