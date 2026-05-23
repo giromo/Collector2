@@ -1,83 +1,99 @@
 name: Collector2
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 */6 * * *"
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
-    - name: Create logs directory
-      run: mkdir -p logs
+      uses: actions/checkout@v6
+      with:
+        fetch-depth: 1
+
+    - name: Create directories
+      run: mkdir -p logs bulk
+
     - name: Set up PHP
-      uses: shivammathur/setup-php@v2
+      uses: shivammathur/setup-php@v3
       with:
-        php-version: '8.0'
+        php-version: '8.2' 
+
     - name: Run PHP processor
-      run: php Files/vmess_processor.php > logs/php_run.log 2>&1
+      run: php Files/vmess_processor.php > logs/php_run.log 2>&1 || echo "PHP processor failed"
+
     - name: Set up Go
-      uses: actions/setup-go@v5
+      uses: actions/setup-go@v6
       with:
-        go-version: '1.21'
+        go-version: '1.23'      
         cache: true
         cache-dependency-path: Files/go.mod
-    - name: Set GOPROXY
-      run: export GOPROXY=https://proxy.golang.org,direct
-    - name: Clean Go module cache
-      run: go clean -modcache
+
     - name: Install Go dependencies
       working-directory: ./Files
       run: go mod tidy && go mod download
+
     - name: Build and run Golang file
       working-directory: ./Files
       run: go run ./main.go > ../logs/go_run.log 2>&1 || (cat ../logs/go_run.log && exit 1)
+
     - name: Upload log file
       if: always()
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v6
       with:
         name: go-run-log
         path: logs/go_run.log
         retention-days: 7
+
     - name: Move Files to Bulk Directory
       run: |
         mkdir -p bulk
-        mv Files/vmess_iran.txt bulk/ || echo "vmess_iran.txt not found"
-        mv Files/trojan_iran.txt bulk/ || echo "trojan_iran.txt not found"
-        mv Files/vless_iran.txt bulk/ || echo "vless_iran.txt not found"
-        mv Files/ss_iran.txt bulk/ || echo "ss_iran.txt not found"
-        mv Files/mixed_iran.txt bulk/ || echo "mixed_iran.txt not found"
-        mv Files/tuic_iran.txt bulk/ || echo "tuic_iran.txt not found"
-        mv Files/hysteria2_iran.txt bulk/ || echo "hysteria2_iran.txt not found"
-        mv Files/wireguard_iran.txt bulk/ || echo "wireguard_iran.txt not found"
-        mv Files/vmessclean.txt bulk/ || echo "vmessclean.txt not found"
-    - name: Create merge1.txt
+        mv Files/*.txt bulk/ 2>/dev/null || true
+
+    - name: Create merge files
       run: |
-        cat ./bulk/ss_iran.txt ./bulk/trojan_iran.txt > ./bulk/merge1.txt || echo "Failed to create merge1.txt"
-        sed -i '/^\(ss:\/\/\|shadowsocks:\/\/\|trojan:\/\/\)/!d' ./bulk/merge1.txt
-    - name: Create merge2.txt
+        cd bulk
+        
+        # merge1
+        cat ss_iran.txt trojan_iran.txt > merge1.txt 2>/dev/null || true
+        sed -i '/^\(ss:\/\/\|shadowsocks:\/\/\|trojan:\/\/\)/!d' merge1.txt
+        
+        # merge2
+        cat vmess_iran.txt vless_iran.txt > merge2.txt 2>/dev/null || true
+        sed -i '/^\(vmess:\/\/\|vless:\/\/\)/!d' merge2.txt
+        
+        # merge3
+        cat vmess_iran.txt vless_iran.txt ss_iran.txt trojan_iran.txt tuic_iran.txt hysteria2_iran.txt wireguard_iran.txt > merge3.txt 2>/dev/null || true
+        sed -i '/^\(ss:\/\/\|shadowsocks:\/\/\|trojan:\/\/\|vmess:\/\/\|vless:\/\/\|tuic:\/\/\|hy2:\/\/\|hysteria2:\/\/\|wireguard:\/\/\)/!d' merge3.txt
+
+    - name: Convert to base64
       run: |
-        cat ./bulk/vmess_iran.txt ./bulk/vless_iran.txt > ./bulk/merge2.txt || echo "Failed to create merge2.txt"
-        sed -i '/^\(vmess:\/\/\|vless:\/\/\)/!d' ./bulk/merge2.txt
-    - name: Create merge3.txt
-      run: |
-        cat ./bulk/vmess_iran.txt ./bulk/ss_iran.txt ./bulk/trojan_iran.txt ./bulk/vless_iran.txt ./bulk/tuic_iran.txt ./bulk/hysteria2_iran.txt ./bulk/wireguard_iran.txt > ./bulk/merge3.txt || echo "Failed to create merge3.txt"
-        sed -i '/^\(ss:\/\/\|shadowsocks:\/\/\|trojan:\/\/\|vmess:\/\/\|vless:\/\/\|tuic:\/\/\|tuic5:\/\/\|hy2:\/\/\|hysteria2:\/\/\|wireguard:\/\/\)/!d' ./bulk/merge3.txt
-    - name: Convert merge1.txt to base64
-      run: |
-        base64 ./bulk/merge1.txt > ./bulk/b64_merge1.txt || echo "Failed to convert merge1.txt"
-    - name: Convert merge2.txt to base64
-      run: |
-        base64 ./bulk/merge2.txt > ./bulk/b64_merge2.txt || echo "Failed to convert merge2.txt"
-    - name: Commit Changes
+        cd bulk
+        [ -f merge1.txt ] && base64 merge1.txt > b64_merge1.txt || true
+        [ -f merge2.txt ] && base64 merge2.txt > b64_merge2.txt || true
+        [ -f merge3.txt ] && base64 merge3.txt > b64_merge3.txt || true
+
+    - name: Commit and Push
       run: |
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
-        git add ./bulk
-        git commit -m "🔲 $(date '+%Y-%m-%d %H:%M:%S') Collected" || echo "No changes to commit"
-        git fetch origin main
-        git rebase origin/main || (git rebase --abort && git pull origin main --force && git push origin main --force)
-        git push origin main
-    - name: Clean up logs directory
+        
+        git add ./bulk/ ./logs/ || true
+        
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🔲 $(date '+%Y-%m-%d %H:%M:%S') Collected"
+          git pull origin main --rebase
+          git push origin main
+        fi
+
+    - name: Clean up logs
+      if: always()
       run: rm -rf logs
