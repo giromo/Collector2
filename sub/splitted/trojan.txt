@@ -1,7 +1,8 @@
-trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&security=tls&insecure=0&host=uk1.bw8848.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org#🌐سرور 8 | Jun-17 | MTSRVRS
-trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 33 | Jun-17 | MTSRVRS
-trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?type=tcp&security=tls&headerType=none&sni=38.54.13.189&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 34 | Jun-17 | MTSRVRS
-trojan://SoftNetConnect@185.204.168.149:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 35 | Jun-17 | MTSRVRS
+trojan://hF7uSJfeBPtSNXKtuYvTRNaBdGkkXHpKJfLRfbpaDWovomSL@3.8.238.251:443?path=%2Fuk1-uk1-gcjtze&security=tls&insecure=0&host=uk1.bw8848.org&type=ws&allowInsecure=0&sni=uk1.bw8848.org#🌐سرور 9 | Jun-17 | MTSRVRS
+trojan://SoftNetConnect@185.204.168.149:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1%2Ch3&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 18 | Jun-17 | MTSRVRS
+trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?allowInsecure=1&sni=www.lateralio.click#🌐سرور 30 | Jun-17 | MTSRVRS
+trojan://tUtK5TKdjxsPnOyritLtv8OQWHAK8f8yNR@130.94.94.15:443?type=tcp&security=tls&headerType=none&sni=130.94.94.15&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 34 | Jun-17 | MTSRVRS
+trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?type=tcp&security=tls&headerType=none&sni=38.54.13.189&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 35 | Jun-17 | MTSRVRS
 trojan://BxceQaOe@18.163.84.233:11035?allowInsecure=1&sni=t.me/ripaojiedian%23@Hope_Net-join-us-on-Telegram#🌐سرور 69 | Jun-17 | MTSRVRS
 trojan://telegram-id-privatevpns@18.196.153.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 1582 | Jun-17 | MTSRVRS
 trojan://telegram-id-privatevpns@35.181.74.227:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 1583 | Jun-17 | MTSRVRS
@@ -57,7 +58,6 @@ trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ign
 trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@store.ubi.com:443?allowInsecure=1&ed=2048&eh=Sec-WebSocket-Protocol&host=jy.hhllfly.kdns.fr&path=%2F&sni=jy.hhllfly.kdns.fr&type=ws#🌐سرور 1633 | Jun-17 | MTSRVRS
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&sni=nextstepcareer.online#🌐سرور 1634 | Jun-17 | MTSRVRS
 trojan://auto@172.67.213.48:443?security=tls&sni=esetsecuritylicense2.wawafec355.workers.dev&type=ws&host=esetsecuritylicense2.wawafec355.workers.dev&path=%2F#🌐سرور 1635 | Jun-17 | MTSRVRS
-trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?allowInsecure=1&sni=www.lateralio.click#🌐سرور 1636 | Jun-17 | MTSRVRS
 trojan://8r%3C%5B9%27l6hAO%238ZQi@146.103.114.206:8443?path=%2FProxyMtAlpha&security=tls&insecure=0&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🌐سرور 1637 | Jun-17 | MTSRVRS
 trojan://SoftNetConnect@45.151.102.87:8443?security=reality&pbk=5FGOl7H4K-VOCZ48lIoizknLgL3Vn5FADs8bsCXKPW4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.yahoo.com&sid=ca14e14437#🌐سرور 1638 | Jun-17 | MTSRVRS
 trojan://bpb-trojan@www.speedtest.net:443?path=%2FtrWqTr0NddXyLOpy0S%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bpb-wORkER-paNel.pAGEs.DeV#🌐سرور 1639 | Jun-17 | MTSRVRS
