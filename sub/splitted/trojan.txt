@@ -1,8 +1,8 @@
-trojan://c-SRHpnT4DGR3W3W639LbOUKHYR.Ls71kU@144.31.55.10:10295?allowInsecure=1&fp=chrome&sni=www.spotwebs.click#🌐سرور 56 | Jun-19 | MTSRVRS
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🌐سرور 69 | Jun-19 | MTSRVRS
-trojan://SpDMjT=8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.56:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=79.108.162.56#🌐سرور 76 | Jun-19 | MTSRVRS
-trojan://MiTiVPN@45.131.4.118:443?alpn=http/1.1&fp=chrome&host=linkkon-w.ir&path=/ed=mitivpn&sni=linkkon-w.ir&type=ws%23%F0%9F%A7%A283@oneclickvpnkeys#🌐سرور 89 | Jun-19 | MTSRVRS
-trojan://BxceQaOe@18.163.84.233:11035?allowInsecure=1&sni=t.me/ripaojiedian%23@Hope_Net-join-us-on-Telegram#🌐سرور 1442 | Jun-19 | MTSRVRS
+trojan://c-SRHpnT4DGR3W3W639LbOUKHYR.Ls71kU@144.31.55.10:10295?allowInsecure=1&fp=chrome&sni=www.spotwebs.click#🌐سرور 64 | Jun-19 | MTSRVRS
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🌐سرور 81 | Jun-19 | MTSRVRS
+trojan://SpDMjT=8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.56:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=79.108.162.56#🌐سرور 91 | Jun-19 | MTSRVRS
+trojan://MiTiVPN@45.131.4.118:443?alpn=http/1.1&fp=chrome&host=linkkon-w.ir&path=/ed=mitivpn&sni=linkkon-w.ir&type=ws%23%F0%9F%A7%A283@oneclickvpnkeys#🌐سرور 1447 | Jun-19 | MTSRVRS
+trojan://BxceQaOe@18.163.84.233:11035?allowInsecure=1&sni=t.me/ripaojiedian%23@Hope_Net-join-us-on-Telegram#🌐سرور 1470 | Jun-19 | MTSRVRS
 trojan://MiTiVPN@104.21.18.41:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#🌐سرور 1615 | Jun-19 | MTSRVRS
 trojan://humanity@104.16.174.117:443?type=ws&security=tls&path=%2Fassignment&host=www.ignitelimit.com&sni=www.ignitelimit.com&insecure=0&allowInsecure=0#🌐سرور 1616 | Jun-19 | MTSRVRS
 trojan://telegram-id-directvpn@13.39.232.152:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 1617 | Jun-19 | MTSRVRS
