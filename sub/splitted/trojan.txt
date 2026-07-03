@@ -1,11 +1,10 @@
-trojan://PI36027154@pumped-eft.rooster465.autos:443#🌐سرور 3 | Jul-03 | MTSRVRS
+trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=0#🌐سرور 3 | Jul-03 | MTSRVRS
+trojan://PI36027154@pumped-eft.rooster465.autos:443#🌐سرور 4 | Jul-03 | MTSRVRS
 trojan://PI36027154@pumped-eft.rooster465.autos:443#🌐سرور 5 | Jul-03 | MTSRVRS
-trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=0#🌐سرور 7 | Jul-03 | MTSRVRS
+trojan://PI36027154@rich-mule.rooster465.autos:443?allowInsecure=1#🌐سرور 7 | Jul-03 | MTSRVRS
 trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#🌐سرور 8 | Jul-03 | MTSRVRS
-trojan://PI36027154@rich-mule.rooster465.autos:443?allowInsecure=1#🌐سرور 10 | Jul-03 | MTSRVRS
-trojan://PI36027154@tight-possum.rooster465.autos:443?allowInsecure=1#🌐سرور 16 | Jul-03 | MTSRVRS
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443#🌐سرور 19 | Jul-03 | MTSRVRS
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🌐سرور 20 | Jul-03 | MTSRVRS
+trojan://PI36027154@tight-possum.rooster465.autos:443?allowInsecure=1#🌐سرور 18 | Jul-03 | MTSRVRS
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&headerType=none&type=tcp#🌐سرور 23 | Jul-03 | MTSRVRS
 trojan://kZSruDyvxP@45.130.125.2:443?fp=firefox&host=sk.farxmode.ir&path=%2Fda&sni=sk.farxmode.ir&type=ws#🌐سرور 45 | Jul-03 | MTSRVRS
 trojan://f922fa0f-3311-4368-85ff-cf65e727c854@104.17.121.43:443?host=space.byu.id.yxls.eu.cc&path=%2Fbr-orcl&sni=space.byu.id.yxls.eu.cc&type=ws#🌐سرور 57 | Jul-03 | MTSRVRS
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🌐سرور 59 | Jul-03 | MTSRVRS
@@ -23,6 +22,7 @@ trojan://MiTiVPN@104.16.72.70:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🌐سرور 1656 | Jul-03 | MTSRVRS
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🌐سرور 1657 | Jul-03 | MTSRVRS
 trojan://MITIVPN@94.140.0.100:443?type=ws&security=tls&path=%2FMiTiVPN%3DUsa&host=95r.ir&sni=95r.ir&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#🌐سرور 1658 | Jul-03 | MTSRVRS
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443#🌐سرور 1659 | Jul-03 | MTSRVRS
 trojan://MiTiVPN@91.193.58.201:443?alpn=http%2F1.1&fp=firefox&host=Fl.App-Cloud.ir&path=%2FMiTiVPN%3DfL&sni=fl.App-Cloud.ir&type=ws#🌐سرور 1660 | Jul-03 | MTSRVRS
 trojan://MiTiVPN@199.181.197.176:443?path=%2Fcdn%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=1&sni=linkkon-w.ir#🌐سرور 1661 | Jul-03 | MTSRVRS
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#🌐سرور 1662 | Jul-03 | MTSRVRS
@@ -118,7 +118,6 @@ trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&insecure=0&
 trojan://humanity@45.130.125.32:443?pathه=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🌐سرور 1752 | Jul-03 | MTSRVRS
 trojan://telegram-id-privatevpns@18.195.103.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 1753 | Jul-03 | MTSRVRS
 trojan://bpb-trojan@www.speedtest.net:8443?path=%2FtrawQuYV0dBGjBNVXI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-WoRKeR-paNEl.PagEs.dEv#🌐سرور 1754 | Jul-03 | MTSRVRS
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&headerType=none&type=tcp#🌐سرور 1755 | Jul-03 | MTSRVRS
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌐سرور 1756 | Jul-03 | MTSRVRS
 trojan://MiTiVPN@45.131.4.118:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=firefox&type=ws&allowInsecure=0&sni=95r.ir#🌐سرور 1757 | Jul-03 | MTSRVRS
 trojan://MiTiVPN@104.16.72.41:443?path=%2FMiTiVPN%3DSe&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#🌐سرور 1758 | Jul-03 | MTSRVRS
@@ -292,6 +291,7 @@ trojan://tg-dns68@162.159.152.138:443?security=tls&sni=vip.putata.eu.org&type=ws
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?sni=cdn.qchwnd.moe#🌐سرور 1928 | Jul-03 | MTSRVRS
 trojan://%4D%69%54%69%56%50%4E@91.193.58.201:443?Telegram=@GozargahAzad@GozargahAzad@GozargahAzad@GozargahAzad@GozargahAzad@GozargahAzad@GozargahAzad&path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=95r.ir&fp=chrome&type=ws&allowInsecure=0&sni=95r.ir#🌐سرور 1929 | Jul-03 | MTSRVRS
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#🌐سرور 1930 | Jul-03 | MTSRVRS
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.138:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🌐سرور 1931 | Jul-03 | MTSRVRS
 trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=%2Fslowdns&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&insecure=0&allowInsecure=0#🌐سرور 1932 | Jul-03 | MTSRVRS
 trojan://Mitivpn@151.101.56.6:443?type=ws&security=tls&path=%2Fde%3Dmitivpn&host=4-4-3-mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=h2&fp=chrome&insecure=0&allowInsecure=0#🌐سرور 1933 | Jul-03 | MTSRVRS
 trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🌐سرور 1935 | Jul-03 | MTSRVRS
