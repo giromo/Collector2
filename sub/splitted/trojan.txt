@@ -1,14 +1,14 @@
-trojan://XG59623478@singular-lark.rooster465.autos:443#🌐سرور 1 | Jul-11 | MTSRVRS
-trojan://XG59623478@singular-lark.rooster465.autos:443?allowInsecure=0&sni=singular-lark.rooster465.autos#🌐سرور 2 | Jul-11 | MTSRVRS
-trojan://HW85960347@happy-monkfish.rooster465.autos:443?allowInsecure=0#🌐سرور 5 | Jul-11 | MTSRVRS
-trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#🌐سرور 6 | Jul-11 | MTSRVRS
+trojan://HW85960347@happy-monkfish.rooster465.autos:443?allowInsecure=0#🌐سرور 3 | Jul-11 | MTSRVRS
+trojan://XG59623478@singular-lark.rooster465.autos:443#🌐سرور 4 | Jul-11 | MTSRVRS
+trojan://PI36027154@ethical-raccoon.rooster465.autos:443?allowInsecure=0#🌐سرور 7 | Jul-11 | MTSRVRS
 trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#🌐سرور 9 | Jul-11 | MTSRVRS
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🌐سرور 15 | Jul-11 | MTSRVRS
-trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=1&sni=concise-buck.rooster465.autos#🌐سرور 16 | Jul-11 | MTSRVRS
-trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=grape-ataturk-tr.yyuyy.com#🌐سرور 17 | Jul-11 | MTSRVRS
-trojan://XG59623478@intense-basilisk.rooster465.autos:443?allowInsecure=0&sni=intense-basilisk.rooster465.autos#🌐سرور 18 | Jul-11 | MTSRVRS
-trojan://BxceQaOe@18.163.84.233:11035?allowInsecure=1&sni=t.me/ripaojiedian%23@Hope_Net-join-us-on-Telegram#🌐سرور 41 | Jul-11 | MTSRVRS
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0#🌐سرور 44 | Jul-11 | MTSRVRS
+trojan://XG59623478@concise-buck.rooster465.autos:443?allowInsecure=1&sni=concise-buck.rooster465.autos#🌐سرور 10 | Jul-11 | MTSRVRS
+trojan://XG59623478@singular-lark.rooster465.autos:443?allowInsecure=0&sni=singular-lark.rooster465.autos#🌐سرور 11 | Jul-11 | MTSRVRS
+trojan://XG59623478@intense-basilisk.rooster465.autos:443?allowInsecure=0&sni=intense-basilisk.rooster465.autos#🌐سرور 20 | Jul-11 | MTSRVRS
+trojan://BxceQaOe@18.163.84.233:11035?allowInsecure=1&sni=t.me/ripaojiedian%23@Hope_Net-join-us-on-Telegram#🌐سرور 40 | Jul-11 | MTSRVRS
+trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0#🌐سرور 43 | Jul-11 | MTSRVRS
+trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dnl&security=tls&alpn=http%2F1.1&insecure=1&host=n--l-l.MaQror.ir&fp=chrome&type=ws&allowInsecure=1&sni=nlll-lls-e.MaQror.ir#🌐سرور 941 | Jul-11 | MTSRVRS
+trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0#🌐سرور 1455 | Jul-11 | MTSRVRS
 trojan://humanity@45.130.125.32:443?pathه=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🌐سرور 1464 | Jul-11 | MTSRVRS
 trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#🌐سرور 1465 | Jul-11 | MTSRVRS
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🌐سرور 1466 | Jul-11 | MTSRVRS
@@ -24,7 +24,6 @@ trojan://1N2o5bPwwA@151.101.34.144:443?mode=packet-up&path=%2Fda&security=tls&al
 trojan://%4D%69%54%69%56%50%4E@167.82.101.252:443?path=%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%2F---%40%4D%69%54%69%56%50%4E%3Dsw&security=tls&alpn=http%2F1.1&insecure=1&host=%6D%69%74%69%76%70%6E-%6D%69%74%69%76%70%6E-%6D%69%74%69%76%70%6E.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#🌐سرور 1476 | Jul-11 | MTSRVRS
 trojan://MITIVPN@209.208.227.208:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&host=my-usa-ol.MaQRor.Ir&sni=UsAa-bUs.MaQRor.Ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 1477 | Jul-11 | MTSRVRS
 trojan://MiTiVPN@162.159.38.200:443?path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=fLL&security=tls&alpn=http/1.1&insecure=0&host=f--ls-Fl.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=fl-o--7-flla.App-Cloud.ir#🌐سرور 1478 | Jul-11 | MTSRVRS
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0#🌐سرور 1479 | Jul-11 | MTSRVRS
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌐سرور 1480 | Jul-11 | MTSRVRS
 trojan://MiTiVPN@89.116.250.86:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Df--l&host=f--ls-Fl.MaQRor.Ir&sni=fl-o--7-flla.MaQRor.Ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 1481 | Jul-11 | MTSRVRS
 trojan://MITIVPN@104.26.15.137:443?path=%2FMiTiVPN%3DUSA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir#🌐سرور 1482 | Jul-11 | MTSRVRS
@@ -60,6 +59,7 @@ trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?security=tls&sni=ww
 trojan://Mitivpn@167.82.101.251:443?path=%2Fde&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#🌐سرور 1513 | Jul-11 | MTSRVRS
 trojan://MiTiVPN@104.16.71.48:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DN--l&security=tls&alpn=http%2F1.1&insecure=1&host=n-la-nbad.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=nland-o-nl.MaQRor.Ir#🌐سرور 1515 | Jul-11 | MTSRVRS
 trojan://4aFbwy5BHa@151.101.34.144:443?mode=packet-up&path=%2Fdb&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=edgezvx.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=global.fastly.com#🌐سرور 1516 | Jul-11 | MTSRVRS
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.149:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🌐سرور 1517 | Jul-11 | MTSRVRS
 trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&fp=chrome&type=ws&sni=www.calmloud.com#🌐سرور 1518 | Jul-11 | MTSRVRS
 trojan://mitivpn@199.232.78.158:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#🌐سرور 1519 | Jul-11 | MTSRVRS
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DNL&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#🌐سرور 1520 | Jul-11 | MTSRVRS
@@ -221,6 +221,7 @@ trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fwor
 trojan://humanity@45.130.125.96:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&type=ws&host=www.calmloud.com&path=%2Fassignment#🌐سرور 1677 | Jul-11 | MTSRVRS
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#🌐سرور 1678 | Jul-11 | MTSRVRS
 trojan://humanity@104.18.152.229:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#🌐سرور 1679 | Jul-11 | MTSRVRS
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=grape-ataturk-tr.yyuyy.com#🌐سرور 1681 | Jul-11 | MTSRVRS
 trojan://humanity@104.18.152.225:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&type=ws&sni=www.ignitelimit.com#🌐سرور 1682 | Jul-11 | MTSRVRS
 trojan://a1e12464-9208-4583-bd21-ab6889fdd242@139.177.189.122:443?sni=cdn.qchwnd.moe#🌐سرور 1683 | Jul-11 | MTSRVRS
 trojan://MiTiVPN@104.16.71.48:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DN--l&host=n-la-nbad.MaQRor.Ir&sni=nland-o-nl.MaQRor.Ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 1684 | Jul-11 | MTSRVRS
@@ -386,7 +387,6 @@ trojan://666@104.17.158.12:443?host=gdurt.ia6o.2s1.hh.penqiask.ccwu.cc&path=%2Fg
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#🌐سرور 1846 | Jul-11 | MTSRVRS
 trojan://humanity@2.144.22.10:40443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=1&sni=www.creationlong.org#🌐سرور 1847 | Jul-11 | MTSRVRS
 trojan://MiTiVPN@104.16.149.244:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DS--W-S&host=bw--ivsb-b--vvbcs.App-CloUd.IR&sni=Swowidb-ueu-oe.App-CloUd.IR&alpn=h2%2Chttp%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 1848 | Jul-11 | MTSRVRS
-trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dnl&security=tls&alpn=http%2F1.1&insecure=1&host=n--l-l.MaQror.ir&fp=chrome&type=ws&allowInsecure=1&sni=nlll-lls-e.MaQror.ir#🌐سرور 1849 | Jul-11 | MTSRVRS
 trojan://MiTiVPN@91.193.58.201:443?path=%2FMiTiVPN%3DfL&security=tls&alpn=http%2F1.1&insecure=0&host=PioHosting.ir&fp=firefox&type=ws&allowInsecure=0&sni=PioHosting.ir#🌐سرور 1850 | Jul-11 | MTSRVRS
 trojan://MiTiVPN@45.130.125.2:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Dsw&security=tls&alpn=http%2F1.1&insecure=0&host=sw-www-w.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=bsw-wwlslw-w.Maqror.ir#🌐سرور 1851 | Jul-11 | MTSRVRS
 trojan://6c862415-30d2-4813-8e49-42e99a0bd415@104.16.72.70:443?path=%2Fus-gllc&security=tls&insecure=0&host=space.byu.id.yxls.eu.cc&type=ws&allowInsecure=0&sni=space.byu.id.yxls.eu.cc#🌐سرور 1852 | Jul-11 | MTSRVRS
