@@ -1,8 +1,8 @@
-trojan://BxceQaOe@119.246.1.143:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#🌐سرور 12 | Aug-01 | MTSRVRS
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=de.catxstar.com#🌐سرور 29 | Aug-01 | MTSRVRS
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&fp=chrome#🌐سرور 31 | Aug-01 | MTSRVRS
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com#🌐سرور 32 | Aug-01 | MTSRVRS
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&fp=chrome#🌐سرور 33 | Aug-01 | MTSRVRS
+trojan://BxceQaOe@119.246.1.143:443?type=tcp&security=tls&headerType=none&insecure=1&allowInsecure=1#🌐سرور 18 | Aug-01 | MTSRVRS
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@Hkdcrtc-e.catcat321.com:20041?allowInsecure=1&sni=de.catxstar.com#🌐سرور 36 | Aug-01 | MTSRVRS
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=de.catxstar.com#🌐سرور 37 | Aug-01 | MTSRVRS
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&fp=chrome#🌐سرور 38 | Aug-01 | MTSRVRS
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@hkdcrtc-e.catcat321.com:20041?allowInsecure=1&fp=chrome#🌐سرور 40 | Aug-01 | MTSRVRS
 trojan://521314@wangcai.yunzhongzhuan.com:443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#🌐سرور 56 | Aug-01 | MTSRVRS
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#🌐سرور 1840 | Aug-01 | MTSRVRS
 trojan://humanity@162.159.17.189:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2Fassignment#🌐سرور 1841 | Aug-01 | MTSRVRS
