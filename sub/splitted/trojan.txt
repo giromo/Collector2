@@ -1,7 +1,7 @@
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#🌐سرور 8 | Aug-23 | MTSRVRS
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#🌐سرور 13 | Aug-23 | MTSRVRS
-trojan://fg20mtCFHy@londhtc.southbyte.xyz:5448?allowInsecure=0&sni=londhtc.southbyte.xyz#🌐سرور 24 | Aug-23 | MTSRVRS
-trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 95 | Aug-23 | MTSRVRS
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#🌐سرور 9 | Aug-23 | MTSRVRS
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@us01.duotg.top:46292?allowInsecure=1&sni=www.microsoft.com#🌐سرور 12 | Aug-23 | MTSRVRS
+trojan://fg20mtCFHy@londhtc.southbyte.xyz:5448?allowInsecure=0&sni=londhtc.southbyte.xyz#🌐سرور 30 | Aug-23 | MTSRVRS
+trojan://humanity@165.215.250.14:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 94 | Aug-23 | MTSRVRS
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🌐سرور 1842 | Aug-23 | MTSRVRS
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#🌐سرور 1843 | Aug-23 | MTSRVRS
 trojan://mitivpn@188.114.97.6:443?path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn.my.de.www.gamingdll.ir#🌐سرور 1844 | Aug-23 | MTSRVRS
