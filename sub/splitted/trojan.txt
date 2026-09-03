@@ -1,10 +1,10 @@
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2F1.1&fp=qq#🌐سرور 17 | Sep-04 | MTSRVRS
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2F1.1&fp=qq#🌐سرور 18 | Sep-04 | MTSRVRS
-trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174#🌐سرور 19 | Sep-04 | MTSRVRS
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#🌐سرور 31 | Sep-04 | MTSRVRS
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=us01.duotg.top#🌐سرور 32 | Sep-04 | MTSRVRS
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:38261?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#🌐سرور 33 | Sep-04 | MTSRVRS
-trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:20065?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#🌐سرور 35 | Sep-04 | MTSRVRS
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2F1.1&fp=qq#🌐سرور 19 | Sep-04 | MTSRVRS
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174?alpn=http%2F1.1&fp=qq#🌐سرور 20 | Sep-04 | MTSRVRS
+trojan://tripitropa444@xn--1ugy405pdua.gayvibe.dpdns.org:2174#🌐سرور 30 | Sep-04 | MTSRVRS
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:46292?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#🌐سرور 34 | Sep-04 | MTSRVRS
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:38261?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#🌐سرور 35 | Sep-04 | MTSRVRS
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:20065?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.microsoft.com#🌐سرور 36 | Sep-04 | MTSRVRS
+trojan://02cd3bac-2a78-4dbb-82b9-6b64084ddd8e@107.150.105.84:54657?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=us01.duotg.top#🌐سرور 38 | Sep-04 | MTSRVRS
 trojan://humanity@141.193.213.11:443?security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&type=ws&host=www.calmloud.com&path=%2Fassignment#🌐سرور 1894 | Sep-04 | MTSRVRS
 trojan://MITIVPN@151.101.56.7:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=s4s-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 1895 | Sep-04 | MTSRVRS
 trojan://MiTiVPN@199.232.78.150:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FSG---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=s4s-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#🌐سرور 1896 | Sep-04 | MTSRVRS
